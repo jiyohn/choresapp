@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_route_permission">
+    <sys_ux_route_permission action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <groups/>
+        <roles/>
+        <route display_value="Chores Dashboard">1e21868a2fa360106856578b2799b629</route>
+        <sys_class_name>sys_ux_route_permission</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 17:32:41</sys_created_on>
+        <sys_id>9221868a2fa360106856578b2799b62f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_ux_route_permission_9221868a2fa360106856578b2799b62f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-17 17:53:24</sys_updated_on>
+        <type>write</type>
+        <users>73ad7ce52f6760106856578b2799b65b,1cddfce52f6760106856578b2799b628</users>
+    </sys_ux_route_permission>
+</record_update>

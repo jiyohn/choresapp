@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>status</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-19 01:56:46</sys_created_on>
+        <sys_id>4d1e38622fe7a0106856578b2799b63d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>status</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_ui_policy_action_4d1e38622fe7a0106856578b2799b63d</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-19 01:56:46</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+        <ui_policy display_value="Status field Read-only if status is Cancelled or Incomplete">e0bdf0622fe7a0106856578b2799b651</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="DELETE">
+        <action_name>Chore status updated to In progress</action_name>
+        <active>true</active>
+        <client>true</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments/>
+        <condition>current.status == 1</condition>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style>primary</form_style>
+        <hint/>
+        <isolate_script>false</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <messages/>
+        <name>Start chore</name>
+        <onclick>onClick(g_form)</onclick>
+        <order>100</order>
+        <script><![CDATA[function onClick(g_form) {
+g_form.setValue(status, "2 - In progress");
+	current.status == 2;
+	current.update;
+	alert('Get to work!');
+return;
+}]]></script>
+        <show_insert>false</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-19 17:09:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>406d80722fe320106856578b2799b6fb</sys_id>
+        <sys_mod_count>65</sys_mod_count>
+        <sys_name>Start chore</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_ui_action_406d80722fe320106856578b2799b6fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-19 18:46:56</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>true</ui16_compatible>
+    </sys_ui_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>3268e761dbd68050b847ac44d496191f</instance_id>
+        <instance_name>dev96744</instance_name>
+        <name>sys_ui_action_406d80722fe320106856578b2799b6fb</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name&gt;Chore status updated to In progress&lt;/action_name&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;true&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition&gt;current.status == 1&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;false&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style&gt;primary&lt;/form_style&gt;&lt;hint/&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;messages/&gt;&lt;name&gt;Start chore&lt;/name&gt;&lt;onclick&gt;onClick(g_form)&lt;/onclick&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[function onClick(g_form) {
+g_form.setValue(status, "2 - In progress");
+	current.status == 2;
+	current.update;
+	alert('Get to work!');
+return;
+}]]&gt;&lt;/script&gt;&lt;show_insert&gt;false&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-04-19 17:09:07&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;406d80722fe320106856578b2799b6fb&lt;/sys_id&gt;&lt;sys_mod_count&gt;65&lt;/sys_mod_count&gt;&lt;sys_name&gt;Start chore&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Family Chores" source="x_604375_family_ch"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Family Chores"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_406d80722fe320106856578b2799b6fb&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-04-19 18:46:56&lt;/sys_updated_on&gt;&lt;table&gt;x_604375_family_ch_chore_assignments&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;true&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>907897825</payload_hash>
+        <record_name>Start chore</record_name>
+        <reverted_from/>
+        <source>a7f6aeb52fe720106856578b2799b6fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-19 18:46:56</sys_created_on>
+        <sys_id>d955ecf22f2720106856578b2799b6b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178eb74fdc10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-19 18:46:56</sys_updated_on>
+        <type>UI Action</type>
+        <update_guid>1555ecf26c272010ecdd96a5c80437b7</update_guid>
+        <update_guid_history>1555ecf26c272010ecdd96a5c80437b7:907897825,bb35ecf232272010136c7ecb740a5512:1089875415,5f2528f2752720109b91dfa5364504d6:234343699,ebf468f2b7272010f4a9773b2ad0c580:1450309026,62d468f2ad2720106226a05970eea519:1622091006,8fb420f23d272010a76d61640f9563c1:-2069892941,ae1468b22f2720102aaa1ece6fd87f53:-857328923,d0f32cb2552720100c02574ab00733cd:1944093606,18f260b2f02720108c521b87cf3204ad:-1574404146,06d22c7290272010b616b28de351e52b:1025110913,54822472dd272010abb21b8a88b94061:-31952159,43622472d127201051728b026158b497:1834427773,6de1a0723b2720107d6925adbb4bcd6f:-1972100361,3cc12832c32720104e2e71f8cbbdc7be:336132781,746164326c27201079e1bcb501f3cec7:1517296363,3111683210272010fc0884abe5d0e758:1015192,77f064323e272010047ac1051e5396b4:1190724887,1ec0e032e8272010506bbae1c8067919:1015192,96a0a0325a2720106cbdbda5a654f101:1807681430,b27064fef9e320100c49a0edb4185ad6:1849482665,313064fedee32010f5901b587d36105b:697546740,0c10a0fe29e32010b3d0c0e1619d38fb:1185534518,91ef94fec5e32010ee60e7609a93d438:-1188675146,0fbf14fee3e32010303937bce8220308:-1780175326,9e9f1cbedae32010f04d537f2834148d:1969107935,035f987e0fe32010fa9463a7d1a755b9:-963627824,c24f1cbe11e320108e5f136c323c1abf:-2049536769,4c3f14be31e3201013034c363acb4dca:-194853703,87ce14be4fe3201090be23ac4dda3ac5:-1553304532,b5ae14be56e32010aa8050276668e9c0:1579496775,ce7edc7ea7e32010debb1ceb77dea16c:983630506,3b2e987e85e32010015878f78ce96ee7:151096144,b0ed907e63e3201000477e7bfc157c86:-939681701,40cd187ee5e32010c1f689941d86ce9c:-959614410,979d107e31e32010f2d363d994cf9e21:1318672464,e94d943e89e3201041864c1125a52993:-761873248,471ddc3ee5e32010f65f06e9eabd64b8:1007145113,faac903ed7e32010f20bed45e45cd86b:-778749637,cf6c943ecce320104d2d5251be2efde5:-1076641255,381c903e73e3201036153382e3a74d66:-1781979988,57dbdcfa3be32010459ff0429f482995:-708993342,5c8b583a2be3201057f2cf0d61eaf063:881823389,add6943a09e320108f509144854b7778:401232449,2f96503a8be320103cd90406b77311cb:-1115571777,ee3690f67ce32010d59b3ebbe32ef1c3:993994815,8f1610f61be32010ddad5b1bb10ccef4:1229451032,cbe554f618e32010799e69cd5fda46cc:1826918440,1e4510f65fe32010451facc0b154495c:-898739887,3b15d4b600e32010df40b496a4a9cd66:2068970416,cdf49cb605e320100738feab28200360:25397999,8794d8b6bae3201039897252298e91ec:-734542929,206494b6e1e32010ae7a0a45e772499b:-1640197591,3d3494b6b0e32010c7e09959addae519:-318951695,062490b6f8e320107d59e05de3e28090:-484535670,81149876d8e320109fff6ffb18178fb4:1979394661,f9f39436eae3201098cdc897d6b7eecb:1568172037,2543503678e32010ca7060bb44fdbf4f:961690201,9423d4765de32010b0889b1d4d428aea:-123657298,5a61d8f2c8e3201026c40a929cd463cd:1317355120,d5c0d4f2f8e320106ec8fc0454ec2a5d:951082160,2b6098b23ae32010a723b02ad201178e:1389555772,bb2098b25ae32010d8fb102434e87f6a:1741982015,efbf48b26de320101286d7821befd8a2:45976073,b94f8cfe63a320103a33828e3f918d43:1590658987,2e2f04328be320103e32e42a52f2aaf2:-1241364088,ecfe803215e32010ef5ec725d8795896:-325932157</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-19 18:47:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action">sys_ui_action</sys_db_object>
+        <sys_id>168d9d4c15f14f5c9663ea7de9b4bf11</sys_id>
+        <sys_metadata>406d80722fe320106856578b2799b6fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Start chore</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent display_value="Chore Assignments">d1a132712f2b20106856578b2799b68f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_ui_action_406d80722fe320106856578b2799b6fb</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_406d80722fe320106856578b2799b6fb">d955ecf22f2720106856578b2799b6b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-19 18:47:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="points_available" table="x_604375_family_ch_chore_assignments" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>points_available</element>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>josh.yohn</sys_created_by>
+            <sys_created_on>2021-04-17 08:46:51</sys_created_on>
+            <sys_id>2fc8c04e2f2f20106856578b2799b619</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>points_available</sys_name>
+            <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+            <sys_update_name>sys_choice_x_604375_family_ch_chore_assignments_points_available</sys_update_name>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-17 08:46:51</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Vacuum</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:01:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02b05dce2fef20106856578b2799b6f7</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:34:42</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Take out trash</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 13:59:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24605dce2fef20106856578b2799b666</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:35:04</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Clean refrigerator/freezer</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:02:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b01d1022f2360106856578b2799b63d</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:34:03</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Prep laundry for washing</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:04:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d21d5022f2360106856578b2799b611</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-17 14:04:23</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Clean up toys (outside)</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:00:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34a09dca2fef20106856578b2799b616</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:34:38</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Empty Dishwasher</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:01:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>34b051022f2360106856578b2799b61d</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:34:33</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Wash vehicles</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:02:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f1195022f2360106856578b2799b69b</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:33:58</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Clean garage</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:02:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>542195022f2360106856578b2799b6d5</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-17 14:04:09</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Clean bathrooms</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:02:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63f015022f2360106856578b2799b6f1</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:33:54</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Put clothes away</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:02:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>741195022f2360106856578b2799b62b</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:33:49</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Mow/trim grass</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:02:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76f051022f2360106856578b2799b64c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:34:18</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Stack dishwasher</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 13:59:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>865019c22fef20106856578b2799b654</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:34:59</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Dust</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:00:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ea011022f2360106856578b2799b6de</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:34:29</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Clean entire room</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:02:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fb05dce2fef20106856578b2799b6f7</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:34:13</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Feed and water animals</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 13:59:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a040158e2fef20106856578b2799b6c9</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:34:55</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Clean up toys (inside)</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:00:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a070d9ce2fef20106856578b2799b632</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:34:24</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Clean up dog dirt</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:02:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5f051022f2360106856578b2799b64b</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:34:08</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Put dishes away</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>josh.yohn</sys_created_by>
+            <sys_created_on>2021-04-17 08:46:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3c8c04e2f2f20106856578b2799b619</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:34:50</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Start laundry/dryer</dependent_value>
+            <element>points_available</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-17 14:02:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f11195022f2360106856578b2799b62c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-19 02:33:45</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

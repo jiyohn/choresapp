@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-17 06:16:07</sys_created_on>
+        <sys_id>b7466bf92fab20106856578b2799b63d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_604375_family_ch_chore_points.x_604375_family_ch.chore_points_user</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_security_acl display_value="x_604375_family_ch_chore_points">e7466bf92fab20106856578b2799b63a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b7466bf92fab20106856578b2799b63d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-17 06:16:07</sys_updated_on>
+        <sys_user_role display_value="x_604375_family_ch.chore_points_user" name="x_604375_family_ch.chore_points_user">534667f92fab20106856578b2799b638</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>3268e761dbd68050b847ac44d496191f</instance_id>
+        <instance_name>dev96744</instance_name>
+        <name>sys_security_acl_role_b7466bf92fab20106856578b2799b63d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-17 06:16:07</sys_created_on><sys_id>b7466bf92fab20106856578b2799b63d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_604375_family_ch_chore_points.x_604375_family_ch.chore_points_user</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_security_acl display_value="x_604375_family_ch_chore_points">e7466bf92fab20106856578b2799b63a</sys_security_acl><sys_update_name>sys_security_acl_role_b7466bf92fab20106856578b2799b63d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-17 06:16:07</sys_updated_on><sys_user_role display_value="x_604375_family_ch.chore_points_user" name="x_604375_family_ch.chore_points_user">534667f92fab20106856578b2799b638</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1569824637</payload_hash>
+        <record_name>x_604375_family_ch_chore_points.x_604375_family_ch.chore_points_user</record_name>
+        <reverted_from/>
+        <source>a7f6aeb52fe720106856578b2799b6fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-17 06:16:07</sys_created_on>
+        <sys_id>33466bf92fab20106856578b2799b640</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178de78e3670000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-17 06:16:07</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>7b466bf9f2ab2010601af4216646153f</update_guid>
+        <update_guid_history>7b466bf9f2ab2010601af4216646153f:-1569824637</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_604375_family_ch_chore_points.x_604375_family_ch.chore_points_user">f5bebdc62fa360106856578b2799b6c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-17 17:22:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>3ddb45862aea42c09cf2107f8f9eace4</sys_id>
+        <sys_metadata>b7466bf92fab20106856578b2799b63d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_604375_family_ch_chore_points.x_604375_family_ch.chore_points_user</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent display_value="x_604375_family_ch_chore_points">e7466bf92fab20106856578b2799b63a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_b7466bf92fab20106856578b2799b63d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_b7466bf92fab20106856578b2799b63d">33466bf92fab20106856578b2799b640</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-17 17:22:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
