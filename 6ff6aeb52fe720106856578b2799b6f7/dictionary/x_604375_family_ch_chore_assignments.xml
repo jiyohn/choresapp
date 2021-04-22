@@ -4,6 +4,7 @@
         <element attributes="encode_utf8=false" label="Chore assigned" mandatory="true" max_length="300" name="chore_assigned" type="string"/>
         <element label="Notes" max_length="1000" name="chore_completion_criteria" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Day required" max_length="40" name="day_s_required" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="location" type="string"/>
         <element choice="1" choice_field="age_limit" dependent="chore_assigned" dependent_on_field="chore_assigned" label="Points available" mandatory="true" max_length="40" name="points_available" type="choice" use_dependent_field="true">
             <choice>
                 <element dependent_value="Vacuum" inactive_on_update="false" label="5" value="5"/>
