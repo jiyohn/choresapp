@@ -2,7 +2,7 @@
     <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
         <dashboard display_value="My System Administration">4dcfbd0a2fa360106856578b2799b655</dashboard>
         <home>false</home>
-        <homepage display_value="Family Chores">d9bff50a2fa360106856578b2799b66e</homepage>
+        <homepage display_value="">d9bff50a2fa360106856578b2799b66e</homepage>
         <order>1</order>
         <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>

@@ -42,7 +42,7 @@
         <update_guid_history>28f1318efa636010df2d13064ae28bf9:1356266144</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_604375_family_ch_chore_assignments.x_604375_family_ch.chore_assignments_user">590ec7c62fa760106856578b2799b6c1</sys_audit_delete>
+        <sys_audit_delete display_value="">590ec7c62fa760106856578b2799b6c1</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 23:08:30</sys_created_on>

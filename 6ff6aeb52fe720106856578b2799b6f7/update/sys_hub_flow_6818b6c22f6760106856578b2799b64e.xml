@@ -850,11 +850,11 @@
         <sys_created_on>2021-04-17 21:48:35</sys_created_on>
         <sys_id>36bb76862f6760106856578b2799b6b2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_6818b6c22f6760106856578b2799b64e_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-04-17 21:48:35</sys_updated_on>
         <url/>
@@ -873,11 +873,11 @@
         <sys_created_on>2021-04-17 21:48:36</sys_created_on>
         <sys_id>cfbb76862f6760106856578b2799b6be</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_6818b6c22f6760106856578b2799b64e_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-04-17 21:48:36</sys_updated_on>
         <url/>
@@ -896,11 +896,11 @@
         <sys_created_on>2021-04-17 21:48:35</sys_created_on>
         <sys_id>febb76862f6760106856578b2799b6b8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_6818b6c22f6760106856578b2799b64e_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-04-17 21:48:35</sys_updated_on>
         <url/>
@@ -1707,11 +1707,11 @@
         <sys_created_on>2021-04-17 22:15:26</sys_created_on>
         <sys_id>48e14bca2f6760106856578b2799b686</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_3fd14bca2f6760106856578b2799b633_table_name_en</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
         <sys_updated_on>2021-04-17 22:15:26</sys_updated_on>
         <url/>
@@ -1730,11 +1730,11 @@
         <sys_created_on>2021-04-17 22:15:25</sys_created_on>
         <sys_id>4ce14bca2f6760106856578b2799b656</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_3fd14bca2f6760106856578b2799b633_changed_fields_en</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
         <sys_updated_on>2021-04-17 22:15:25</sys_updated_on>
         <url/>
@@ -1753,11 +1753,11 @@
         <sys_created_on>2021-04-17 22:15:25</sys_created_on>
         <sys_id>b3d14bca2f6760106856578b2799b64c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_3fd14bca2f6760106856578b2799b633_current_en</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
         <sys_updated_on>2021-04-17 22:15:25</sys_updated_on>
         <url/>

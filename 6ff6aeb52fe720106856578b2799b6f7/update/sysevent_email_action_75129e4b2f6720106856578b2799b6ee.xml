@@ -5,7 +5,7 @@
         <active>false</active>
         <advanced_condition/>
         <affected_field_on_event/>
-        <category display_value="Chores Notifications" name="Chores Notifications">25952e922f23a0106856578b2799b6fb</category>
+        <category display_value="">25952e922f23a0106856578b2799b6fb</category>
         <collection>x_604375_family_ch_chore_assignments</collection>
         <condition table="x_604375_family_ch_chore_assignments">status=In progress^EQ<item display_value="2 - In progress" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="In progress"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
@@ -45,7 +45,7 @@
         <order>100</order>
         <push_message_only>false</push_message_only>
         <recipient_fields/>
-        <recipient_groups name="Yohn Family">3c19b4252f6760106856578b2799b6e5</recipient_groups>
+        <recipient_groups>3c19b4252f6760106856578b2799b6e5</recipient_groups>
         <recipient_users>6816f79cc0a8016401c5a33be04be441,73ad7ce52f6760106856578b2799b65b,1cddfce52f6760106856578b2799b628,b0edfce52f6760106856578b2799b62c,bfed3ce52f6760106856578b2799b693,c6fdb4a52f6760106856578b2799b6b7</recipient_users>
         <reply_to/>
         <send_self>true</send_self>

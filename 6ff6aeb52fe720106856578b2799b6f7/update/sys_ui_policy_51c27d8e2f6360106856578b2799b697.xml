@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
     <sys_ui_policy action="INSERT_OR_UPDATE">
         <active>true</active>
-        <conditions table="x_604375_family_ch_chore_assignments">assigned_to=b0edfce52f6760106856578b2799b62c^ORassigned_to=bfed3ce52f6760106856578b2799b693^ORassigned_to=c6fdb4a52f6760106856578b2799b6b7^ORassigned_to=73ad7ce52f6760106856578b2799b65b^ORassigned_to=1cddfce52f6760106856578b2799b628^EQ<item display_table="sys_user" display_value="Helena Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="false" value="b0edfce52f6760106856578b2799b62c"/>
-            <item display_table="sys_user" display_value="Hailey Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="bfed3ce52f6760106856578b2799b693"/>
-            <item display_table="sys_user" display_value="Mason Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="c6fdb4a52f6760106856578b2799b6b7"/>
-            <item display_table="sys_user" display_value="Josh Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="73ad7ce52f6760106856578b2799b65b"/>
-            <item display_table="sys_user" display_value="Nadine Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="1cddfce52f6760106856578b2799b628"/>
+        <conditions table="x_604375_family_ch_chore_assignments">assigned_to=b0edfce52f6760106856578b2799b62c^ORassigned_to=bfed3ce52f6760106856578b2799b693^ORassigned_to=c6fdb4a52f6760106856578b2799b6b7^ORassigned_to=73ad7ce52f6760106856578b2799b65b^ORassigned_to=1cddfce52f6760106856578b2799b628^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="false" value="b0edfce52f6760106856578b2799b62c"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="bfed3ce52f6760106856578b2799b693"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="c6fdb4a52f6760106856578b2799b6b7"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="73ad7ce52f6760106856578b2799b65b"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="1cddfce52f6760106856578b2799b628"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </conditions>
         <description/>

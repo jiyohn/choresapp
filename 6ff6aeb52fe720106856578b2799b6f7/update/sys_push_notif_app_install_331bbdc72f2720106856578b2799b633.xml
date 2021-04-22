@@ -16,7 +16,7 @@
         <sys_update_name>sys_push_notif_app_install_331bbdc72f2720106856578b2799b633</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
         <sys_updated_on>2021-04-20 19:40:14</sys_updated_on>
-        <sys_user_id display_value="Josh Yohn">73ad7ce52f6760106856578b2799b65b</sys_user_id>
+        <sys_user_id display_value="">73ad7ce52f6760106856578b2799b65b</sys_user_id>
         <token>595F49EAE068F687DC02A1A004D99890C9A362D0059A78EB1A63DAA2D6F61382</token>
     </sys_push_notif_app_install>
 </record_update>
