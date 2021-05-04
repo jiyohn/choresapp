@@ -6,13 +6,12 @@
         <css/>
         <display_field/>
         <field_list/>
-        <filter table="x_604375_family_ch_chore_assignments">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
-        </filter>
-        <glyph>star</glyph>
+        <filter/>
+        <glyph>flag</glyph>
         <id/>
-        <maximum_entries>25</maximum_entries>
-        <order>7</order>
-        <order_by>assigned_to</order_by>
+        <maximum_entries>5</maximum_entries>
+        <order>10</order>
+        <order_by/>
         <order_direction>asc</order_direction>
         <roles/>
         <short_description/>
@@ -21,21 +20,21 @@
         <sp_page/>
         <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
         <sys_class_name>sp_instance_table</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-04-17 21:05:50</sys_created_on>
-        <sys_id>2cf13a8e2f2760106856578b2799b623</sys_id>
-        <sys_mod_count>22</sys_mod_count>
-        <sys_name>Assigned Chores</sys_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 20:04:21</sys_created_on>
+        <sys_id>a1e6862f2f3720108bdc5e072799b6a5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Chores Repository</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_update_name>sp_instance_table_2cf13a8e2f2760106856578b2799b623</sys_update_name>
+        <sys_update_name>sp_instance_table_a1e6862f2f3720108bdc5e072799b6a5</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-04 20:05:43</sys_updated_on>
-        <table>x_604375_family_ch_chore_assignments</table>
-        <title>Assigned Chores</title>
+        <sys_updated_on>2021-05-04 20:05:55</sys_updated_on>
+        <table>x_604375_family_ch_chores</table>
+        <title>Chores Repository</title>
         <url/>
         <widget_parameters/>
     </sp_instance_table>
-    <sys_translated_text action="delete_multiple" query="documentkey=2cf13a8e2f2760106856578b2799b623"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=a1e6862f2f3720108bdc5e072799b6a5"/>
 </record_update>

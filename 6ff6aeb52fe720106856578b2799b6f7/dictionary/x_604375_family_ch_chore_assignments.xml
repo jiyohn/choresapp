@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Chore Assignments" max_length="40" name="x_604375_family_ch_chore_assignments" sizeclass="0" type="collection">
         <element attributes="encode_utf8=false" label="Assigned to" mandatory="true" max_length="32" name="assigned_to" reference="sys_user" reference_qual="roles=x_604375_family_ch.user^EQ" reference_qual_condition="roles=x_604375_family_ch.user^EQ" type="reference"/>
-        <element attributes="encode_utf8=false" hint="The name of the chore that is assigned" label="Chore assigned" mandatory="true" max_length="300" name="chore_assigned" type="string"/>
+        <element attributes="encode_utf8=false" display="true" hint="The name of the chore that is assigned" label="Chore assigned" mandatory="true" max_length="300" name="chore_assigned" type="string"/>
         <element label="Chore tasks" mandatory="true" max_length="1000" name="chore_completion_criteria" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Day required" mandatory="true" max_length="40" name="day_s_required" type="choice">
             <choice>
@@ -39,7 +39,7 @@
                 <element dependent_value="Start laundry/dryer" inactive_on_update="false" label="5" value="5"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="3" default="Assigned" label="Status" max_length="40" name="status" read_only="true" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Assigned" label="Status" max_length="40" name="status" type="string">
             <choice>
                 <element inactive_on_update="false" label="1 - Assigned" sequence="0" value="Assigned"/>
                 <element inactive_on_update="false" label="2 - In progress" sequence="1" value="In progress"/>
