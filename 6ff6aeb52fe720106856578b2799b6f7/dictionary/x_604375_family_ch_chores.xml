@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Family Chores" max_length="40" name="x_604375_family_ch_chores" sizeclass="21" type="collection">
+    <element label="Family Chores" max_length="40" name="x_604375_family_ch_chores" sizeclass="1" type="collection">
         <element default="true" label="Assignable" max_length="40" name="active" type="boolean"/>
         <element choice="1" label="Applies to (age)" mandatory="true" max_length="20" name="age_limit" type="choice">
             <choice>

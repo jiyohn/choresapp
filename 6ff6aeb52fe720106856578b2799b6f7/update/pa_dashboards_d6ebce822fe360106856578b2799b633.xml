@@ -12,7 +12,7 @@
         <name>System Administration</name>
         <no_tabs>false</no_tabs>
         <order/>
-        <owner display_value="Nadine Yohn">1cddfce52f6760106856578b2799b628</owner>
+        <owner display_value="">1cddfce52f6760106856578b2799b628</owner>
         <restrict_to_roles/>
         <role_override>true</role_override>
         <roles/>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions table="x_604375_family_ch_chore_assignments">assigned_to=6816f79cc0a8016401c5a33be04be441^ORassigned_to=fa7e90da2ff320108bdc5e072799b6b6^ORassigned_to=22ae14da2ff320108bdc5e072799b6d0^ORassigned_to=d4ce14da2ff320108bdc5e072799b6d3^ORassigned_to=5cde94da2ff320108bdc5e072799b635^EQ<item display_table="sys_user" display_value="Josh Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="false" value="6816f79cc0a8016401c5a33be04be441"/>
+            <item display_table="sys_user" display_value="Nadine Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="fa7e90da2ff320108bdc5e072799b6b6"/>
+            <item display_table="sys_user" display_value="Helena Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="22ae14da2ff320108bdc5e072799b6d0"/>
+            <item display_table="sys_user" display_value="Hailey Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="d4ce14da2ff320108bdc5e072799b6d3"/>
+            <item display_table="sys_user" display_value="Mason Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="5cde94da2ff320108bdc5e072799b635"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Chore Assignments Form Field Visibility (Non-admin)</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-17 16:30:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>51c27d8e2f6360106856578b2799b697</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Chore Assignments Form Field Visibility (Non-admin)</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_ui_policy_51c27d8e2f6360106856578b2799b697</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 14:00:04</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_ui_policy_51c27d8e2f6360106856578b2799b697</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="x_604375_family_ch_chore_assignments"&gt;assigned_to=6816f79cc0a8016401c5a33be04be441^ORassigned_to=fa7e90da2ff320108bdc5e072799b6b6^ORassigned_to=22ae14da2ff320108bdc5e072799b6d0^ORassigned_to=d4ce14da2ff320108bdc5e072799b6d3^ORassigned_to=5cde94da2ff320108bdc5e072799b635^EQ&lt;item display_table="sys_user" display_value="Josh Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="false" value="6816f79cc0a8016401c5a33be04be441"/&gt;&lt;item display_table="sys_user" display_value="Nadine Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="fa7e90da2ff320108bdc5e072799b6b6"/&gt;&lt;item display_table="sys_user" display_value="Helena Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="22ae14da2ff320108bdc5e072799b6d0"/&gt;&lt;item display_table="sys_user" display_value="Hailey Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="d4ce14da2ff320108bdc5e072799b6d3"/&gt;&lt;item display_table="sys_user" display_value="Mason Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="5cde94da2ff320108bdc5e072799b635"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Chore Assignments Form Field Visibility (Non-admin)&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-04-17 16:30:18&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;51c27d8e2f6360106856578b2799b697&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Chore Assignments Form Field Visibility (Non-admin)&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Family Chores" source="x_604375_family_ch"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Family Chores"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_51c27d8e2f6360106856578b2799b697&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;josh.yohn&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-04 14:00:04&lt;/sys_updated_on&gt;&lt;table&gt;x_604375_family_ch_chore_assignments&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2067783036</payload_hash>
+        <record_name>Chore Assignments Form Field Visibility (Non-admin)</record_name>
+        <reverted_from/>
+        <source>d54d50d62ff320108bdc5e072799b6f7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 14:00:04</sys_created_on>
+        <sys_id>6d83f8672f3320108bdc5e072799b6e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17937adc1450000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 14:00:04</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>e583f867f2332010a719dd7baff893e3</update_guid>
+        <update_guid_history>e583f867f2332010a719dd7baff893e3:-2067783036,771dd05aaef32010000efe1fdf09d4d2:-1173052898</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 15:54:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>00ef1b13d9dd4693802638a038f19e41</sys_id>
+        <sys_metadata>51c27d8e2f6360106856578b2799b697</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chore Assignments Form Field Visibility (Non-admin)</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent display_value="Chore Assignments">97fc181a2ff320108bdc5e072799b6d9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_51c27d8e2f6360106856578b2799b697</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_51c27d8e2f6360106856578b2799b697">6d83f8672f3320108bdc5e072799b6e3</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 15:54:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

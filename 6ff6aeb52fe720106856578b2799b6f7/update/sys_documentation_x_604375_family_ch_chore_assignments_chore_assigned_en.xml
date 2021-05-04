@@ -3,7 +3,7 @@
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>chore_assigned</element>
             <help/>
-            <hint/>
+            <hint>The name of the chore that is assigned</hint>
             <label>Chore assigned</label>
             <language>en</language>
             <name>x_604375_family_ch_chore_assignments</name>
@@ -11,15 +11,15 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-04-17 02:37:58</sys_created_on>
-            <sys_id>8c64f6f12f2b20106856578b2799b641</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>13fc181a2ff320108bdc5e072799b6e1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>Chore assigned</sys_name>
             <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
             <sys_policy/>
             <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
             <sys_update_name>sys_documentation_x_604375_family_ch_chore_assignments_chore_assigned_en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-17 02:37:58</sys_updated_on>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-05-04 15:17:22</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

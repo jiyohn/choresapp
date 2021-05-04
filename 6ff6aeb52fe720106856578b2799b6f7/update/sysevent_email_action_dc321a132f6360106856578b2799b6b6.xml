@@ -5,7 +5,7 @@
         <active>true</active>
         <advanced_condition/>
         <affected_field_on_event/>
-        <category display_value="Chores Notifications" name="Chores Notifications">25952e922f23a0106856578b2799b6fb</category>
+        <category display_value="">25952e922f23a0106856578b2799b6fb</category>
         <collection>x_604375_family_ch_chore_points</collection>
         <condition/>
         <content_type>text/html</content_type>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-04-22 20:44:48">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-05-04 16:54:28">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout display_value="layout_executive_dashboard">25426531c3123100eb79506adfba8f89</layout>
         <order/>
@@ -38,7 +38,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">17cdce062fe360106856578b2799b6ac</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">17cdce062fe360106856578b2799b6ac</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>1fcdce062fe360106856578b2799b6ac</sys_id>
@@ -49,7 +49,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">17cdce062fe360106856578b2799b6ac</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">17cdce062fe360106856578b2799b6ac</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>93cdce062fe360106856578b2799b6ad</sys_id>
@@ -60,7 +60,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">17cdce062fe360106856578b2799b6ac</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">17cdce062fe360106856578b2799b6ac</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>d7cdce062fe360106856578b2799b6ac</sys_id>
@@ -71,7 +71,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">17cdce062fe360106856578b2799b6ac</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">17cdce062fe360106856578b2799b6ac</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>dfcdce062fe360106856578b2799b6ac</sys_id>
@@ -96,7 +96,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>13cdce062fe360106856578b2799b6ac</sys_id>
@@ -107,7 +107,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>1bcdce062fe360106856578b2799b6ab</sys_id>
@@ -118,7 +118,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_real_time</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>1fcdce062fe360106856578b2799b6aa</sys_id>
@@ -129,7 +129,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>57cdce062fe360106856578b2799b6ab</sys_id>
@@ -140,7 +140,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_publish</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>5bcdce062fe360106856578b2799b6aa</sys_id>
@@ -151,7 +151,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>93cdce062fe360106856578b2799b6ab</sys_id>
@@ -162,7 +162,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>dbcdce062fe360106856578b2799b6ab</sys_id>
@@ -173,7 +173,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>dfcdce062fe360106856578b2799b6aa</sys_id>
@@ -198,7 +198,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">d3cd4e062fe360106856578b2799b6c4</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">d3cd4e062fe360106856578b2799b6c4</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>5bcd4e062fe360106856578b2799b6c4</sys_id>
@@ -209,7 +209,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">d3cd4e062fe360106856578b2799b6c4</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">d3cd4e062fe360106856578b2799b6c4</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>5fcdce062fe360106856578b2799b6a9</sys_id>
@@ -220,7 +220,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>current_page</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">d3cd4e062fe360106856578b2799b6c4</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">d3cd4e062fe360106856578b2799b6c4</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>93cdce062fe360106856578b2799b6aa</sys_id>
@@ -231,7 +231,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 2021-04-17 11:27:55">d3cd4e062fe360106856578b2799b6c4</portal_section>
+                        <portal_section display_value="Created 2021-04-17 13:27:55">d3cd4e062fe360106856578b2799b6c4</portal_section>
                         <sys_created_by>josh.yohn</sys_created_by>
                         <sys_created_on>2021-04-17 18:27:55</sys_created_on>
                         <sys_id>97cd4e062fe360106856578b2799b6c4</sys_id>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_604375_family_ch_chore_assignments</description>
+        <name>x_604375_family_ch_chore_assignments</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 16:26:12</sys_created_on>
+        <sys_id>90f1318e2f6360106856578b2799b6e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_604375_family_ch_chore_assignments</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_security_acl_90f1318e2f6360106856578b2799b6e8</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 16:26:12</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_security_acl_90f1318e2f6360106856578b2799b6e8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_604375_family_ch_chore_assignments</description>
+        <name>x_604375_family_ch_chore_assignments</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 16:26:12</sys_created_on>
+        <sys_id>90f1318e2f6360106856578b2799b6e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_604375_family_ch_chore_assignments</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_security_acl_90f1318e2f6360106856578b2799b6e8</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 16:26:12</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>-1058864269</payload_hash>
+        <record_name>x_604375_family_ch_chore_assignments</record_name>
+        <reverted_from/>
+        <source>ebfc581a2ff320108bdc5e072799b651</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-30 15:09:41</sys_created_on>
+        <sys_id>961d905a2ff320108bdc5e072799b627</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17923540bec0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-30 15:09:41</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>561d905a8af32010543f3bc03d0efb27</update_guid>
+        <update_guid_history>561d905a8af32010543f3bc03d0efb27:-1058864269</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 15:53:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>20a86a31c072421b8a7fd113a05a8499</sys_id>
+        <sys_metadata>90f1318e2f6360106856578b2799b6e8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_604375_family_ch_chore_assignments</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent display_value="x_604375_family_ch_chore_assignments">d3fc181a2ff320108bdc5e072799b6db</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_security_acl_90f1318e2f6360106856578b2799b6e8</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_90f1318e2f6360106856578b2799b6e8">961d905a2ff320108bdc5e072799b627</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 15:53:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

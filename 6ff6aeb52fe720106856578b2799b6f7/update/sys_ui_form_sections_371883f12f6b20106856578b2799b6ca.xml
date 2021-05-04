@@ -7,12 +7,12 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7b1883f12f6b20106856578b2799b6cd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_604375_family_ch_chore_assignments" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">371883f12f6b20106856578b2799b6ca</sys_ui_form>
             <sys_ui_section caption="Chore details" display_value="Chore details" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">f2c132712f2b20106856578b2799b696</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-17 04:04:14</sys_updated_on>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-05-04 15:13:07</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
@@ -21,26 +21,26 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>8414bccf2f2320106856578b2799b623</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_604375_family_ch_chore_assignments" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">371883f12f6b20106856578b2799b6ca</sys_ui_form>
-            <sys_ui_section caption="Completion criteria" display_value="Completion criteria" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">8414bccf2f2320106856578b2799b61e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-20 14:29:46</sys_updated_on>
+            <sys_ui_section caption="Additional Remarks" display_value="Additional Remarks" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">8414bccf2f2320106856578b2799b61e</sys_ui_section>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-05-04 15:13:07</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-04-20 14:28:18</sys_created_on>
+            <sys_created_by>josh.yohn</sys_created_by>
+            <sys_created_on>2021-05-04 15:27:44</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6eb378cf2f2320106856578b2799b6a5</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>a99789e72f7320108bdc5e072799b60a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_604375_family_ch_chore_assignments" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">371883f12f6b20106856578b2799b6ca</sys_ui_form>
-            <sys_ui_section caption="Verification" display_value="Verification" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">a2b378cf2f2320106856578b2799b6a3</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-20 14:29:46</sys_updated_on>
+            <sys_ui_section caption="Chore Completion" display_value="Chore Completion" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">a99749e72f7320108bdc5e072799b67e</sys_ui_section>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-05-04 15:27:44</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_604375_family_ch_chore_assignments</name>

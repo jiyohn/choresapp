@@ -5,13 +5,13 @@
         <active>false</active>
         <advanced_condition/>
         <affected_field_on_event/>
-        <category display_value="Chore Email Notifications" name="Chore Email Notifications">b678ee162f23a0106856578b2799b6bd</category>
+        <category display_value="">b678ee162f23a0106856578b2799b6bd</category>
         <collection>x_604375_family_ch_chore_assignments</collection>
-        <condition table="x_604375_family_ch_chore_assignments">assigned_to=73ad7ce52f6760106856578b2799b65b^ORassigned_to=1cddfce52f6760106856578b2799b628^ORassigned_to=b0edfce52f6760106856578b2799b62c^ORassigned_to=bfed3ce52f6760106856578b2799b693^ORassigned_to=c6fdb4a52f6760106856578b2799b6b7^statusCHANGESTOAccepted^ORstatusCHANGESTOIn progress^ORstatusCHANGESTOIncomplete^ORstatusCHANGESTOCancelled^EQ<item display_table="sys_user" display_value="Josh Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="false" value="73ad7ce52f6760106856578b2799b65b"/>
-            <item display_table="sys_user" display_value="Nadine Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="1cddfce52f6760106856578b2799b628"/>
-            <item display_table="sys_user" display_value="Helena Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="b0edfce52f6760106856578b2799b62c"/>
-            <item display_table="sys_user" display_value="Hailey Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="bfed3ce52f6760106856578b2799b693"/>
-            <item display_table="sys_user" display_value="Mason Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="c6fdb4a52f6760106856578b2799b6b7"/>
+        <condition table="x_604375_family_ch_chore_assignments">assigned_to=6816f79cc0a8016401c5a33be04be441^ORassigned_to=1cddfce52f6760106856578b2799b628^ORassigned_to=b0edfce52f6760106856578b2799b62c^ORassigned_to=bfed3ce52f6760106856578b2799b693^ORassigned_to=c6fdb4a52f6760106856578b2799b6b7^statusCHANGESTOAccepted^ORstatusCHANGESTOIn progress^ORstatusCHANGESTOIncomplete^ORstatusCHANGESTOCancelled^EQ<item display_table="sys_user" display_value="Josh Yohn" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="false" value="6816f79cc0a8016401c5a33be04be441"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="1cddfce52f6760106856578b2799b628"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="b0edfce52f6760106856578b2799b62c"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="bfed3ce52f6760106856578b2799b693"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="true" value="c6fdb4a52f6760106856578b2799b6b7"/>
             <item display_value="Accepted" endquery="false" field="status" goto="false" newquery="false" operator="CHANGESTO" or="false" value="Accepted"/>
             <item display_value="2 - In progress" endquery="false" field="status" goto="false" newquery="false" operator="CHANGESTO" or="true" value="In progress"/>
             <item display_value="4 - Incomplete" endquery="false" field="status" goto="false" newquery="false" operator="CHANGESTO" or="true" value="Incomplete"/>

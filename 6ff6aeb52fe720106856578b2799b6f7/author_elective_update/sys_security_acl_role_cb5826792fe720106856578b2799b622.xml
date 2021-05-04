@@ -42,7 +42,7 @@
         <update_guid_history>9f582679aae72010c0d77cb104940c24:-1660335877</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_604375_family_ch_chores.x_604375_family_ch.chores_user">fcba22f92fe720106856578b2799b69c</sys_audit_delete>
+        <sys_audit_delete display_value="">fcba22f92fe720106856578b2799b69c</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 01:55:42</sys_created_on>

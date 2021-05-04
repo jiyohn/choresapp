@@ -6,7 +6,7 @@
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice/>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
         <column_label>Day required</column_label>
@@ -27,13 +27,13 @@
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
-        <mandatory>false</mandatory>
+        <internal_type display_value="Choice">choice</internal_type>
+        <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_604375_family_ch_chore_assignments</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 13:34:18</sys_created_on>
-        <sys_id>c38a7aaf2f6f60106856578b2799b656</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_id>d3fc181a2ff320108bdc5e072799b6e3</sys_id>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Day required</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_dictionary_x_604375_family_ch_chore_assignments_day_s_required</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-22 15:10:35</sys_updated_on>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 16:24:28</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

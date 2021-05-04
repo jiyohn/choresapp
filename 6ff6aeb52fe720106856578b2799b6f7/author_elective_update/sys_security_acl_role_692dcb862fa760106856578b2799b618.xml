@@ -42,7 +42,7 @@
         <update_guid_history>f04dcb8620a760108497686951b392db:-1319502043</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_604375_family_ch_chore_assignments.x_604375_family_ch.chores_user">229d87c62fa760106856578b2799b65f</sys_audit_delete>
+        <sys_audit_delete display_value="">229d87c62fa760106856578b2799b65f</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 23:06:40</sys_created_on>
@@ -52,7 +52,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_604375_family_ch_chore_assignments.x_604375_family_ch.chores_user</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
-        <sys_parent display_value="x_604375_family_ch_chore_assignments">14f1318e2f6360106856578b2799b6ee</sys_parent>
+        <sys_parent display_value="">14f1318e2f6360106856578b2799b6ee</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>

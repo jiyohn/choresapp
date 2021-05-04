@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_push_action_instance">
     <sys_sg_push_action_instance action="INSERT_OR_UPDATE">
-        <button display_value="Complete Chore">4f49c6832f6720106856578b2799b609</button>
+        <button display_value="">4f49c6832f6720106856578b2799b609</button>
         <push_action display_value="Acknowledge">9ed4d398b703001008746b91de11a931</push_action>
         <push_notification/>
         <sys_class_name>sys_sg_push_action_instance</sys_class_name>
