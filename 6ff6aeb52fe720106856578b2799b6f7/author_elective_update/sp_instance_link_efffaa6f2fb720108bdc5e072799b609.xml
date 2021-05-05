@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>info</color>
+        <css/>
+        <glyph>calendar-check-o</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">ee296ee72fb720108bdc5e072799b6b8</sp_column>
+        <sp_page display_value="chores_in_progress">e940766f2fb720108bdc5e072799b640</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 23:03:53</sys_created_on>
+        <sys_id>efffaa6f2fb720108bdc5e072799b609</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>View Chores In Progress</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sp_instance_link_efffaa6f2fb720108bdc5e072799b609</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 23:24:35</sys_updated_on>
+        <title>View Chores In Progress</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=efffaa6f2fb720108bdc5e072799b609"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sp_instance_link_efffaa6f2fb720108bdc5e072799b609</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;info&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;calendar-check-o&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;ee296ee72fb720108bdc5e072799b6b8&lt;/sp_column&gt;&lt;sp_page display_value="chores_in_progress"&gt;e940766f2fb720108bdc5e072799b640&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;josh.yohn&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-04 23:03:53&lt;/sys_created_on&gt;&lt;sys_id&gt;efffaa6f2fb720108bdc5e072799b609&lt;/sys_id&gt;&lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;&lt;sys_name&gt;View Chores In Progress&lt;/sys_name&gt;&lt;sys_package display_value="Family Chores" source="x_604375_family_ch"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Family Chores"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_efffaa6f2fb720108bdc5e072799b609&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;josh.yohn&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-04 23:24:35&lt;/sys_updated_on&gt;&lt;title&gt;View Chores In Progress&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=efffaa6f2fb720108bdc5e072799b609"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>936290648</payload_hash>
+        <record_name>View Chores In Progress</record_name>
+        <reverted_from/>
+        <source>006196272f7720108bdc5e072799b6b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 23:24:35</sys_created_on>
+        <sys_id>f2b47a632ff720108bdc5e072799b694</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17939b293c20000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 23:24:35</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>3eb47a6320f72010b63c3d353ddae393</update_guid>
+        <update_guid_history>3eb47a6320f72010b63c3d353ddae393:936290648,4734b263eff720100261221752eff8df:-1526484786,d3e3be23e1f720109192ba0acc15ac38:-631052534,11e3fa23a2f72010edc737d8227a8deb:-1189890153,ecc3beefc9b720106f0337695a998b4f:-426978601,4030f66f3ab72010ebb055aa0039516d:-1091378155,a7ffaa6fdcb720105287bde0637ca10b:1803809670</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="View Chores In Progress">d31836272ff720108bdc5e072799b662</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 23:39:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>880ac7ed527d42b08d0a556ceb166151</sys_id>
+        <sys_metadata>efffaa6f2fb720108bdc5e072799b609</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>View Chores In Progress</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sp_instance_link_efffaa6f2fb720108bdc5e072799b609</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_efffaa6f2fb720108bdc5e072799b609">f2b47a632ff720108bdc5e072799b694</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 23:39:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

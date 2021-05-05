@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <display_field/>
+        <field_list>chore_name,day_s_required,age_limit</field_list>
+        <filter/>
+        <glyph>flag</glyph>
+        <id/>
+        <maximum_entries>15</maximum_entries>
+        <order>3</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">4d1f5aef2f7720108bdc5e072799b6f9</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Chores Repository">72d012632f7720108bdc5e072799b61e</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 20:54:29</sys_created_on>
+        <sys_id>dc6216672f7720108bdc5e072799b644</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>Chores Repository</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sp_instance_table_dc6216672f7720108bdc5e072799b644</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 22:00:32</sys_updated_on>
+        <table>x_604375_family_ch_chores</table>
+        <title>Chores Repository</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=dc6216672f7720108bdc5e072799b644"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sp_instance_table_dc6216672f7720108bdc5e072799b644</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table"><sp_instance_table action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>primary</color><css/><display_field/><field_list>chore_name,day_s_required,age_limit</field_list><filter/><glyph>flag</glyph><id/><maximum_entries>15</maximum_entries><order>3</order><order_by/><order_direction>asc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="2">4d1f5aef2f7720108bdc5e072799b6f9</sp_column><sp_page/><sp_widget display_value="Chores Repository">72d012632f7720108bdc5e072799b61e</sp_widget><sys_class_name>sp_instance_table</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-04 20:54:29</sys_created_on><sys_id>dc6216672f7720108bdc5e072799b644</sys_id><sys_mod_count>16</sys_mod_count><sys_name>Chores Repository</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sp_instance_table_dc6216672f7720108bdc5e072799b644</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-04 22:00:32</sys_updated_on><table>x_604375_family_ch_chores</table><title>Chores Repository</title><url/><widget_parameters/></sp_instance_table><sys_translated_text action="delete_multiple" query="documentkey=dc6216672f7720108bdc5e072799b644"/></record_update>]]></payload>
+        <payload_hash>2105823648</payload_hash>
+        <record_name>Chores Repository</record_name>
+        <reverted_from/>
+        <source>006196272f7720108bdc5e072799b6b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 22:00:32</sys_created_on>
+        <sys_id>7b7126a32fb720108bdc5e072799b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1793965a3610000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 22:00:32</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>b37126a39fb72010793e1c7cf1686b0b</update_guid>
+        <update_guid_history>b37126a39fb72010793e1c7cf1686b0b:2105823648,c5112e632bb7201034c6e4fd7446da7d:1547390102,9c30ee231bb720103407a5e391e46f10:1758455900,4f20ae2338b72010b67841930cdea85a:-255525283,f2bf9623dfb720103275eea309f48122:2025460830,4aafd223a8b72010562514a2efd826f9:11479647,3a2f1eefd4772010e13f663d670ffacf:-2002501536,5a1f9aef0c772010d36f1a249c576eb5:278484577,088c1a6f7b772010fd10ca14ba96fe63:-1735496606,7f4c566f8e772010f507d2c8b463a921:-821046524,213cd26f9f7720106fa94caae57cca8f:1459939589,8a1c526fa6772010e8f58d03f4ea22de:-821046524,d70c526f7477201085d6917304c48f3e:1459939589,ec0c126fdc772010304c2128d297222d:-821046524,e9fbde2f187720109d0782139616e05d:1459939589,ce929667d8772010a860860894d2dfb9:-821046524,94621667eb772010cf909ac7a7768246:1156847322</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Chores Repository">ee2462272fb720108bdc5e072799b6bf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 22:12:12</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>577c8ae90c6242ddad3ddedb97e653f9</sys_id>
+        <sys_metadata>dc6216672f7720108bdc5e072799b644</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chores Repository</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sp_instance_table_dc6216672f7720108bdc5e072799b644</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_dc6216672f7720108bdc5e072799b644">7b7126a32fb720108bdc5e072799b60b</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 22:12:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -6,7 +6,8 @@
         <css/>
         <display_field/>
         <field_list/>
-        <filter table="x_604375_family_ch_chore_points">NameDYNAMIC90d1921e5f510100a9ad2572f2b477fe</filter>
+        <filter table="x_604375_family_ch_chore_points">name=javascript:gs.getUserDisplayName();<item endquery="false" field="name" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUserDisplayName();"/>
+        </filter>
         <glyph>star</glyph>
         <id/>
         <maximum_entries>5</maximum_entries>
@@ -16,23 +17,23 @@
         <roles/>
         <short_description/>
         <size>md</size>
-        <sp_column display_value="1">4a511ec62fe360106856578b2799b667</sp_column>
+        <sp_column display_value="1">cd1f5aef2f7720108bdc5e072799b6f7</sp_column>
         <sp_page/>
         <sp_widget display_value="Count">1d8ad230ff223100ba13ffffffffffb9</sp_widget>
         <sys_class_name>sp_instance_table</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 21:26:27</sys_created_on>
         <sys_id>a2a6f6822f6760106856578b2799b654</sys_id>
-        <sys_mod_count>11</sys_mod_count>
-        <sys_name>Completed chores (me)</sys_name>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>Chore(s) completed</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sp_instance_table_a2a6f6822f6760106856578b2799b654</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-04 19:58:16</sys_updated_on>
+        <sys_updated_on>2021-05-04 21:51:01</sys_updated_on>
         <table>x_604375_family_ch_chore_points</table>
-        <title>Completed chores (me)</title>
+        <title>Chore(s) completed</title>
         <url/>
         <widget_parameters/>
     </sp_instance_table>

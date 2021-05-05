@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>All Chore Assignments - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="all_chore_assignments">39fe2e2f2fb720108bdc5e072799b6dc</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 22:59:23</sys_created_on>
+        <sys_id>3dfe2e2f2fb720108bdc5e072799b6de</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>All Chore Assignments - Container 2</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sp_container_3dfe2e2f2fb720108bdc5e072799b6de</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 22:59:31</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sp_container_3dfe2e2f2fb720108bdc5e072799b6de</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>All Chore Assignments - Container 2</name><order>2</order><sp_page display_value="all_chore_assignments">39fe2e2f2fb720108bdc5e072799b6dc</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-04 22:59:23</sys_created_on><sys_id>3dfe2e2f2fb720108bdc5e072799b6de</sys_id><sys_mod_count>1</sys_mod_count><sys_name>All Chore Assignments - Container 2</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sp_container_3dfe2e2f2fb720108bdc5e072799b6de</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-04 22:59:31</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>712856701</payload_hash>
+        <record_name>All Chore Assignments - Container 2</record_name>
+        <reverted_from/>
+        <source>006196272f7720108bdc5e072799b6b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 22:59:31</sys_created_on>
+        <sys_id>3bfe6e2f2fb720108bdc5e072799b634</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179399ba3ca0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 22:59:31</sys_updated_on>
+        <type>Container</type>
+        <update_guid>73fe6e2f26b72010c355fa5068a7fa34</update_guid>
+        <update_guid_history>73fe6e2f26b72010c355fa5068a7fa34:712856701,3dfe2e2fb4b72010bf28cd2f70c235df:-1885287460</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All Chore Assignments - Container 2">300f6e2f2fb720108bdc5e072799b672</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 22:59:36</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>5040f0f0e9fc4bdd9d40d0283e8c9b29</sys_id>
+        <sys_metadata>3dfe2e2f2fb720108bdc5e072799b6de</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Chore Assignments - Container 2</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sp_container_3dfe2e2f2fb720108bdc5e072799b6de</sys_update_name>
+        <sys_update_version display_value="sp_container_3dfe2e2f2fb720108bdc5e072799b6de">3bfe6e2f2fb720108bdc5e072799b634</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 22:59:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

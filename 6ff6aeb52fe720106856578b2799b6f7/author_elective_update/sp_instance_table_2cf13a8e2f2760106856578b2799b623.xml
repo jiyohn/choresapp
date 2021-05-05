@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter table="x_604375_family_ch_chore_assignments">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </filter>
+        <glyph>star</glyph>
+        <id/>
+        <maximum_entries>25</maximum_entries>
+        <order>8</order>
+        <order_by>assigned_to</order_by>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">4a511ec62fe360106856578b2799b667</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-17 21:05:50</sys_created_on>
+        <sys_id>2cf13a8e2f2760106856578b2799b623</sys_id>
+        <sys_mod_count>25</sys_mod_count>
+        <sys_name>Assigned Chores</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sp_instance_table_2cf13a8e2f2760106856578b2799b623</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 20:52:55</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+        <title>Assigned Chores</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=2cf13a8e2f2760106856578b2799b623"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sp_instance_table_2cf13a8e2f2760106856578b2799b623</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table"><sp_instance_table action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>primary</color><css/><display_field/><field_list/><filter table="x_604375_family_ch_chore_assignments">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/></filter><glyph>star</glyph><id/><maximum_entries>25</maximum_entries><order>8</order><order_by>assigned_to</order_by><order_direction>asc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="1">4a511ec62fe360106856578b2799b667</sp_column><sp_page/><sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget><sys_class_name>sp_instance_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-17 21:05:50</sys_created_on><sys_id>2cf13a8e2f2760106856578b2799b623</sys_id><sys_mod_count>25</sys_mod_count><sys_name>Assigned Chores</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sp_instance_table_2cf13a8e2f2760106856578b2799b623</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-04 20:52:55</sys_updated_on><table>x_604375_family_ch_chore_assignments</table><title>Assigned Chores</title><url/><widget_parameters/></sp_instance_table><sys_translated_text action="delete_multiple" query="documentkey=2cf13a8e2f2760106856578b2799b623"/></record_update>]]></payload>
+        <payload_hash>637125318</payload_hash>
+        <record_name>Assigned Chores</record_name>
+        <reverted_from/>
+        <source>006196272f7720108bdc5e072799b6b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 20:52:55</sys_created_on>
+        <sys_id>5502de272f7720108bdc5e072799b672</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1793927bb8c0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 20:52:55</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>9d02de27b07720101e3793ec29661871</update_guid>
+        <update_guid_history>9d02de27b07720101e3793ec29661871:637125318,a2f19e2752772010a7487461728271ca:1308690053,5471d627b4772010bbbc84b0002a5199:637125318,b937ce2f29372010755154bb281c636f:1308690053,87f5ceeb20372010c5fe520d6e6e424e:637125318,b5a58aeb98372010ab15b73f4fb201d4:1308690053,13958aeb6a3720105ef6547576987d4e:1980254788,b4850aeb5937201091769a87484164fe:-1643147773,6f750aeb163720100d217192e547e33b:-971583038,725586ebe037201097cebd43d049bd6c:-1643147773,22c48eab48372010d191a76e27fd784f:1980254788,d0dcb927b2372010f7194a94f49bd342:-1643147773,a723b52fe7f320101324a7f6cffdca8f:-374037532,9a0d1c1a86f320107f65f819545d0129:-1909057615</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Assigned Chores">3a52de272f7720108bdc5e072799b6a9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 20:54:24</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>a5f9b786b00d4183a518c4a9d5a9d811</sys_id>
+        <sys_metadata>2cf13a8e2f2760106856578b2799b623</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assigned Chores</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sp_instance_table_2cf13a8e2f2760106856578b2799b623</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_2cf13a8e2f2760106856578b2799b623">5502de272f7720108bdc5e072799b672</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 20:54:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

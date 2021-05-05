@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>3</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">4a511ec62fe360106856578b2799b667</sp_column>
+        <sp_widget display_value="Refresh Button">180a839f53133300628eddeeff7b1284</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-17 21:10:30</sys_created_on>
+        <sys_id>fc037ace2f2760106856578b2799b668</sys_id>
+        <sys_mod_count>38</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sp_instance_fc037ace2f2760106856578b2799b668</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 21:58:43</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=fc037ace2f2760106856578b2799b668"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sp_instance_fc037ace2f2760106856578b2799b668</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>3</order><roles/><short_description/><size>md</size><sp_column display_value="1">4a511ec62fe360106856578b2799b667</sp_column><sp_widget display_value="Refresh Button">180a839f53133300628eddeeff7b1284</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-17 21:10:30</sys_created_on><sys_id>fc037ace2f2760106856578b2799b668</sys_id><sys_mod_count>38</sys_mod_count><sys_name/><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sp_instance_fc037ace2f2760106856578b2799b668</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-04 21:58:43</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=fc037ace2f2760106856578b2799b668"/></record_update>]]></payload>
+        <payload_hash>-99299984</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>006196272f7720108bdc5e072799b6b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 21:58:43</sys_created_on>
+        <sys_id>09112e632fb720108bdc5e072799b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1793963f74d0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 21:58:43</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>41112e63c4b72010fbf63d5393d9f783</update_guid>
+        <update_guid_history>41112e63c4b72010fbf63d5393d9f783:-99299984,1030ee236bb72010754e0f73e0964615:-1226676529,8720ae23d4b720109dc079017ca5d46b:1940914222,36bf9623d5b72010708f0b4312602126:813537677,9aafd223ecb72010876fbee619196dfd:-313838868,7a2f1eefbc772010a7530805e0bf6ad3:-1441215413,9a1f9aef06772010679f17bd53fa07b9:1726375338,488c1a6fd7772010bbb606c00a680d67:-1544588576,bf4c566f11772010b2a2acbcaa655025:1623002175,613cd26fee772010bc9b68374c022493:495625630,ca1c526fb0772010c53f07869f4d7be2:1623002175,1b0c526f74772010738a91566a9c2242:495625630,200c126fc9772010b14888370fc46a32:1623002175,2dfbde2fd5772010d2063ecc120c5f61:495625630,cba2d6677f772010015373c7008eadfb:1623002175,546216676677201091ab72aa2dc3da4f:495625630,0352d267cc7720104145d21346d0effc:1623002175,9902de27987720105a91ad0502ce6582:495625630,3ef19e2729772010aa2d96617c43a7da:1623002175,d871d6279c772010293133be6e4bf3a9:495625630,2447026f02372010ac3e4095fd37fc23:1623002175,f1e68a2f463720107c973b7de300ccfe:-1544588576,07f5ceeb343720107f710afc686bb253:1726375338,35a58aeb4c3720109e16c6679cc8e1d9:-1441215413,9f958aebc3372010bc651f01e4714252:-313838868,34854aeb9a37201081eea7dc88dc0203:813537677,eb750aebe737201086fe27c92de1e340:1940914222,fe5586eb333720107691139b19fcfe70:813537677,aec48eabde3720109de38ffbbe1ff353:-313838868,2b23b52f0ff320107915a3f71f9b1194:813537677,060d1c1a74f320108094a500abe68725:-1497885534</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3241ee632fb720108bdc5e072799b6c6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-04 21:59:39</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>32f854e2ca7746289681024f91ae02e9</sys_id>
+        <sys_metadata>fc037ace2f2760106856578b2799b668</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sp_instance_fc037ace2f2760106856578b2799b668</sys_update_name>
+        <sys_update_version display_value="sp_instance_fc037ace2f2760106856578b2799b668">09112e632fb720108bdc5e072799b683</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-04 21:59:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
