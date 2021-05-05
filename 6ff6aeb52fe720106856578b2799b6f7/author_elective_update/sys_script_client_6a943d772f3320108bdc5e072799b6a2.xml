@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>assigned_to</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Verifier Assignments</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading || newValue === '') {
+		return;
+	}
+	var assignee=g_form.getReference('assigned_to',callBack);
+	function callBack(assignee){
+		if(assignee.name=='Helena Yohn'){
+			
+			var getUser=new GlideAjax('sys_user');
+			getUser.addQuery('name','Josh Yohn');
+			getUser.query();
+			while (getUser.next()){
+				g_form.setValue('assigned_verifier',getUser);
+			}
+			
+		}
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 13:25:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6a943d772f3320108bdc5e072799b6a2</sys_id>
+        <sys_mod_count>31</sys_mod_count>
+        <sys_name>Verifier Assignments</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_script_client_6a943d772f3320108bdc5e072799b6a2</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-05 15:50:23</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_script_client_6a943d772f3320108bdc5e072799b6a2</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;assigned_to&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Verifier Assignments&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading || newValue === '') {
+		return;
+	}
+	var assignee=g_form.getReference('assigned_to',callBack);
+	function callBack(assignee){
+		if(assignee.name=='Helena Yohn'){
+			
+			var getUser=new GlideAjax('sys_user');
+			getUser.addQuery('name','Josh Yohn');
+			getUser.query();
+			while (getUser.next()){
+				g_form.setValue('assigned_verifier',getUser);
+			}
+			
+		}
+	}
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;josh.yohn&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-05 13:25:40&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;6a943d772f3320108bdc5e072799b6a2&lt;/sys_id&gt;&lt;sys_mod_count&gt;31&lt;/sys_mod_count&gt;&lt;sys_name&gt;Verifier Assignments&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Family Chores" source="x_604375_family_ch"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Family Chores"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_6a943d772f3320108bdc5e072799b6a2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;josh.yohn&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-05 15:50:23&lt;/sys_updated_on&gt;&lt;table&gt;x_604375_family_ch_chore_assignments&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1346070876</payload_hash>
+        <record_name>Verifier Assignments</record_name>
+        <reverted_from/>
+        <source>c7befe2b2ff720108bdc5e072799b60a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 15:50:23</sys_created_on>
+        <sys_id>d35692332fb320108bdc5e072799b605</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1793d391b9a0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-05 15:50:23</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>1f5692334ab32010a6a249271dd80a04</update_guid>
+        <update_guid_history>1f5692334ab32010a6a249271dd80a04:-1346070876,5b369eff51732010215f9daa09bc0525:-677800523,90b412bf32732010af20b9f5c79f587b:-1858114155,f44492bf88732010accdda37120fe439:1092658667,7ad312bf1473201085f3152c05276b2d:-1858114155,7e23927f9c732010b1053672efbd7fc7:-16601077,a9e29e3fc9732010d94e632d55184a5b:-1858114155,8d629a3f977320104e9e2f477868e511:-299976177,ef32dabbd67320104b46e50d3ce56354:1729147073,53ffcebb08732010da9ce8b91ab5760b:665905329,1abf8e7b0173201069a16b9e739d5746:1670409969,3f8f0abb3f732010f6fd725fbf689feb:-641797312,b45fca7b9b7320104838db2a4e961c3f:1731677771,139e4e3bd8732010f6ea66af5aeabe83:438946496,3c6e4e3ba17320103536727412d97b7d:191744754,5d1d8a3ba0732010dd06b390fdefbff2:1292325069,f0cc4eb7397320106b8a501f79140ecf:557165053,77da4e77af732010acfa53e123705af1:1745259417,8d8a4e7776732010b06bf1a4872e8bb2:1657819403,88430633ae73201033f9178832c9d4f8:665905329,6d414ebff7332010d7d2285863019e0f:-796848414,22e04abf1c33201014e7165824731344:166986242,859002bf79332010f37feed98c3088be:390149966,c3308a7f9e33201076af694b7716f69d:-2137213024,598ff57fc6332010d6b8d85e66364c24:-1135112735,e62fb17fb8332010e353098cc8b4d685:199154277,e57e79fbac33201095971c89d8e12d55:-321663324,aedc39fb333320105028b4bfd1ad8679:-865930931,517cf1fb1e3320109f9c82f24bbac8aa:704765773,b4eb39b7cb3320100ee06e7b1c16cd4b:-775564635,be7575b75033201042ad3806942cfb54:-908845307,db357577f9332010df83ca27bcbb217f:-990334297</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 15:51:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>1aff33cd3d1949a98d4e37b7e801b889</sys_id>
+        <sys_metadata>6a943d772f3320108bdc5e072799b6a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Verifier Assignments</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent display_value="Chore Assignments">97fc181a2ff320108bdc5e072799b6d9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_script_client_6a943d772f3320108bdc5e072799b6a2</sys_update_name>
+        <sys_update_version display_value="sys_script_client_6a943d772f3320108bdc5e072799b6a2">d35692332fb320108bdc5e072799b605</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-05 15:51:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

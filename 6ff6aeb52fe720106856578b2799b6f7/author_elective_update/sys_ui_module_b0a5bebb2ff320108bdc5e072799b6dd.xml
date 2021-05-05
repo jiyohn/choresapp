@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="My Verification Assignments">70a5bebb2ff320108bdc5e072799b6da</application>
+        <filter/>
+        <name>My Verification Assignments</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_604375_family_ch.admin</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 18:07:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b0a5bebb2ff320108bdc5e072799b6dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Verification Assignments</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_ui_module_b0a5bebb2ff320108bdc5e072799b6dd</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-05 18:07:02</sys_updated_on>
+        <table>x_604375_family_ch_my_verification_assignments</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_ui_module_b0a5bebb2ff320108bdc5e072799b6dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="My Verification Assignments">70a5bebb2ff320108bdc5e072799b6da</application><filter/><name>My Verification Assignments</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_604375_family_ch.admin</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-05 18:07:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b0a5bebb2ff320108bdc5e072799b6dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Verification Assignments</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_ui_module_b0a5bebb2ff320108bdc5e072799b6dd</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-05 18:07:02</sys_updated_on><table>x_604375_family_ch_my_verification_assignments</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-712612384</payload_hash>
+        <record_name>My Verification Assignments</record_name>
+        <reverted_from/>
+        <source>c7befe2b2ff720108bdc5e072799b60a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 18:07:02</sys_created_on>
+        <sys_id>30a5bebb2ff320108bdc5e072799b6e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1793db636cc0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-05 18:07:02</sys_updated_on>
+        <type>Module</type>
+        <update_guid>78a5bebb1af3201057d920bf3c6e80df</update_guid>
+        <update_guid_history>78a5bebb1af3201057d920bf3c6e80df:-712612384</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 18:08:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>0a2faf5802064c5d8ae2722ea52fe4b9</sys_id>
+        <sys_metadata>b0a5bebb2ff320108bdc5e072799b6dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Verification Assignments</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_ui_module_b0a5bebb2ff320108bdc5e072799b6dd</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_b0a5bebb2ff320108bdc5e072799b6dd">30a5bebb2ff320108bdc5e072799b6e0</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-05 18:08:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

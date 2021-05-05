@@ -38,7 +38,7 @@
         <message_html/>
         <message_list>fa715e1f2f2360106856578b2799b666</message_list>
         <message_text/>
-        <name>Chore Complete (Mobile</name>
+        <name>Chore Complete (Mobile)</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>true</push_message_only>
@@ -46,7 +46,7 @@
         <recipient_groups/>
         <recipient_users>6816f79cc0a8016401c5a33be04be441</recipient_users>
         <reply_to/>
-        <send_self>true</send_self>
+        <send_self>false</send_self>
         <sms_alternate/>
         <style/>
         <subject/>
@@ -57,15 +57,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a093d6532f6360106856578b2799b6e5</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Chore Complete (Mobile</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Chore Complete (Mobile)</sys_name>
         <sys_overrides/>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sysevent_email_action_a093d6532f6360106856578b2799b6e5</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-04 18:29:02</sys_updated_on>
+        <sys_updated_on>2021-05-05 13:02:19</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

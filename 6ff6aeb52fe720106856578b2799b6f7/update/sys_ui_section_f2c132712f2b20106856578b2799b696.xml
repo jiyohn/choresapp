@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-05-04 15:48:51</sys_created_on>
-            <sys_id>c76c052f2f7320108bdc5e072799b668</sys_id>
+            <sys_created_on>2021-05-05 16:25:45</sys_created_on>
+            <sys_id>1d7e5ef72fb320108bdc5e072799b67b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Chore details" display_value="Chore details" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">f2c132712f2b20106856578b2799b696</sys_ui_section>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-05-04 15:48:51</sys_updated_on>
+            <sys_updated_on>2021-05-05 16:25:45</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-05-04 15:48:51</sys_created_on>
-            <sys_id>4b6c052f2f7320108bdc5e072799b668</sys_id>
+            <sys_created_on>2021-05-05 16:25:45</sys_created_on>
+            <sys_id>9d7e5ef72fb320108bdc5e072799b67b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Chore details" display_value="Chore details" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">f2c132712f2b20106856578b2799b696</sys_ui_section>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-05-04 15:48:51</sys_updated_on>
+            <sys_updated_on>2021-05-05 16:25:45</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>chore_assigned</element>
             <position>2</position>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-05-04 15:48:51</sys_created_on>
-            <sys_id>cb6c052f2f7320108bdc5e072799b668</sys_id>
+            <sys_created_on>2021-05-05 16:25:45</sys_created_on>
+            <sys_id>117e5ef72fb320108bdc5e072799b67c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Chore details" display_value="Chore details" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">f2c132712f2b20106856578b2799b696</sys_ui_section>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-05-04 15:48:51</sys_updated_on>
+            <sys_updated_on>2021-05-05 16:25:45</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-05-04 15:48:51</sys_created_on>
-            <sys_id>4f6c052f2f7320108bdc5e072799b668</sys_id>
+            <sys_created_on>2021-05-05 16:25:45</sys_created_on>
+            <sys_id>917e5ef72fb320108bdc5e072799b67c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Chore details" display_value="Chore details" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">f2c132712f2b20106856578b2799b696</sys_ui_section>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-05-04 15:48:51</sys_updated_on>
+            <sys_updated_on>2021-05-05 16:25:45</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>day_s_required</element>
             <position>4</position>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-05-04 15:48:51</sys_created_on>
-            <sys_id>cf6c052f2f7320108bdc5e072799b668</sys_id>
+            <sys_created_on>2021-05-05 16:25:45</sys_created_on>
+            <sys_id>157e5ef72fb320108bdc5e072799b67c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Chore details" display_value="Chore details" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">f2c132712f2b20106856578b2799b696</sys_ui_section>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-05-04 15:48:51</sys_updated_on>
+            <sys_updated_on>2021-05-05 16:25:45</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>status</element>
             <position>5</position>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-05-04 15:48:51</sys_created_on>
-            <sys_id>436c052f2f7320108bdc5e072799b669</sys_id>
+            <sys_created_on>2021-05-05 16:25:45</sys_created_on>
+            <sys_id>957e5ef72fb320108bdc5e072799b67c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Chore details" display_value="Chore details" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">f2c132712f2b20106856578b2799b696</sys_ui_section>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-05-04 15:48:51</sys_updated_on>
+            <sys_updated_on>2021-05-05 16:25:45</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,27 @@
             <element>warnings</element>
             <position>6</position>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-05-04 15:48:51</sys_created_on>
-            <sys_id>c36c052f2f7320108bdc5e072799b669</sys_id>
+            <sys_created_on>2021-05-05 16:25:45</sys_created_on>
+            <sys_id>197e5ef72fb320108bdc5e072799b67c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Chore details" display_value="Chore details" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">f2c132712f2b20106856578b2799b696</sys_ui_section>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-05-04 15:48:51</sys_updated_on>
+            <sys_updated_on>2021-05-05 16:25:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_verifier</element>
+            <position>7</position>
+            <sys_created_by>josh.yohn</sys_created_by>
+            <sys_created_on>2021-05-05 16:25:45</sys_created_on>
+            <sys_id>997e5ef72fb320108bdc5e072799b67c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Chore details" display_value="Chore details" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">f2c132712f2b20106856578b2799b696</sys_ui_section>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-05-05 16:25:45</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_glide_list_1</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Verifier Assignees on Load</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+	//Type appropriate comment here, and begin script below
+	var assignee=g_form.getReference('assigned_to',callBack);
+	function callBack(assignee){
+		if(assignee.name=='Helena Yohn'){
+			g_form.setValue('assigned_verifier','Nadine Yohn');
+		}else if(assignee.name=='Hailey Yohn'){
+			g_form.setValue('assigned_verifier','Josh Yohn');
+		}else if(assignee.name=='Mason Yohn'){
+			g_form.setValue('assigned_verifier','Nadine Yohn');
+		}else if(assignee.name=='Josh Yohn'){
+			g_form.setValue('assigned_verifier','Josh Yohn');
+		}else if(assignee.name=='Nadine Yohn'){
+			g_form.setValue('assigned_verifier','Nadine Yohn');
+		}else if (assignee.name==''){
+			g_form.setValue('assigned_verifier','');
+		}
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 14:13:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3d00427f2f3320108bdc5e072799b66f</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Verifier Assignees on Load</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_script_client_3d00427f2f3320108bdc5e072799b66f</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-05 15:09:02</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_script_client_3d00427f2f3320108bdc5e072799b66f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;u_glide_list_1&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Verifier Assignees on Load&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+	//Type appropriate comment here, and begin script below
+	var assignee=g_form.getReference('assigned_to',callBack);
+	function callBack(assignee){
+		if(assignee.name=='Helena Yohn'){
+			g_form.setValue('assigned_verifier','Nadine Yohn');
+		}else if(assignee.name=='Hailey Yohn'){
+			g_form.setValue('assigned_verifier','Josh Yohn');
+		}else if(assignee.name=='Mason Yohn'){
+			g_form.setValue('assigned_verifier','Nadine Yohn');
+		}else if(assignee.name=='Josh Yohn'){
+			g_form.setValue('assigned_verifier','Josh Yohn');
+		}else if(assignee.name=='Nadine Yohn'){
+			g_form.setValue('assigned_verifier','Nadine Yohn');
+		}else if (assignee.name==''){
+			g_form.setValue('assigned_verifier','');
+		}
+	}
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;josh.yohn&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-05 14:13:24&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;3d00427f2f3320108bdc5e072799b66f&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;Verifier Assignees on Load&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Family Chores" source="x_604375_family_ch"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Family Chores"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_3d00427f2f3320108bdc5e072799b66f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;josh.yohn&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-05 15:09:02&lt;/sys_updated_on&gt;&lt;table&gt;x_604375_family_ch_chore_assignments&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-451978670</payload_hash>
+        <record_name>Verifier Assignees on Load</record_name>
+        <reverted_from/>
+        <source>c7befe2b2ff720108bdc5e072799b60a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 15:09:02</sys_created_on>
+        <sys_id>e5ec46b72f7320108bdc5e072799b679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1793d1342520000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-05 15:09:02</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>21ec46b7df7320106c8e970f7b0dbb79</update_guid>
+        <update_guid_history>21ec46b7df7320106c8e970f7b0dbb79:-451978670,6063ceff66332010302bc27480f86ee9:1324288639,97e2c23342732010223907e741312bb2:-111665121,0ac24233887320100554c1f936b17e07:326344382,ac114abfb23320105bf573c271e740ec:1955537105,02f04abff133201071563194cacec4f3:326344382,85c042bfc0332010b8a31502b3b47fcb:918604938,ea204e7f09332010b5a3c3b5d216b0b7:1834697786</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 15:51:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>4b712e48f65a4fdba4aff294b8409a11</sys_id>
+        <sys_metadata>3d00427f2f3320108bdc5e072799b66f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Verifier Assignees on Load</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent display_value="Chore Assignments">97fc181a2ff320108bdc5e072799b6d9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_script_client_3d00427f2f3320108bdc5e072799b66f</sys_update_name>
+        <sys_update_version display_value="sys_script_client_3d00427f2f3320108bdc5e072799b66f">e5ec46b72f7320108bdc5e072799b679</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-05 15:51:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

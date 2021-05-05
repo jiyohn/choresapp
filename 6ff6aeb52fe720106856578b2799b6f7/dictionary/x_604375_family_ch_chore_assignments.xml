@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Chore Assignments" max_length="40" name="x_604375_family_ch_chore_assignments" sizeclass="0" type="collection">
+    <element audit="true" label="Chore Assignments" max_length="40" name="x_604375_family_ch_chore_assignments" sizeclass="67" type="collection">
         <element attributes="encode_utf8=false" label="Assigned to" mandatory="true" max_length="32" name="assigned_to" reference="sys_user" reference_qual="roles=x_604375_family_ch.user^EQ" reference_qual_condition="roles=x_604375_family_ch.user^EQ" type="reference"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Assigned to Me" max_length="1024" name="assigned_to_me" reference="x_604375_family_ch_chore_assignments" type="glide_list"/>
+        <element dependent="assigned_verifier" dependent_on_field="assigned_verifier" label="Assigned Verification (me)" max_length="32" name="assigned_verification_me" reference="x_604375_family_ch_chore_assignments" reference_qual="assigned_verifierDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ" reference_qual_condition="assigned_verifierDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ" type="reference" use_dependent_field="true"/>
+        <element attributes="encode_utf8=false" label="Assigned Verifier" mandatory="true" max_length="32" name="assigned_verifier" reference="sys_user" reference_qual="roles=x_604375_family_ch.admin^EQ" reference_qual_condition="roles=x_604375_family_ch.admin^EQ" type="reference"/>
         <element attributes="encode_utf8=false" display="true" hint="The name of the chore that is assigned" label="Chore assigned" mandatory="true" max_length="300" name="chore_assigned" type="string"/>
         <element label="Chore tasks" mandatory="true" max_length="1000" name="chore_completion_criteria" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Day required" mandatory="true" max_length="40" name="day_s_required" type="choice">
@@ -14,7 +17,6 @@
                 <element inactive_on_update="false" label="7 - Sunday" sequence="6" value="7 - Sunday"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="location" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Record number" max_length="40" name="number" read_only="true" type="string"/>
         <element choice="1" choice_field="age_limit" dependent="chore_assigned" dependent_on_field="chore_assigned" label="Points available" mandatory="true" max_length="40" name="points_available" type="choice" use_dependent_field="true">
             <choice>
@@ -49,7 +51,9 @@
             </choice>
         </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="New Calendar Date/Time" max_length="40" name="u_calendar_date_time_1" type="calendar_date_time"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Assigned Chores" max_length="1024" name="u_glide_list_1" reference="x_604375_family_ch_chore_assignments" type="glide_list"/>
+        <element attributes="encode_utf8=false" dependent="assigned_verifier" dependent_on_field="assigned_verifier" label="New Reference" max_length="32" name="u_reference_1" reference="x_604375_family_ch_chore_assignments" type="reference" use_dependent_field="true"/>
         <element attributes="edge_encryption_enabled=true" label="Chore notes" max_length="5000" name="u_string_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="To complete this chore:&#13;&#10;1.   Input any chore notes (as needed)&#13;&#10;2.  Upload any attachments&#13;&#10;3.  Log in with admin privileges (Adult)&#13;&#10;4.  Verify chore completion&#13;&#10;5.  Click 'Verify chore completion' button" label="Completion instructions" max_length="500" name="verifynotice" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Warnings" max_length="100" name="warnings" read_only="true" type="string"/>
@@ -57,10 +61,19 @@
             <element name="chore_assigned"/>
         </index>
         <index name="index2">
-            <element name="sys_class_name"/>
+            <element name="u_reference_1"/>
         </index>
         <index name="index3">
+            <element name="assigned_verification_me"/>
+        </index>
+        <index name="index4">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index5">
             <element name="assigned_to"/>
+        </index>
+        <index name="index6">
+            <element name="assigned_verifier"/>
         </index>
     </element>
 </database>
