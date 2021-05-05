@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>bookmark</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>2</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">6e59b6672ff720108bdc5e072799b668</sp_column>
+        <sp_page display_value="chore_points">3b5b9f2f2f3b20108bdc5e072799b678</sp_page>
+        <sp_widget display_value="In Progress Link">6407b6e32ff720108bdc5e072799b6df</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 02:19:54</sys_created_on>
+        <sys_id>4bdc5baf2f3b20108bdc5e072799b6a6</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>All Completed Chores</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sp_instance_link_4bdc5baf2f3b20108bdc5e072799b6a6</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-05 03:12:40</sys_updated_on>
+        <title>All Completed Chores</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=4bdc5baf2f3b20108bdc5e072799b6a6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sp_instance_link_4bdc5baf2f3b20108bdc5e072799b6a6</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;bookmark&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;6e59b6672ff720108bdc5e072799b668&lt;/sp_column&gt;&lt;sp_page display_value="chore_points"&gt;3b5b9f2f2f3b20108bdc5e072799b678&lt;/sp_page&gt;&lt;sp_widget display_value="In Progress Link"&gt;6407b6e32ff720108bdc5e072799b6df&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;josh.yohn&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-05 02:19:54&lt;/sys_created_on&gt;&lt;sys_id&gt;4bdc5baf2f3b20108bdc5e072799b6a6&lt;/sys_id&gt;&lt;sys_mod_count&gt;10&lt;/sys_mod_count&gt;&lt;sys_name&gt;All Completed Chores&lt;/sys_name&gt;&lt;sys_package display_value="Family Chores" source="x_604375_family_ch"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Family Chores"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_4bdc5baf2f3b20108bdc5e072799b6a6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;josh.yohn&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-05 03:12:40&lt;/sys_updated_on&gt;&lt;title&gt;All Completed Chores&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=4bdc5baf2f3b20108bdc5e072799b6a6"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>192853803</payload_hash>
+        <record_name>All Completed Chores</record_name>
+        <reverted_from/>
+        <source>c7befe2b2ff720108bdc5e072799b60a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 03:12:40</sys_created_on>
+        <sys_id>3fe8232b2f7b20108bdc5e072799b6d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1793a83648c0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-05 03:12:40</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>77e8232b3a7b201099f6cb1f7c9c13d3</update_guid>
+        <update_guid_history>77e8232b3a7b201099f6cb1f7c9c13d3:192853803,e134a327227b201016834739e0558a42:-283804054,d404e327517b2010eef36f4017d553b0:-1816091541,95e227e33e7b20101ea02b7eacea0328:-1015987645,2da223e31b7b2010abf382a8d65e69be:-13426668,bb9267a3237b201014c5e14f468bd272:1250239635,e282efa34c7b2010277e9e51e9b17e72:383885108,c8cd17ef453b2010559a4dfe4e01716f:1647551411,bd6dd3afcd3b2010340b23a8cbd9b3cc:-955656269,aa2d9baf323b201036fd222e8dc6e013:560322355,43dc5baf033b2010f3be9c4ec58c15a8:-1517587835</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All Completed Chores">00392fe72f7b20108bdc5e072799b6c2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 03:13:46</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>06aca4ea58a24c2e914cb9a9536ad719</sys_id>
+        <sys_metadata>4bdc5baf2f3b20108bdc5e072799b6a6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Completed Chores</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sp_instance_link_4bdc5baf2f3b20108bdc5e072799b6a6</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_4bdc5baf2f3b20108bdc5e072799b6a6">3fe8232b2f7b20108bdc5e072799b6d3</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-05 03:13:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
