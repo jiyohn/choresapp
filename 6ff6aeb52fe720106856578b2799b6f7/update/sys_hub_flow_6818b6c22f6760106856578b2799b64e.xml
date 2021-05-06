@@ -12,7 +12,7 @@
         <description/>
         <internal_name>transfer_complete_chores_to_chore_points_table</internal_name>
         <label_cache>[{"name":"7acf281d-e229-406a-b513-0481087de57b.item.assigned_to.first_name","label":"2➛Chore Assignments Record➛Assigned to➛First name","reference":"","reference_display":"First name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"first_name"},{"name":"7acf281d-e229-406a-b513-0481087de57b.item.chore_assigned","label":"2➛Chore Assignments Record➛Chore assigned","reference":"","reference_display":"Chore assigned","type":"choice","base_type":"choice","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"chore_assigned"},{"name":"7acf281d-e229-406a-b513-0481087de57b.item.assigned_to.name","label":"2➛Chore Assignments Record➛Assigned to➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"name"},{"name":"2e2fe2b6-3be5-4cbf-b3ff-fb20f0997b72.Records","label":"1➛Chore Assignments Records","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"2e2fe2b6-3be5-4cbf-b3ff-fb20f0997b72.Table","label":"1➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"2e2fe2b6-3be5-4cbf-b3ff-fb20f0997b72.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"7acf281d-e229-406a-b513-0481087de57b.item","label":"2➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"29af3d28-b685-4283-9995-cbba708ab50c.record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"29af3d28-b685-4283-9995-cbba708ab50c.table_name","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"7acf281d-e229-406a-b513-0481087de57b.item.assigned_to","label":"2➛Chore Assignments Record➛Assigned to","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"assigned_to"},{"name":"0a5b85c0-62f7-4ac4-99e4-38dae127a0f7.record","label":"3➛Chore Points Record","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"reference","base_type":"reference","attributes":{"uiType":"document_id","uiTypeLabel":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0a5b85c0-62f7-4ac4-99e4-38dae127a0f7.table_name","label":"3➛Chore Points Table","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"table_name","base_type":"table_name","attributes":{"uiType":"table_name","uiTypeLabel":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0a5b85c0-62f7-4ac4-99e4-38dae127a0f7.status","label":"3➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0a5b85c0-62f7-4ac4-99e4-38dae127a0f7.error_message","label":"3➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"58420a83-7922-4dcc-88be-747e37aed775.email","label":"5➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a49675f1-7338-4a09-9451-435c4f48dfa1.email","label":"4➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0a5b85c0-62f7-4ac4-99e4-38dae127a0f7.record.name","label":"3➛Chore Points Record➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"x_604375_family_ch_chore_points","column_name":"name"},{"name":"0a5b85c0-62f7-4ac4-99e4-38dae127a0f7.record.completed_chore","label":"3➛Chore Points Record➛Completed chore","reference":"","reference_display":"Completed chore","type":"string","base_type":"string","parent_table_name":"x_604375_family_ch_chore_points","column_name":"completed_chore"},{"name":"0a5b85c0-62f7-4ac4-99e4-38dae127a0f7.record.points","label":"3➛Chore Points Record➛Points","reference":"","reference_display":"Points","type":"integer","base_type":"integer","parent_table_name":"x_604375_family_ch_chore_points","column_name":"points"}]</label_cache>
-        <latest_snapshot>3fd14bca2f6760106856578b2799b633</latest_snapshot>
+        <latest_snapshot>39f867442f8070108bdc5e072799b65a</latest_snapshot>
         <master_snapshot>3fd14bca2f6760106856578b2799b633</master_snapshot>
         <name>Transfer Complete Chores to Chore Points Table</name>
         <natlang/>
@@ -427,10 +427,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 21:48:36</sys_created_on>
         <sys_id>4bbb76862f6760106856578b2799b6c9</sys_id>
-        <sys_mod_count>86</sys_mod_count>
+        <sys_mod_count>88</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:12:47</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-05-06 16:29:46</sys_updated_on>
         <ui_id>2e2fe2b6-3be5-4cbf-b3ff-fb20f0997b72</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4bbb76862f6760106856578b2799b6c9"/>
@@ -477,10 +477,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 21:48:36</sys_created_on>
         <sys_id>4fbb76862f6760106856578b2799b6d3</sys_id>
-        <sys_mod_count>86</sys_mod_count>
+        <sys_mod_count>88</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:12:47</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-05-06 16:29:46</sys_updated_on>
         <ui_id>0a5b85c0-62f7-4ac4-99e4-38dae127a0f7</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4fbb76862f6760106856578b2799b6d3"/>
@@ -552,10 +552,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 21:48:36</sys_created_on>
         <sys_id>cfbb76862f6760106856578b2799b6e4</sys_id>
-        <sys_mod_count>86</sys_mod_count>
+        <sys_mod_count>88</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:12:47</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-05-06 16:29:46</sys_updated_on>
         <ui_id>537cb9c4-03b4-4286-9313-2df45ce7631e</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=cfbb76862f6760106856578b2799b6e4"/>
@@ -795,7 +795,7 @@
         <binding_strategy>com.snc.process_flow.engine.binding.Every</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"f4e14bca2f6760106856578b2799b6e9","name":"plan"}}</plan>
         <plan_id>6818b6c22f6760106856578b2799b64e</plan_id>
-        <snapshot>3fd14bca2f6760106856578b2799b633</snapshot>
+        <snapshot>39f867442f8070108bdc5e072799b65a</snapshot>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-17 22:15:28</sys_created_on>
         <sys_domain>global</sys_domain>

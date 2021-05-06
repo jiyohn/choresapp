@@ -55,7 +55,7 @@
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Assigned Chores" max_length="1024" name="u_glide_list_1" reference="x_604375_family_ch_chore_assignments" type="glide_list"/>
         <element attributes="encode_utf8=false" dependent="assigned_verifier" dependent_on_field="assigned_verifier" label="New Reference" max_length="32" name="u_reference_1" reference="x_604375_family_ch_chore_assignments" type="reference" use_dependent_field="true"/>
         <element attributes="edge_encryption_enabled=true" label="Chore notes" max_length="5000" name="u_string_1" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="To complete this chore:&#13;&#10;1.   Input any chore notes (as needed)&#13;&#10;2.  Upload any attachments&#13;&#10;3.  Log in with admin privileges (Adult)&#13;&#10;4.  Verify chore completion&#13;&#10;5.  Click 'Verify chore completion' button" label="Completion instructions" max_length="500" name="verifynotice" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="1.   Complete all required chore tasks&#13;&#10;2.  Contact an adult to verify chore completion&#13;&#10;3.  Log in with admin privileges (Adult)&#13;&#10;4.  Verify chore completion (Adult)&#13;&#10;5.  Complete chore (Adult)" label="Completion instructions" max_length="500" name="verifynotice" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Warnings" max_length="100" name="warnings" read_only="true" type="string"/>
         <index name="index">
             <element name="chore_assigned"/>

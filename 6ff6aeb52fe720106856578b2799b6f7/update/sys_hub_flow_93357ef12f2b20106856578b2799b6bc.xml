@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>93357ef12f2b20106856578b2799b6bc</sys_id>
-        <sys_mod_count>123</sys_mod_count>
+        <sys_mod_count>126</sys_mod_count>
         <sys_name>Automated Chore Assignment</sys_name>
         <sys_overrides/>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_hub_flow_93357ef12f2b20106856578b2799b6bc</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:20</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:42</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=93357ef12f2b20106856578b2799b6bc"/>
@@ -109,10 +109,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 03:01:28</sys_created_on>
         <sys_id>1cc9faf52f2b20106856578b2799b62e</sys_id>
-        <sys_mod_count>123</sys_mod_count>
+        <sys_mod_count>126</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:40</sys_updated_on>
         <trigger_definition display_value="Weekly">cf352104c32222002841b63b12d3ae1f</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -175,10 +175,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:11:44</sys_created_on>
         <sys_id>085c6fe72f23a0106856578b2799b6cd</sys_id>
-        <sys_mod_count>50</sys_mod_count>
+        <sys_mod_count>56</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:20</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:42</sys_updated_on>
         <ui_id>c8479746-c039-4815-a1b4-0bdf9514c87f</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=085c6fe72f23a0106856578b2799b6cd"/>
@@ -215,16 +215,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:11:44</sys_created_on>
         <sys_id>885c6fe72f23a0106856578b2799b6ce</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 16:01:22</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:26:19</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>chore_assigned={{4187dca1-9de2-4d04-b6de-9de352e91039.item.chore_name}}^assigned_to={{52564e8c-a9f1-41df-b060-ef95f19171b8.item}}^points_available={{4187dca1-9de2-4d04-b6de-9de352e91039.item.points_awarded}}^status=Assigned^chore_completion_criteria={{4187dca1-9de2-4d04-b6de-9de352e91039.item.chore_completion_details}}^verifynotice=To complete this chore:
-1.   Input any chore notes (as needed)
-2.  Upload any attachments
+        <value>chore_assigned={{4187dca1-9de2-4d04-b6de-9de352e91039.item.chore_name}}^assigned_to={{52564e8c-a9f1-41df-b060-ef95f19171b8.item}}^points_available={{4187dca1-9de2-4d04-b6de-9de352e91039.item.points_awarded}}^status=Assigned^chore_completion_criteria={{4187dca1-9de2-4d04-b6de-9de352e91039.item.chore_completion_details}}^verifynotice=1.   Complete all required chore tasks
+2.  Contact an adult to verify chore completion
 3.  Log in with admin privileges (Adult)
-4.  Verify chore completion
-5.  Click 'Verify chore completion' button^day_s_required={{4187dca1-9de2-4d04-b6de-9de352e91039.item.day_s_required}}^assigned_verifier={{52564e8c-a9f1-41df-b060-ef95f19171b8.item}}</value>
+4.  Verify chore completion (Adult)
+5.  Complete chore (Adult)^day_s_required={{4187dca1-9de2-4d04-b6de-9de352e91039.item.day_s_required}}^assigned_verifier={{52564e8c-a9f1-41df-b060-ef95f19171b8.item}}</value>
     </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
@@ -240,10 +239,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 05:50:43</sys_created_on>
         <sys_id>27706bb52fab20106856578b2799b664</sys_id>
-        <sys_mod_count>208</sys_mod_count>
+        <sys_mod_count>214</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:19</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>0d32da42-c2dc-4a2d-94a0-62b9427119c5</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=27706bb52fab20106856578b2799b664"/>
@@ -289,10 +288,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:03:19</sys_created_on>
         <sys_id>386a23a72f23a0106856578b2799b6a8</sys_id>
-        <sys_mod_count>52</sys_mod_count>
+        <sys_mod_count>58</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:19</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:42</sys_updated_on>
         <ui_id>0caf505c-ecf1-4c7a-a3c7-04a712e04061</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=386a23a72f23a0106856578b2799b6a8"/>
@@ -338,10 +337,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:03:19</sys_created_on>
         <sys_id>3c6a23a72f23a0106856578b2799b6c8</sys_id>
-        <sys_mod_count>52</sys_mod_count>
+        <sys_mod_count>58</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:19</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:42</sys_updated_on>
         <ui_id>459d251d-7bf0-4e86-ab1f-c055bef34830</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3c6a23a72f23a0106856578b2799b6c8"/>
@@ -388,10 +387,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 16:39:21</sys_created_on>
         <sys_id>3de42b232f23a0106856578b2799b6c0</sys_id>
-        <sys_mod_count>62</sys_mod_count>
+        <sys_mod_count>68</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:19</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>f25ff14f-1c49-4baa-be0b-686f4c56e32a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3de42b232f23a0106856578b2799b6c0"/>
@@ -428,16 +427,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 16:39:21</sys_created_on>
         <sys_id>bde42b232f23a0106856578b2799b6c1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 15:56:13</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:26:18</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>chore_assigned={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.chore_name}}^assigned_to={{caff388a-6a50-49cc-9084-e8e2e95386e5.item}}^points_available={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.points_awarded}}^status=Assigned^chore_completion_criteria={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.chore_completion_details}}^verifynotice=To complete this chore:
-1.   Input any chore notes (as needed)
-2.  Upload any attachments
+        <value>chore_assigned={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.chore_name}}^assigned_to={{caff388a-6a50-49cc-9084-e8e2e95386e5.item}}^points_available={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.points_awarded}}^status=Assigned^chore_completion_criteria={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.chore_completion_details}}^verifynotice=1.   Complete all required chore tasks
+2.  Contact an adult to verify chore completion
 3.  Log in with admin privileges (Adult)
-4.  Verify chore completion
-5.  Click 'Verify chore completion' button^day_s_required={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.day_s_required}}^assigned_verifier={"display":"Josh Yohn","value":"6816f79cc0a8016401c5a33be04be441"}</value>
+4.  Verify chore completion (Adult)
+5.  Complete chore (Adult)^day_s_required={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.day_s_required}}^assigned_verifier={"display":"Josh Yohn","value":"6816f79cc0a8016401c5a33be04be441"}</value>
     </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
@@ -453,10 +451,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:51:54</sys_created_on>
         <sys_id>777eebb12feb20106856578b2799b678</sys_id>
-        <sys_mod_count>192</sys_mod_count>
+        <sys_mod_count>198</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>1e667c2e-af71-4cad-8203-cc22d592ccbe</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=777eebb12feb20106856578b2799b678"/>
@@ -503,10 +501,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-19 00:36:57</sys_created_on>
         <sys_id>7adba8622fa7a0106856578b2799b6a8</sys_id>
-        <sys_mod_count>152</sys_mod_count>
+        <sys_mod_count>158</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>f1d270ce-7019-4e13-94d4-63c73aa622fd</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=7adba8622fa7a0106856578b2799b6a8"/>
@@ -538,10 +536,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 16:35:18</sys_created_on>
         <sys_id>96f3e7ef2fef60106856578b2799b68b</sys_id>
-        <sys_mod_count>64</sys_mod_count>
+        <sys_mod_count>70</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:19</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:42</sys_updated_on>
         <ui_id>a10d4714-55e5-4c98-ad4e-f7ce879facbc</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=96f3e7ef2fef60106856578b2799b68b"/>
@@ -578,16 +576,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 16:35:18</sys_created_on>
         <sys_id>2ef3e7ef2fef60106856578b2799b68c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 15:56:14</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:26:18</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>chore_assigned={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.chore_name}}^assigned_to={{0f4776c8-851b-4954-813f-19a12b738461.item}}^points_available={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.points_awarded}}^status=Assigned^chore_completion_criteria={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.chore_completion_details}}^verifynotice=To complete this chore:
-1.   Input any chore notes (as needed)
-2.  Upload any attachments
+        <value>chore_assigned={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.chore_name}}^assigned_to={{0f4776c8-851b-4954-813f-19a12b738461.item}}^points_available={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.points_awarded}}^status=Assigned^chore_completion_criteria={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.chore_completion_details}}^verifynotice=1.   Complete all required chore tasks
+2.  Contact an adult to verify chore completion
 3.  Log in with admin privileges (Adult)
-4.  Verify chore completion
-5.  Click 'Verify chore completion' button^day_s_required={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.day_s_required}}^assigned_verifier={"display":"Nadine Yohn","value":"fa7e90da2ff320108bdc5e072799b6b6"}</value>
+4.  Verify chore completion (Adult)
+5.  Complete chore (Adult)^day_s_required={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.day_s_required}}^assigned_verifier={"display":"Nadine Yohn","value":"fa7e90da2ff320108bdc5e072799b6b6"}</value>
     </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
@@ -603,10 +600,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 05:50:43</sys_created_on>
         <sys_id>af706bb52fab20106856578b2799b65c</sys_id>
-        <sys_mod_count>208</sys_mod_count>
+        <sys_mod_count>214</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:19</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>ee3ed963-6f56-4e8c-bc56-38dc42b079b6</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=af706bb52fab20106856578b2799b65c"/>
@@ -652,10 +649,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 05:12:18</sys_created_on>
         <sys_id>bcb7d3fd2f6b20106856578b2799b65d</sys_id>
-        <sys_mod_count>214</sys_mod_count>
+        <sys_mod_count>220</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>c77d849e-df0d-4c4e-b808-33b09c0021b0</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=bcb7d3fd2f6b20106856578b2799b65d"/>
@@ -702,10 +699,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:10:48</sys_created_on>
         <sys_id>e915abb92fab20106856578b2799b62c</sys_id>
-        <sys_mod_count>196</sys_mod_count>
+        <sys_mod_count>202</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:40</sys_updated_on>
         <ui_id>5b083ade-7c1a-4499-a5ad-6ae8649f2860</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e915abb92fab20106856578b2799b62c"/>
@@ -736,10 +733,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:10:47</sys_created_on>
         <sys_id>ed15abb92fab20106856578b2799b624</sys_id>
-        <sys_mod_count>196</sys_mod_count>
+        <sys_mod_count>202</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:40</sys_updated_on>
         <ui_id>726432c2-67ba-481f-92be-260ed107c5ee</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ed15abb92fab20106856578b2799b624"/>
@@ -785,10 +782,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-19 00:36:56</sys_created_on>
         <sys_id>fadba8622fa7a0106856578b2799b69f</sys_id>
-        <sys_mod_count>152</sys_mod_count>
+        <sys_mod_count>158</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:40</sys_updated_on>
         <ui_id>79547673-f678-4357-b9d9-df83523f4653</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=fadba8622fa7a0106856578b2799b69f"/>
@@ -834,10 +831,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 05:12:18</sys_created_on>
         <sys_id>fcb7d3fd2f6b20106856578b2799b654</sys_id>
-        <sys_mod_count>214</sys_mod_count>
+        <sys_mod_count>220</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>f733aa51-9a8c-4346-bf00-576d65d764da</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=fcb7d3fd2f6b20106856578b2799b654"/>
@@ -884,10 +881,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:51:54</sys_created_on>
         <sys_id>ff7eebb12feb20106856578b2799b680</sys_id>
-        <sys_mod_count>192</sys_mod_count>
+        <sys_mod_count>198</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>dd4a4830-8956-4aa1-82e2-fa51595f6c89</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ff7eebb12feb20106856578b2799b680"/>
@@ -979,10 +976,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 05:50:43</sys_created_on>
         <sys_id>23706bb52fab20106856578b2799b667</sys_id>
-        <sys_mod_count>108</sys_mod_count>
+        <sys_mod_count>111</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:19</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>0f4776c8-851b-4954-813f-19a12b738461</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1023,10 +1020,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:03:20</sys_created_on>
         <sys_id>496a23a72f23a0106856578b2799b6d1</sys_id>
-        <sys_mod_count>28</sys_mod_count>
+        <sys_mod_count>31</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:20</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:42</sys_updated_on>
         <ui_id>feb16e56-1bc3-4c3d-be8e-33037969f5f0</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1067,10 +1064,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:51:54</sys_created_on>
         <sys_id>737eebb12feb20106856578b2799b67b</sys_id>
-        <sys_mod_count>96</sys_mod_count>
+        <sys_mod_count>99</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>bba84ea5-48ec-4bc3-ad09-ca74ea91e310</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1111,10 +1108,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 05:12:18</sys_created_on>
         <sys_id>78b7d3fd2f6b20106856578b2799b660</sys_id>
-        <sys_mod_count>109</sys_mod_count>
+        <sys_mod_count>112</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>7ff74a61-3aab-4215-bfef-6822e2949ccc</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1155,10 +1152,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 05:12:18</sys_created_on>
         <sys_id>b8b7d3fd2f6b20106856578b2799b664</sys_id>
-        <sys_mod_count>109</sys_mod_count>
+        <sys_mod_count>112</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:19</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>caff388a-6a50-49cc-9084-e8e2e95386e5</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1199,10 +1196,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:03:19</sys_created_on>
         <sys_id>c96a23a72f23a0106856578b2799b6ce</sys_id>
-        <sys_mod_count>28</sys_mod_count>
+        <sys_mod_count>31</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:20</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:42</sys_updated_on>
         <ui_id>4187dca1-9de2-4d04-b6de-9de352e91039</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1243,10 +1240,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 16:35:18</sys_created_on>
         <sys_id>daf3e7ef2fef60106856578b2799b684</sys_id>
-        <sys_mod_count>33</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:19</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:42</sys_updated_on>
         <ui_id>1325e464-7820-49c7-ae9a-afc2bb52fa5e</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1287,10 +1284,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:10:47</sys_created_on>
         <sys_id>e915abb92fab20106856578b2799b627</sys_id>
-        <sys_mod_count>97</sys_mod_count>
+        <sys_mod_count>100</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:40</sys_updated_on>
         <ui_id>6daaef53-ec3f-43a6-8a7b-5766e7cd2618</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1331,10 +1328,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 05:50:43</sys_created_on>
         <sys_id>ef706bb52fab20106856578b2799b669</sys_id>
-        <sys_mod_count>108</sys_mod_count>
+        <sys_mod_count>111</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:19</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1375,10 +1372,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:03:19</sys_created_on>
         <sys_id>f46a23a72f23a0106856578b2799b6cb</sys_id>
-        <sys_mod_count>28</sys_mod_count>
+        <sys_mod_count>31</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:19</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:42</sys_updated_on>
         <ui_id>52564e8c-a9f1-41df-b060-ef95f19171b8</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1419,10 +1416,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-19 00:36:56</sys_created_on>
         <sys_id>fedba8622fa7a0106856578b2799b6a2</sys_id>
-        <sys_mod_count>75</sys_mod_count>
+        <sys_mod_count>78</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:18</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:41</sys_updated_on>
         <ui_id>594b0279-ccb9-45a0-ab77-9bd4d2f85338</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1487,7 +1484,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c5807f352feb20106856578b2799b6cc</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1495,7 +1492,7 @@
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:06</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:31</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=c5807f352feb20106856578b2799b6cc"/>
@@ -1510,10 +1507,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:46</sys_created_on>
         <sys_id>b180bf352feb20106856578b2799b664</sys_id>
-        <sys_mod_count>48</sys_mod_count>
+        <sys_mod_count>51</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:16</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:38</sys_updated_on>
         <trigger_definition display_value="Weekly">cf352104c32222002841b63b12d3ae1f</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -1575,10 +1572,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:23:32</sys_created_on>
         <sys_id>0d0fa3eb2f23a0106856578b2799b6ba</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:06</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:30</sys_updated_on>
         <ui_id>459d251d-7bf0-4e86-ab1f-c055bef34830</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=0d0fa3eb2f23a0106856578b2799b6ba"/>
@@ -1624,10 +1621,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:45</sys_created_on>
         <sys_id>2580bf352feb20106856578b2799b63c</sys_id>
-        <sys_mod_count>62</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:05</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:29</sys_updated_on>
         <ui_id>c77d849e-df0d-4c4e-b808-33b09c0021b0</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=2580bf352feb20106856578b2799b63c"/>
@@ -1673,10 +1670,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:46</sys_created_on>
         <sys_id>2580bf352feb20106856578b2799b649</sys_id>
-        <sys_mod_count>62</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:05</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:29</sys_updated_on>
         <ui_id>ee3ed963-6f56-4e8c-bc56-38dc42b079b6</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=2580bf352feb20106856578b2799b649"/>
@@ -1722,10 +1719,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:45</sys_created_on>
         <sys_id>2d80bf352feb20106856578b2799b634</sys_id>
-        <sys_mod_count>62</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:05</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:29</sys_updated_on>
         <ui_id>f733aa51-9a8c-4346-bf00-576d65d764da</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=2d80bf352feb20106856578b2799b634"/>
@@ -1771,10 +1768,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:23:32</sys_created_on>
         <sys_id>340fa3eb2f23a0106856578b2799b6b3</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:06</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:30</sys_updated_on>
         <ui_id>0caf505c-ecf1-4c7a-a3c7-04a712e04061</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=340fa3eb2f23a0106856578b2799b6b3"/>
@@ -1820,10 +1817,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:46</sys_created_on>
         <sys_id>3d80bf352feb20106856578b2799b650</sys_id>
-        <sys_mod_count>62</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:05</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:29</sys_updated_on>
         <ui_id>0d32da42-c2dc-4a2d-94a0-62b9427119c5</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3d80bf352feb20106856578b2799b650"/>
@@ -1870,10 +1867,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:44</sys_created_on>
         <sys_id>51807f352feb20106856578b2799b6fb</sys_id>
-        <sys_mod_count>62</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:04</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:28</sys_updated_on>
         <ui_id>5b083ade-7c1a-4499-a5ad-6ae8649f2860</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=51807f352feb20106856578b2799b6fb"/>
@@ -1904,10 +1901,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:44</sys_created_on>
         <sys_id>55807f352feb20106856578b2799b6f5</sys_id>
-        <sys_mod_count>62</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:04</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:28</sys_updated_on>
         <ui_id>726432c2-67ba-481f-92be-260ed107c5ee</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=55807f352feb20106856578b2799b6f5"/>
@@ -1953,10 +1950,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:45</sys_created_on>
         <sys_id>5580bf352feb20106856578b2799b627</sys_id>
-        <sys_mod_count>62</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:04</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:28</sys_updated_on>
         <ui_id>1e667c2e-af71-4cad-8203-cc22d592ccbe</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=5580bf352feb20106856578b2799b627"/>
@@ -2003,10 +2000,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:23:32</sys_created_on>
         <sys_id>740fa3eb2f23a0106856578b2799b6ac</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:06</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:30</sys_updated_on>
         <ui_id>a10d4714-55e5-4c98-ad4e-f7ce879facbc</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=740fa3eb2f23a0106856578b2799b6ac"/>
@@ -2043,16 +2040,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:23:32</sys_created_on>
         <sys_id>f40fa3eb2f23a0106856578b2799b6ad</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:13:58</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:24</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>chore_assigned={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.chore_name}}^assigned_to={{0f4776c8-851b-4954-813f-19a12b738461.item}}^points_available={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.points_awarded}}^status=Assigned^chore_completion_criteria={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.chore_completion_details}}^verifynotice=To complete this chore:
-1.   Input any chore notes (as needed)
-2.  Upload any attachments
+        <value>chore_assigned={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.chore_name}}^assigned_to={{0f4776c8-851b-4954-813f-19a12b738461.item}}^points_available={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.points_awarded}}^status=Assigned^chore_completion_criteria={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.chore_completion_details}}^verifynotice=1.   Complete all required chore tasks
+2.  Contact an adult to verify chore completion
 3.  Log in with admin privileges (Adult)
-4.  Verify chore completion
-5.  Click 'Verify chore completion' button^day_s_required={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.day_s_required}}^assigned_verifier={"display":"Nadine Yohn","value":"fa7e90da2ff320108bdc5e072799b6b6"}</value>
+4.  Verify chore completion (Adult)
+5.  Complete chore (Adult)^day_s_required={{3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc.item.day_s_required}}^assigned_verifier={"display":"Nadine Yohn","value":"fa7e90da2ff320108bdc5e072799b6b6"}</value>
     </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
@@ -2069,10 +2065,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:45</sys_created_on>
         <sys_id>9180bf352feb20106856578b2799b62d</sys_id>
-        <sys_mod_count>62</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:05</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:29</sys_updated_on>
         <ui_id>dd4a4830-8956-4aa1-82e2-fa51595f6c89</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9180bf352feb20106856578b2799b62d"/>
@@ -2141,10 +2137,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-19 01:52:35</sys_created_on>
         <sys_id>ba2d38222fe7a0106856578b2799b632</sys_id>
-        <sys_mod_count>48</sys_mod_count>
+        <sys_mod_count>52</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:04</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:28</sys_updated_on>
         <ui_id>79547673-f678-4357-b9d9-df83523f4653</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ba2d38222fe7a0106856578b2799b632"/>
@@ -2191,10 +2187,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:23:32</sys_created_on>
         <sys_id>c10fa3eb2f23a0106856578b2799b6c0</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:06</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:31</sys_updated_on>
         <ui_id>c8479746-c039-4815-a1b4-0bdf9514c87f</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c10fa3eb2f23a0106856578b2799b6c0"/>
@@ -2231,16 +2227,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:23:32</sys_created_on>
         <sys_id>450fa3eb2f23a0106856578b2799b6c1</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:13:59</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:25</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>chore_assigned={{4187dca1-9de2-4d04-b6de-9de352e91039.item.chore_name}}^assigned_to={{52564e8c-a9f1-41df-b060-ef95f19171b8.item}}^points_available={{4187dca1-9de2-4d04-b6de-9de352e91039.item.points_awarded}}^status=Assigned^chore_completion_criteria={{4187dca1-9de2-4d04-b6de-9de352e91039.item.chore_completion_details}}^verifynotice=To complete this chore:
-1.   Input any chore notes (as needed)
-2.  Upload any attachments
+        <value>chore_assigned={{4187dca1-9de2-4d04-b6de-9de352e91039.item.chore_name}}^assigned_to={{52564e8c-a9f1-41df-b060-ef95f19171b8.item}}^points_available={{4187dca1-9de2-4d04-b6de-9de352e91039.item.points_awarded}}^status=Assigned^chore_completion_criteria={{4187dca1-9de2-4d04-b6de-9de352e91039.item.chore_completion_details}}^verifynotice=1.   Complete all required chore tasks
+2.  Contact an adult to verify chore completion
 3.  Log in with admin privileges (Adult)
-4.  Verify chore completion
-5.  Click 'Verify chore completion' button^day_s_required={{4187dca1-9de2-4d04-b6de-9de352e91039.item.day_s_required}}^assigned_verifier={{52564e8c-a9f1-41df-b060-ef95f19171b8.item}}</value>
+4.  Verify chore completion (Adult)
+5.  Complete chore (Adult)^day_s_required={{4187dca1-9de2-4d04-b6de-9de352e91039.item.day_s_required}}^assigned_verifier={{52564e8c-a9f1-41df-b060-ef95f19171b8.item}}</value>
     </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
@@ -2257,10 +2252,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-19 01:52:35</sys_created_on>
         <sys_id>f22d38222fe7a0106856578b2799b637</sys_id>
-        <sys_mod_count>48</sys_mod_count>
+        <sys_mod_count>52</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:04</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:28</sys_updated_on>
         <ui_id>f1d270ce-7019-4e13-94d4-63c73aa622fd</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f22d38222fe7a0106856578b2799b637"/>
@@ -2292,10 +2287,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:23:31</sys_created_on>
         <sys_id>f40fa3eb2f23a0106856578b2799b6a3</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:05</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:29</sys_updated_on>
         <ui_id>f25ff14f-1c49-4baa-be0b-686f4c56e32a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f40fa3eb2f23a0106856578b2799b6a3"/>
@@ -2332,16 +2327,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:23:31</sys_created_on>
         <sys_id>780fa3eb2f23a0106856578b2799b6a4</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:13:58</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:24</sys_updated_on>
         <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
-        <value>chore_assigned={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.chore_name}}^assigned_to={{caff388a-6a50-49cc-9084-e8e2e95386e5.item}}^points_available={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.points_awarded}}^status=Assigned^chore_completion_criteria={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.chore_completion_details}}^verifynotice=To complete this chore:
-1.   Input any chore notes (as needed)
-2.  Upload any attachments
+        <value>chore_assigned={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.chore_name}}^assigned_to={{caff388a-6a50-49cc-9084-e8e2e95386e5.item}}^points_available={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.points_awarded}}^status=Assigned^chore_completion_criteria={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.chore_completion_details}}^verifynotice=1.   Complete all required chore tasks
+2.  Contact an adult to verify chore completion
 3.  Log in with admin privileges (Adult)
-4.  Verify chore completion
-5.  Click 'Verify chore completion' button^day_s_required={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.day_s_required}}^assigned_verifier={"display":"Josh Yohn","value":"6816f79cc0a8016401c5a33be04be441"}</value>
+4.  Verify chore completion (Adult)
+5.  Complete chore (Adult)^day_s_required={{7ff74a61-3aab-4215-bfef-6822e2949ccc.item.day_s_required}}^assigned_verifier={"display":"Josh Yohn","value":"6816f79cc0a8016401c5a33be04be441"}</value>
     </sys_element_mapping>
     <sys_hub_flow_logic action="delete_multiple" query="flow=c5807f352feb20106856578b2799b6cc^sys_idNOT IN072d38222fe7a0106856578b2799b657,0d807f352feb20106856578b2799b6d0,190fe3eb2f23a0106856578b2799b602,1d0fe3eb2f23a0106856578b2799b608,41807f352feb20106856578b2799b6ea,41807f352feb20106856578b2799b6ed,5d0fe3eb2f23a0106856578b2799b605,89807f352feb20106856578b2799b6d4,89807f352feb20106856578b2799b6d7,89807f352feb20106856578b2799b6da,dd0fa3eb2f23a0106856578b2799b6fe"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
@@ -2366,10 +2360,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-19 01:52:36</sys_created_on>
         <sys_id>072d38222fe7a0106856578b2799b657</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>28</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:04</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:28</sys_updated_on>
         <ui_id>594b0279-ccb9-45a0-ab77-9bd4d2f85338</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2410,10 +2404,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:43</sys_created_on>
         <sys_id>0d807f352feb20106856578b2799b6d0</sys_id>
-        <sys_mod_count>33</sys_mod_count>
+        <sys_mod_count>35</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:04</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:28</sys_updated_on>
         <ui_id>6daaef53-ec3f-43a6-8a7b-5766e7cd2618</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2454,10 +2448,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:23:33</sys_created_on>
         <sys_id>190fe3eb2f23a0106856578b2799b602</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:06</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:30</sys_updated_on>
         <ui_id>52564e8c-a9f1-41df-b060-ef95f19171b8</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2498,10 +2492,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:23:33</sys_created_on>
         <sys_id>1d0fe3eb2f23a0106856578b2799b608</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:06</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:31</sys_updated_on>
         <ui_id>feb16e56-1bc3-4c3d-be8e-33037969f5f0</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2542,10 +2536,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:44</sys_created_on>
         <sys_id>41807f352feb20106856578b2799b6ea</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:05</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:29</sys_updated_on>
         <ui_id>0f4776c8-851b-4954-813f-19a12b738461</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2586,10 +2580,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:44</sys_created_on>
         <sys_id>41807f352feb20106856578b2799b6ed</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:06</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:29</sys_updated_on>
         <ui_id>3bdb7eb9-c3b0-4b72-b834-593d84cd4dcc</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2630,10 +2624,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:23:33</sys_created_on>
         <sys_id>5d0fe3eb2f23a0106856578b2799b605</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:06</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:31</sys_updated_on>
         <ui_id>4187dca1-9de2-4d04-b6de-9de352e91039</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2674,10 +2668,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:43</sys_created_on>
         <sys_id>89807f352feb20106856578b2799b6d4</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:05</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:29</sys_updated_on>
         <ui_id>bba84ea5-48ec-4bc3-ad09-ca74ea91e310</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2718,10 +2712,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:43</sys_created_on>
         <sys_id>89807f352feb20106856578b2799b6d7</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:05</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:29</sys_updated_on>
         <ui_id>7ff74a61-3aab-4215-bfef-6822e2949ccc</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2762,10 +2756,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:00:44</sys_created_on>
         <sys_id>89807f352feb20106856578b2799b6da</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:05</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:29</sys_updated_on>
         <ui_id>caff388a-6a50-49cc-9084-e8e2e95386e5</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2806,10 +2800,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-22 17:23:33</sys_created_on>
         <sys_id>dd0fa3eb2f23a0106856578b2799b6fe</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:14:06</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:30:30</sys_updated_on>
         <ui_id>1325e464-7820-49c7-ae9a-afc2bb52fa5e</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
