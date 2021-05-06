@@ -9,10 +9,10 @@
         <comments/>
         <condition>current.status=='In progress' </condition>
         <form_action>true</form_action>
-        <form_button>true</form_button>
+        <form_button>false</form_button>
         <form_button_v2>false</form_button_v2>
         <form_context_menu>false</form_context_menu>
-        <form_link>false</form_link>
+        <form_link>true</form_link>
         <form_menu_button_v2>false</form_menu_button_v2>
         <form_style>unstyled</form_style>
         <hint/>
@@ -24,7 +24,7 @@
         <list_context_menu>false</list_context_menu>
         <list_link>false</list_link>
         <list_save_with_form_button>false</list_save_with_form_button>
-        <list_style/>
+        <list_style>primary</list_style>
         <messages/>
         <name>Save</name>
         <onclick>save()</onclick>
@@ -42,7 +42,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>527d133f2f7720108bdc5e072799b634</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Save</sys_name>
         <sys_overrides/>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
@@ -50,7 +50,7 @@
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_ui_action_527d133f2f7720108bdc5e072799b634</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 21:04:48</sys_updated_on>
+        <sys_updated_on>2021-05-06 13:36:03</sys_updated_on>
         <table>x_604375_family_ch_chore_assignments</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

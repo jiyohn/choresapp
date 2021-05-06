@@ -28,7 +28,7 @@
         <messages/>
         <name>Cancel Chore</name>
         <onclick>CancelChore()</onclick>
-        <order>100</order>
+        <order>110</order>
         <script><![CDATA[function CancelChore(){
 	var answer =confirm("Chore will be cancelled.  Click OK to continue.");
 	if (answer==true){
@@ -51,7 +51,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>09d3a23f2fb320108bdc5e072799b624</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Cancel Chore</sys_name>
         <sys_overrides/>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
@@ -59,7 +59,7 @@
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_ui_action_09d3a23f2fb320108bdc5e072799b624</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 21:20:49</sys_updated_on>
+        <sys_updated_on>2021-05-06 13:36:37</sys_updated_on>
         <table>x_604375_family_ch_chore_assignments</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

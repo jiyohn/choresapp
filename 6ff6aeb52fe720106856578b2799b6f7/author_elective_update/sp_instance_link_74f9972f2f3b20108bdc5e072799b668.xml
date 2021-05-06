@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph>shopping-cart</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">6e59b6672ff720108bdc5e072799b668</sp_column>
+        <sp_page display_value="chore_assignments">47a817eb2f3b20108bdc5e072799b612</sp_page>
+        <sp_widget display_value="In Progress Link">6407b6e32ff720108bdc5e072799b6df</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-05 02:07:11</sys_created_on>
+        <sys_id>74f9972f2f3b20108bdc5e072799b668</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name>My Assignments</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sp_instance_link_74f9972f2f3b20108bdc5e072799b668</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-06 13:51:38</sys_updated_on>
+        <title>My Assignments</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=74f9972f2f3b20108bdc5e072799b668"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sp_instance_link_74f9972f2f3b20108bdc5e072799b668</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;primary&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;shopping-cart&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;6e59b6672ff720108bdc5e072799b668&lt;/sp_column&gt;&lt;sp_page display_value="chore_assignments"&gt;47a817eb2f3b20108bdc5e072799b612&lt;/sp_page&gt;&lt;sp_widget display_value="In Progress Link"&gt;6407b6e32ff720108bdc5e072799b6df&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;josh.yohn&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-05 02:07:11&lt;/sys_created_on&gt;&lt;sys_id&gt;74f9972f2f3b20108bdc5e072799b668&lt;/sys_id&gt;&lt;sys_mod_count&gt;22&lt;/sys_mod_count&gt;&lt;sys_name&gt;My Assignments&lt;/sys_name&gt;&lt;sys_package display_value="Family Chores" source="x_604375_family_ch"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Family Chores"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_74f9972f2f3b20108bdc5e072799b668&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;josh.yohn&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-06 13:51:38&lt;/sys_updated_on&gt;&lt;title&gt;My Assignments&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=74f9972f2f3b20108bdc5e072799b668"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2146340119</payload_hash>
+        <record_name>My Assignments</record_name>
+        <reverted_from/>
+        <source>c7befe2b2ff720108bdc5e072799b60a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-06 13:51:38</sys_created_on>
+        <sys_id>29c44bc42f0070108bdc5e072799b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17941f2c1e40000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-06 13:51:38</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>e1c44bc478007010ca995be8573a7c93</update_guid>
+        <update_guid_history>e1c44bc478007010ca995be8573a7c93:-2146340119,95c44bc4a7007010b08c5a34e5ee1373:1567511532,90c44bc491007010251c9a8897c4d422:-2146340119,50c44bc4ab00701044c64139ccf36213:1567511532,1fb40bc4170070105ade03ce145f3bb3:-2146340119,13b40bc4af007010818667ce6153d1a9:1567511532,b6b40bc4640070107694a0c51fd4967e:-2146340119,b2b4c7c4b00070105ba637d4619dced2:1567511532,85b4c7c4780070105783ed96886ce2f4:-2146340119,41b4c7c4ef007010ada3ddb297dc78ed:1567511532,2464c3c4b4007010a6cd1b93d231a675:-2146340119,dff30b84ee00701099a8bdbb6886cdb6:-1636765839,d9734784a0007010c8fe7b75bb220db0:1813198757,31c9ab2b707b2010052ee273af04f0ca:-161470557,1b132fa3487b2010e730efaf1f66840d:282421299,2282efa3f97b2010a97e6ff105f1576e:1166911667,52af1f237e7b2010cfa4d2cdf68e3777:-402666380,cd6f5723437b2010b695d0f35646e444:1488825299,e77d53efe03b20105a41fefc9a224315:-1216686182,953b576fc73b201022442c2bb5641de3:-1937954790,a33a9b2f313b2010b2dfbb59ebb3b0a9:-70943877,732a1feb763b20109f68d9f7ecb27d5e:-1122217893,70f9972f8f3b201057f5dfd295623a6a:-1517587835</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="My Assignments">ccd44bc42f0070108bdc5e072799b6f8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-06 13:51:48</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>729153ad0c5c4d0ab9b62462d589bf71</sys_id>
+        <sys_metadata>74f9972f2f3b20108bdc5e072799b668</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Assignments</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sp_instance_link_74f9972f2f3b20108bdc5e072799b668</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_74f9972f2f3b20108bdc5e072799b668">29c44bc42f0070108bdc5e072799b6ac</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-06 13:51:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
     <announcement action="INSERT_OR_UPDATE">
-        <active>false</active>
+        <active>true</active>
         <click_target>urlNew</click_target>
         <details/>
         <details_link_text>[PA AppSec] Daily Data Collection</details_link_text>
@@ -21,14 +21,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-18 03:37:09</sys_created_on>
         <sys_id>748b40d62f6b60106856578b2799b623</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Alert : Appsec Daily Data Collection</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>announcement_748b40d62f6b60106856578b2799b623</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-18 03:37:09</sys_updated_on>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-06 09:00:01</sys_updated_on>
         <title>Invalid Run As User</title>
         <to/>
         <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>

@@ -11,7 +11,7 @@
         <copied_from_name/>
         <description>Sends email to {yohnusmc@gmail.com} when a chore status is changed to In {2 - Progress}.</description>
         <internal_name>chore_in_progress_notification</internal_name>
-        <label_cache>[{"name":"203c94d2-2d27-4910-96fb-84852a630ae0.Records","label":"1➛Records","reference_display":"Records","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"203c94d2-2d27-4910-96fb-84852a630ae0.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"203c94d2-2d27-4910-96fb-84852a630ae0.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"c0b93a74-82c8-476a-bc9d-f54cf2f693f5.email","label":"1➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Updated_1.current.assigned_to.name","label":"Trigger➛Chore Assignments Record➛Assigned to➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"name"},{"name":"Updated_1.current.chore_assigned","label":"Trigger➛Chore Assignments Record➛Chore assigned","reference":"","reference_display":"Chore assigned","type":"choice","base_type":"choice","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"chore_assigned"},{"name":"Updated_1.current.sys_created_on","label":"Trigger➛Chore Assignments Record➛Created","reference":"","reference_display":"Created","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"sys_created_on"},{"name":"Updated_1.current.sys_created_by","label":"Trigger➛Chore Assignments Record➛Created by","reference":"","reference_display":"Created by","type":"string","base_type":"string","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"sys_created_by"},{"name":"Updated_1.current.status","label":"Trigger➛Chore Assignments Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"status"},{"name":"Updated_1.current.assigned_to.first_name","label":"Trigger➛Chore Assignments Record➛Assigned to➛First name","reference":"","reference_display":"First name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"first_name"}]</label_cache>
+        <label_cache>[{"name":"Updated_1.current.assigned_to.first_name","label":"Trigger➛Chore Assignments Record➛Assigned to➛First name","reference":"","reference_display":"First name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"first_name"},{"name":"Updated_1.current.status","label":"Trigger➛Chore Assignments Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"status"},{"name":"Updated_1.current.sys_created_by","label":"Trigger➛Chore Assignments Record➛Created by","reference":"","reference_display":"Created by","type":"string","base_type":"string","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"sys_created_by"},{"name":"Updated_1.current.sys_created_on","label":"Trigger➛Chore Assignments Record➛Created","reference":"","reference_display":"Created","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"sys_created_on"},{"name":"Updated_1.current.chore_assigned","label":"Trigger➛Chore Assignments Record➛Chore assigned","reference":"","reference_display":"Chore assigned","type":"choice","base_type":"choice","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"chore_assigned"},{"name":"Updated_1.current.assigned_to.name","label":"Trigger➛Chore Assignments Record➛Assigned to➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"name"},{"name":"c0b93a74-82c8-476a-bc9d-f54cf2f693f5.email","label":"1➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"203c94d2-2d27-4910-96fb-84852a630ae0.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"203c94d2-2d27-4910-96fb-84852a630ae0.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"203c94d2-2d27-4910-96fb-84852a630ae0.Records","label":"1➛Records","reference_display":"Records","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
         <latest_snapshot>3aa224de2ff320108bdc5e072799b6fb</latest_snapshot>
         <master_snapshot>3d1349662fe7a0106856578b2799b61c</master_snapshot>
         <name>Chore In Progress Notification</name>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d880c9a22fe7a0106856578b2799b67b</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Chore In Progress Notification</sys_name>
         <sys_overrides/>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_hub_flow_d880c9a22fe7a0106856578b2799b67b</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:04:16</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:12:05</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=d880c9a22fe7a0106856578b2799b67b"/>
@@ -104,10 +104,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-19 02:17:38</sys_created_on>
         <sys_id>7de285662fe7a0106856578b2799b677</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:04:15</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:12:05</sys_updated_on>
         <trigger_definition display_value="Updated">bb695e60c31322002841b63b12d3aea5</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -173,7 +173,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FD2beb673b59b720106454bb00284b126a,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
+        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FD2ae46700af8070101ec4a0ae8a0911c1,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -231,14 +231,14 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-19 02:17:38</sys_created_on>
         <sys_id>35e285662fe7a0106856578b2799b669</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:04:15</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:12:04</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -412,148 +412,6 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_instance action="delete_multiple" query="flow=d880c9a22fe7a0106856578b2799b67b^sys_idNOT INf9e285662fe7a0106856578b2799b67f"/>
-    <sys_hub_action_instance action="INSERT_OR_UPDATE">
-        <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
-        <action_type_parent/>
-        <comment>Send email with details</comment>
-        <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
-        <display_text/>
-        <flow display_value="Chore In Progress Notification">d880c9a22fe7a0106856578b2799b67b</flow>
-        <order>1</order>
-        <parent_ui_id/>
-        <sys_class_name>sys_hub_action_instance</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 02:17:39</sys_created_on>
-        <sys_id>f9e285662fe7a0106856578b2799b67f</sys_id>
-        <sys_mod_count>24</sys_mod_count>
-        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:04:16</sys_updated_on>
-        <ui_id>c0b93a74-82c8-476a-bc9d-f54cf2f693f5</ui_id>
-    </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=f9e285662fe7a0106856578b2799b67f"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>f9e285662fe7a0106856578b2799b67f</document_key>
-        <order>2</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-05-05 22:04:16</sys_created_on>
-        <sys_id>3feb673b2fb720108bdc5e072799b698</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:04:16</sys_updated_on>
-        <value>0</value>
-        <variable display_value="Include Watermark">066bb6b57303230082999cfd7bf6a7c3</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>f9e285662fe7a0106856578b2799b67f</document_key>
-        <order>4</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 02:55:51</sys_created_on>
-        <sys_id>69ab896e2fe7a0106856578b2799b648</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-04 13:55:59</sys_updated_on>
-        <value/>
-        <variable display_value="CC">d9806bf4a70323008299b39f087901e0</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>f9e285662fe7a0106856578b2799b67f</document_key>
-        <order>7</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 02:17:39</sys_created_on>
-        <sys_id>7de285662fe7a0106856578b2799b682</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 02:17:39</sys_updated_on>
-        <value/>
-        <variable display_value="Body">ad806bf4a70323008299b39f087901f2</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>f9e285662fe7a0106856578b2799b67f</document_key>
-        <order>3</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 02:17:39</sys_created_on>
-        <sys_id>b9e285662fe7a0106856578b2799b682</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-04 14:44:05</sys_updated_on>
-        <value>yohnusmc@gmail.com</value>
-        <variable display_value="To">59806bf4a70323008299b39f087901da</variable>
-    </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=f9e285662fe7a0106856578b2799b67f"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>ah_body</field>
-        <id>f9e285662fe7a0106856578b2799b67f</id>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 02:17:39</sys_created_on>
-        <sys_id>75e285662fe7a0106856578b2799b682</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 02:17:39</sys_updated_on>
-        <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
-        <value>&lt;p data-tinymcerootblock=""&gt;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:2f47a5ad-fbb6-4be0-bb00-81d7dbf59312}}"&gt;&lt;span class="data_pill  accepts_transform_functions" contenteditable="false" data-pillvalue="{{fd_transform:2f47a5ad-fbb6-4be0-bb00-81d7dbf59312}}"&gt;&lt;span class="data-pill-content-container"&gt;Trigger&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Chore Assignments Record&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Assigned to&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Name&lt;button id="transform_function_facade_2f47a5ad-fbb6-4be0-bb00-81d7dbf59312" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; has just started an assigned chore.&amp;nbsp; See below for details.&lt;/p&gt;
-&lt;p data-tinymcerootblock=""&gt;Chore assigned on:&amp;nbsp;&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:9d2ea75b-cc59-4e90-a9b6-71a86a46f395}}"&gt;&lt;span class="data_pill  accepts_transform_functions" contenteditable="false" data-pillvalue="{{fd_transform:9d2ea75b-cc59-4e90-a9b6-71a86a46f395}}"&gt;&lt;span class="data-pill-content-container"&gt;Trigger&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Chore Assignments Record&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Created&lt;button id="transform_function_facade_9d2ea75b-cc59-4e90-a9b6-71a86a46f395" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;Chore assigned by:&amp;nbsp;&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:671cb674-d911-42af-b071-4aee05265275}}"&gt;&lt;span class="data_pill  accepts_transform_functions" contenteditable="false" data-pillvalue="{{fd_transform:671cb674-d911-42af-b071-4aee05265275}}"&gt;&lt;span class="data-pill-content-container"&gt;Trigger&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Chore Assignments Record&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Created by&lt;button id="transform_function_facade_671cb674-d911-42af-b071-4aee05265275" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;Chore name:&amp;nbsp;&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:2f179782-acde-42ae-adff-535e6420f5b8}}"&gt;&lt;span class="data_pill  accepts_transform_functions" contenteditable="false" data-pillvalue="{{fd_transform:2f179782-acde-42ae-adff-535e6420f5b8}}"&gt;&lt;span class="data-pill-content-container"&gt;Trigger&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Chore Assignments Record&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Chore assigned&lt;button id="transform_function_facade_2f179782-acde-42ae-adff-535e6420f5b8" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;Chore status:&amp;nbsp;&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:acf25f37-bd32-4609-a946-d70195ca9d61}}"&gt;&lt;span class="data_pill  accepts_transform_functions" contenteditable="false" data-pillvalue="{{fd_transform:acf25f37-bd32-4609-a946-d70195ca9d61}}"&gt;&lt;span class="data-pill-content-container"&gt;Trigger&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Chore Assignments Record&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Status&lt;button id="transform_function_facade_acf25f37-bd32-4609-a946-d70195ca9d61" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;Dont forget to check up on&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:09bfc945-6eb7-4bdb-9400-d401097f8f66}}"&gt;&lt;span class="data_pill  accepts_transform_functions" contenteditable="false" data-pillvalue="{{fd_transform:09bfc945-6eb7-4bdb-9400-d401097f8f66}}"&gt;&lt;span class="data-pill-content-container"&gt;Trigger&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Chore Assignments Record&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;Assigned to&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;First name&lt;button id="transform_function_facade_09bfc945-6eb7-4bdb-9400-d401097f8f66" class="transform_function_facade no_transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; and his/her progress!&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p data-tinymcerootblock=""&gt;**This message is auto-generated.&amp;nbsp; Please do not reply.&lt;/p&gt;</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>ah_cc</field>
-        <id>f9e285662fe7a0106856578b2799b67f</id>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 02:55:51</sys_created_on>
-        <sys_id>e5ab896e2fe7a0106856578b2799b648</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 02:55:51</sys_updated_on>
-        <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>ah_subject</field>
-        <id>f9e285662fe7a0106856578b2799b67f</id>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 02:17:39</sys_created_on>
-        <sys_id>39e285662fe7a0106856578b2799b682</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 02:17:39</sys_updated_on>
-        <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
-        <value>{{Updated_1.current.assigned_to.name}} has started a chore!</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>ah_to</field>
-        <id>f9e285662fe7a0106856578b2799b67f</id>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 02:17:39</sys_created_on>
-        <sys_id>bde285662fe7a0106856578b2799b681</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 02:17:39</sys_updated_on>
-        <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>watermark_email</field>
-        <id>f9e285662fe7a0106856578b2799b67f</id>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-05-05 22:04:16</sys_created_on>
-        <sys_id>bbeb673b2fb720108bdc5e072799b698</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:04:16</sys_updated_on>
-        <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
-        <value/>
-    </sys_element_mapping>
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=d880c9a22fe7a0106856578b2799b67b^sys_idNOT IN0ae285662fe7a0106856578b2799b685,46e285662fe7a0106856578b2799b685,82e285662fe7a0106856578b2799b685,8ee285662fe7a0106856578b2799b685,cae285662fe7a0106856578b2799b685,f9e285662fe7a0106856578b2799b684"/>
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>d880c9a22fe7a0106856578b2799b67b</attached_to>

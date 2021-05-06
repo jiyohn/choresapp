@@ -4,7 +4,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>Item Stream Segment</name>
         <order>10</order>
-        <screen display_value="All Assigned Chores">435294442f0830108bdc5e072799b649</screen>
+        <screen display_value="All">435294442f0830108bdc5e072799b649</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-06 00:52:08</sys_created_on>

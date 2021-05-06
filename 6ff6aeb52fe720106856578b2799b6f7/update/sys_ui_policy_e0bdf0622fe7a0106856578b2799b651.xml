@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
     <sys_ui_policy action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <conditions table="x_604375_family_ch_chore_assignments">status=Incomplete^ORstatus=Cancelled^ORstatus=In progress^EQ<item display_value="4 - Incomplete" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="Incomplete"/>
             <item display_value="5 - Cancelled" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="Cancelled"/>
             <item display_value="2 - In progress" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="In progress"/>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e0bdf0622fe7a0106856578b2799b651</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Status field Read-only if status is Cancelled or Incomplete</sys_name>
         <sys_overrides/>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_ui_policy_e0bdf0622fe7a0106856578b2799b651</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 21:10:23</sys_updated_on>
+        <sys_updated_on>2021-05-06 13:19:13</sys_updated_on>
         <table>x_604375_family_ch_chore_assignments</table>
         <ui_type>0</ui_type>
         <view/>

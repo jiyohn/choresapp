@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Contact Dad">40db3ff32ff720108bdc5e072799b6a3</button>
+        <button display_value="Send Verify Request (Dad)">40db3ff32ff720108bdc5e072799b6a3</button>
         <color_theme>primary</color_theme>
         <description/>
         <field_name/>

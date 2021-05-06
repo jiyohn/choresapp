@@ -11,8 +11,8 @@
         <copied_from_name>Automated Points Generator</copied_from_name>
         <description>After a chore is complete, the name and points for each completed chore are displayed on the Chore Points table.</description>
         <internal_name>weekly_points_generator</internal_name>
-        <label_cache>[{"name":"4eb65ea6-16f8-41e6-810e-773c94259d7a.table_name","label":"3➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4eb65ea6-16f8-41e6-810e-773c94259d7a.record","label":"3➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments Record","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"31f29c5a-03cf-47c7-81ce-011bc436c40a.item","label":"2➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments Record","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"ffb8a398-2c18-48b2-bfa9-a09b1cae131b.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffb8a398-2c18-48b2-bfa9-a09b1cae131b.Table","label":"1➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffb8a398-2c18-48b2-bfa9-a09b1cae131b.Records","label":"1➛Chore Assignments Records","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments Records","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4ee31942-062f-46bb-a184-0a4e90ea3580.item","label":"5➛Chore Points Record","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points Record","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"ffff8f75-0f34-49e5-b7c5-47a740446a88.Count","label":"4➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffff8f75-0f34-49e5-b7c5-47a740446a88.Table","label":"4➛Chore Points Table","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffff8f75-0f34-49e5-b7c5-47a740446a88.Records","label":"4➛Chore Points Records","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points Records","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9eaeca43-a094-48df-8fad-65d92a66d436.email","label":"4➛Email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"138380a7-e484-4080-b196-b42d33aa57b0"}},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.points_available","label":"9➛Chore Assignments Record➛Points available","reference":"","reference_display":"Points available","type":"integer","base_type":"integer","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"points_available"},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.assigned_to","label":"9➛Chore Assignments Record➛Assigned to","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"assigned_to"},{"name":"fa83e529-8786-462b-bf7e-447951dc2f92.table_name","label":"10➛Chore Points Table","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fa83e529-8786-462b-bf7e-447951dc2f92.record","label":"10➛Chore Points Record","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points Record","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item","label":"9➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments Record","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Records","label":"7➛Chore Assignments Records","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments Records","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Table","label":"7➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Count","label":"7➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f46c2c08-401a-461f-b4e2-40be1caa9dc5.Records","label":"8➛User Records","reference":"sys_user","reference_display":"User Records","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f46c2c08-401a-461f-b4e2-40be1caa9dc5.Table","label":"8➛User Table","reference":"sys_user","reference_display":"User Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f46c2c08-401a-461f-b4e2-40be1caa9dc5.Count","label":"8➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.assigned_to.name","label":"9➛Chore Assignments Record➛Assigned to➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"name"},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.chore_assigned","label":"9➛Chore Assignments Record➛Chore assigned","reference":"","reference_display":"Chore assigned","type":"choice","base_type":"choice","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"chore_assigned"},{"name":"a847d6c4-3678-4348-b7ab-b2d5eb2d37f6.email","label":"11➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
-        <latest_snapshot>61c730932f3320108bdc5e072799b6ae</latest_snapshot>
+        <label_cache>[{"name":"4eb65ea6-16f8-41e6-810e-773c94259d7a.table_name","label":"3➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4eb65ea6-16f8-41e6-810e-773c94259d7a.record","label":"3➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"31f29c5a-03cf-47c7-81ce-011bc436c40a.item","label":"2➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"ffb8a398-2c18-48b2-bfa9-a09b1cae131b.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffb8a398-2c18-48b2-bfa9-a09b1cae131b.Table","label":"1➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffb8a398-2c18-48b2-bfa9-a09b1cae131b.Records","label":"1➛Chore Assignments Records","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4ee31942-062f-46bb-a184-0a4e90ea3580.item","label":"5➛Chore Points Record","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"ffff8f75-0f34-49e5-b7c5-47a740446a88.Count","label":"4➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffff8f75-0f34-49e5-b7c5-47a740446a88.Table","label":"4➛Chore Points Table","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffff8f75-0f34-49e5-b7c5-47a740446a88.Records","label":"4➛Chore Points Records","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9eaeca43-a094-48df-8fad-65d92a66d436.email","label":"4➛Email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"138380a7-e484-4080-b196-b42d33aa57b0"}},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.points_available","label":"9➛Chore Assignments Record➛Points available","reference":"","reference_display":"Points available","type":"integer","base_type":"integer","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"points_available"},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.assigned_to","label":"9➛Chore Assignments Record➛Assigned to","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"assigned_to"},{"name":"fa83e529-8786-462b-bf7e-447951dc2f92.table_name","label":"10➛Chore Points Table","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fa83e529-8786-462b-bf7e-447951dc2f92.record","label":"10➛Chore Points Record","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item","label":"9➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Records","label":"7➛Chore Assignments Records","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Table","label":"7➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Count","label":"7➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f46c2c08-401a-461f-b4e2-40be1caa9dc5.Records","label":"8➛User Records","reference":"sys_user","reference_display":"User","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f46c2c08-401a-461f-b4e2-40be1caa9dc5.Table","label":"8➛User Table","reference":"sys_user","reference_display":"User","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f46c2c08-401a-461f-b4e2-40be1caa9dc5.Count","label":"8➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.assigned_to.name","label":"9➛Chore Assignments Record➛Assigned to➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"name"},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.chore_assigned","label":"9➛Chore Assignments Record➛Chore assigned","reference":"","reference_display":"Chore assigned","type":"choice","base_type":"choice","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"chore_assigned"},{"name":"a847d6c4-3678-4348-b7ab-b2d5eb2d37f6.email","label":"11➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <latest_snapshot>4ab037752feb20106856578b2799b65d</latest_snapshot>
         <master_snapshot>4ab037752feb20106856578b2799b65d</master_snapshot>
         <name>Weekly Points Generator</name>
         <natlang/>
@@ -23,14 +23,14 @@
         <sc_callable>false</sc_callable>
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
-        <status>draft</status>
+        <status>published</status>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:33:41</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>345ae3fd2fab20106856578b2799b602</sys_id>
-        <sys_mod_count>40</sys_mod_count>
+        <sys_mod_count>43</sys_mod_count>
         <sys_name>Weekly Points Generator</sys_name>
         <sys_overrides/>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_hub_flow_345ae3fd2fab20106856578b2799b602</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:26</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=345ae3fd2fab20106856578b2799b602"/>
@@ -109,10 +109,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:33:42</sys_created_on>
         <sys_id>c55ae3fd2fab20106856578b2799b61b</sys_id>
-        <sys_mod_count>42</sys_mod_count>
+        <sys_mod_count>45</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:25</sys_updated_on>
         <trigger_definition display_value="Weekly">cf352104c32222002841b63b12d3ae1f</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -159,7 +159,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-04-17 06:33:41</sys_updated_on>
     </sys_flow_cat_variable_model>
-    <sys_hub_action_instance action="delete_multiple" query="flow=345ae3fd2fab20106856578b2799b602^sys_idNOT IN3bc187ca2f6760106856578b2799b6c6,4d5ae3fd2fab20106856578b2799b613,552baffd2fab20106856578b2799b6d5,90ec67712feb20106856578b2799b6e7,acec67712feb20106856578b2799b6ee,cd5ae3fd2fab20106856578b2799b619,efbc4dae2fe7a0106856578b2799b60a,f3c187ca2f6760106856578b2799b6bc"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=345ae3fd2fab20106856578b2799b602^sys_idNOT IN3bc187ca2f6760106856578b2799b6c6,4d5ae3fd2fab20106856578b2799b613,552baffd2fab20106856578b2799b6d5,90ec67712feb20106856578b2799b6e7,acec67712feb20106856578b2799b6ee,cd5ae3fd2fab20106856578b2799b619,f3c187ca2f6760106856578b2799b6bc"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -175,10 +175,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-17 22:15:08</sys_created_on>
         <sys_id>3bc187ca2f6760106856578b2799b6c6</sys_id>
-        <sys_mod_count>60</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:25</sys_updated_on>
         <ui_id>4eb65ea6-16f8-41e6-810e-773c94259d7a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3bc187ca2f6760106856578b2799b6c6"/>
@@ -261,10 +261,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:33:41</sys_created_on>
         <sys_id>4d5ae3fd2fab20106856578b2799b613</sys_id>
-        <sys_mod_count>84</sys_mod_count>
+        <sys_mod_count>90</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:26</sys_updated_on>
         <ui_id>e1f0c200-571b-4c5b-b5a2-3e047e395e9b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4d5ae3fd2fab20106856578b2799b613"/>
@@ -310,10 +310,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:37:15</sys_created_on>
         <sys_id>552baffd2fab20106856578b2799b6d5</sys_id>
-        <sys_mod_count>82</sys_mod_count>
+        <sys_mod_count>88</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:26</sys_updated_on>
         <ui_id>f46c2c08-401a-461f-b4e2-40be1caa9dc5</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=552baffd2fab20106856578b2799b6d5"/>
@@ -359,10 +359,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:44:51</sys_created_on>
         <sys_id>90ec67712feb20106856578b2799b6e7</sys_id>
-        <sys_mod_count>76</sys_mod_count>
+        <sys_mod_count>82</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:26</sys_updated_on>
         <ui_id>ffff8f75-0f34-49e5-b7c5-47a740446a88</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=90ec67712feb20106856578b2799b6e7"/>
@@ -409,10 +409,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:44:51</sys_created_on>
         <sys_id>acec67712feb20106856578b2799b6ee</sys_id>
-        <sys_mod_count>76</sys_mod_count>
+        <sys_mod_count>82</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:26</sys_updated_on>
         <ui_id>bc2ad451-3fc0-408d-934e-d03fb441eb57</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=acec67712feb20106856578b2799b6ee"/>
@@ -444,10 +444,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:33:42</sys_created_on>
         <sys_id>cd5ae3fd2fab20106856578b2799b619</sys_id>
-        <sys_mod_count>84</sys_mod_count>
+        <sys_mod_count>90</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:26</sys_updated_on>
         <ui_id>fa83e529-8786-462b-bf7e-447951dc2f92</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=cd5ae3fd2fab20106856578b2799b619"/>
@@ -492,99 +492,6 @@
     </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
-        <action_type_parent/>
-        <comment>Send notification email</comment>
-        <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
-        <display_text/>
-        <flow display_value="Weekly Points Generator">345ae3fd2fab20106856578b2799b602</flow>
-        <order>11</order>
-        <parent_ui_id/>
-        <sys_class_name>sys_hub_action_instance</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 03:00:38</sys_created_on>
-        <sys_id>efbc4dae2fe7a0106856578b2799b60a</sys_id>
-        <sys_mod_count>14</sys_mod_count>
-        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
-        <ui_id>a847d6c4-3678-4348-b7ab-b2d5eb2d37f6</ui_id>
-    </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=efbc4dae2fe7a0106856578b2799b60a"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>efbc4dae2fe7a0106856578b2799b60a</document_key>
-        <order>3</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 03:00:38</sys_created_on>
-        <sys_id>2fbc4dae2fe7a0106856578b2799b60d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-04 14:43:42</sys_updated_on>
-        <value>yohnusmc@gmail.com</value>
-        <variable display_value="To">59806bf4a70323008299b39f087901da</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>efbc4dae2fe7a0106856578b2799b60a</document_key>
-        <order>2</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-05-05 22:02:45</sys_created_on>
-        <sys_id>399b233b2fb720108bdc5e072799b6c9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
-        <value>0</value>
-        <variable display_value="Include Watermark">066bb6b57303230082999cfd7bf6a7c3</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>efbc4dae2fe7a0106856578b2799b60a</document_key>
-        <order>4</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 03:00:38</sys_created_on>
-        <sys_id>67bc4dae2fe7a0106856578b2799b60e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-04 13:55:16</sys_updated_on>
-        <value/>
-        <variable display_value="CC">d9806bf4a70323008299b39f087901e0</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>efbc4dae2fe7a0106856578b2799b60a</document_key>
-        <order>6</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 03:00:38</sys_created_on>
-        <sys_id>a3bc4dae2fe7a0106856578b2799b60e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:38</sys_updated_on>
-        <value>Weekly chore points have been posted!</value>
-        <variable display_value="Subject">5d806bf4a70323008299b39f087901ec</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>efbc4dae2fe7a0106856578b2799b60a</document_key>
-        <order>7</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 03:00:38</sys_created_on>
-        <sys_id>efbc4dae2fe7a0106856578b2799b60d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:38</sys_updated_on>
-        <value>&lt;p&gt;Good evening,&lt;/p&gt;
-&lt;p&gt;A list of completed chores have posted to the &lt;strong&gt;Chore Points&lt;/strong&gt; table.  Open the table to view the details!&lt;/p&gt;
-&lt;p&gt;**This message is auto-generated.  Please do not reply.&lt;/p&gt;</value>
-        <variable display_value="Body">ad806bf4a70323008299b39f087901f2</variable>
-    </sys_variable_value>
-    <sys_hub_action_instance action="INSERT_OR_UPDATE">
-        <action_inputs/>
         <action_type display_value="Look Up Records">43400a1587003300663ca1bb36cb0b4b</action_type>
         <action_type_parent/>
         <comment>Look up all not complete chores</comment>
@@ -597,10 +504,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-17 22:15:08</sys_created_on>
         <sys_id>f3c187ca2f6760106856578b2799b6bc</sys_id>
-        <sys_mod_count>60</sys_mod_count>
+        <sys_mod_count>66</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:25</sys_updated_on>
         <ui_id>ffb8a398-2c18-48b2-bfa9-a09b1cae131b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f3c187ca2f6760106856578b2799b6bc"/>
@@ -655,10 +562,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-17 22:15:08</sys_created_on>
         <sys_id>33c187ca2f6760106856578b2799b6c0</sys_id>
-        <sys_mod_count>29</sys_mod_count>
+        <sys_mod_count>32</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:25</sys_updated_on>
         <ui_id>31f29c5a-03cf-47c7-81ce-011bc436c40a</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -699,10 +606,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:33:41</sys_created_on>
         <sys_id>455ae3fd2fab20106856578b2799b60a</sys_id>
-        <sys_mod_count>44</sys_mod_count>
+        <sys_mod_count>47</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:26</sys_updated_on>
         <ui_id>5d5a14d7-c9da-4f40-bd0e-2590a23c8624</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -743,10 +650,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 06:44:51</sys_created_on>
         <sys_id>9cec67712feb20106856578b2799b6e9</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>41</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 22:02:45</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:26</sys_updated_on>
         <ui_id>4ee31942-062f-46bb-a184-0a4e90ea3580</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -770,17 +677,17 @@
         <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"aab037752feb20106856578b2799b6cb","name":"plan"}}</plan>
         <plan_id>345ae3fd2fab20106856578b2799b602</plan_id>
-        <snapshot>61c730932f3320108bdc5e072799b6ae</snapshot>
+        <snapshot>4ab037752feb20106856578b2799b65d</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:01:39</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>aab037752feb20106856578b2799b6cb</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-19 02:04:29</sys_updated_on>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-06 16:13:24</sys_updated_on>
         <trigger display_value="">aab037752feb20106856578b2799b6ca</trigger>
     </sys_flow_trigger_plan>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
@@ -794,7 +701,7 @@
         <copied_from_name/>
         <description>After a chore is complete, the name and points for each completed chore are displayed on the Chore Points table.</description>
         <internal_name>weekly_points_generator</internal_name>
-        <label_cache>[{"name":"a847d6c4-3678-4348-b7ab-b2d5eb2d37f6.email","label":"11➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.chore_assigned","label":"9➛Chore Assignments Record➛Chore assigned","reference":"","reference_display":"Chore assigned","type":"choice","base_type":"choice","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"chore_assigned"},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.assigned_to.name","label":"9➛Chore Assignments Record➛Assigned to➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"name"},{"name":"f46c2c08-401a-461f-b4e2-40be1caa9dc5.Count","label":"8➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f46c2c08-401a-461f-b4e2-40be1caa9dc5.Table","label":"8➛User Table","reference":"sys_user","reference_display":"User","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f46c2c08-401a-461f-b4e2-40be1caa9dc5.Records","label":"8➛User Records","reference":"sys_user","reference_display":"User","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Count","label":"7➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Table","label":"7➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Records","label":"7➛Chore Assignments Records","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item","label":"9➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"fa83e529-8786-462b-bf7e-447951dc2f92.record","label":"10➛Chore Points Record","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fa83e529-8786-462b-bf7e-447951dc2f92.table_name","label":"10➛Chore Points Table","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.assigned_to","label":"9➛Chore Assignments Record➛Assigned to","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"assigned_to"},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.points_available","label":"9➛Chore Assignments Record➛Points available","reference":"","reference_display":"Points available","type":"integer","base_type":"integer","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"points_available"},{"name":"9eaeca43-a094-48df-8fad-65d92a66d436.email","label":"4➛Email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"138380a7-e484-4080-b196-b42d33aa57b0"}},{"name":"ffff8f75-0f34-49e5-b7c5-47a740446a88.Records","label":"4➛Chore Points Records","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffff8f75-0f34-49e5-b7c5-47a740446a88.Table","label":"4➛Chore Points Table","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffff8f75-0f34-49e5-b7c5-47a740446a88.Count","label":"4➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4ee31942-062f-46bb-a184-0a4e90ea3580.item","label":"5➛Chore Points Record","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"ffb8a398-2c18-48b2-bfa9-a09b1cae131b.Records","label":"1➛Chore Assignments Records","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffb8a398-2c18-48b2-bfa9-a09b1cae131b.Table","label":"1➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffb8a398-2c18-48b2-bfa9-a09b1cae131b.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"31f29c5a-03cf-47c7-81ce-011bc436c40a.item","label":"2➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"4eb65ea6-16f8-41e6-810e-773c94259d7a.record","label":"3➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4eb65ea6-16f8-41e6-810e-773c94259d7a.table_name","label":"3➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"4eb65ea6-16f8-41e6-810e-773c94259d7a.table_name","label":"3➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4eb65ea6-16f8-41e6-810e-773c94259d7a.record","label":"3➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"31f29c5a-03cf-47c7-81ce-011bc436c40a.item","label":"2➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"ffb8a398-2c18-48b2-bfa9-a09b1cae131b.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffb8a398-2c18-48b2-bfa9-a09b1cae131b.Table","label":"1➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffb8a398-2c18-48b2-bfa9-a09b1cae131b.Records","label":"1➛Chore Assignments Records","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"4ee31942-062f-46bb-a184-0a4e90ea3580.item","label":"5➛Chore Points Record","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"ffff8f75-0f34-49e5-b7c5-47a740446a88.Count","label":"4➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffff8f75-0f34-49e5-b7c5-47a740446a88.Table","label":"4➛Chore Points Table","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ffff8f75-0f34-49e5-b7c5-47a740446a88.Records","label":"4➛Chore Points Records","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"9eaeca43-a094-48df-8fad-65d92a66d436.email","label":"4➛Email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"138380a7-e484-4080-b196-b42d33aa57b0"}},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.points_available","label":"9➛Chore Assignments Record➛Points available","reference":"","reference_display":"Points available","type":"integer","base_type":"integer","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"points_available"},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.assigned_to","label":"9➛Chore Assignments Record➛Assigned to","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"assigned_to"},{"name":"fa83e529-8786-462b-bf7e-447951dc2f92.table_name","label":"10➛Chore Points Table","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fa83e529-8786-462b-bf7e-447951dc2f92.record","label":"10➛Chore Points Record","reference":"x_604375_family_ch_chore_points","reference_display":"Chore Points","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item","label":"9➛Chore Assignments Record","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"reference","base_type":"reference","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Records","label":"7➛Chore Assignments Records","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Table","label":"7➛Chore Assignments Table","reference":"x_604375_family_ch_chore_assignments","reference_display":"Chore Assignments","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Count","label":"7➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f46c2c08-401a-461f-b4e2-40be1caa9dc5.Records","label":"8➛User Records","reference":"sys_user","reference_display":"User","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f46c2c08-401a-461f-b4e2-40be1caa9dc5.Table","label":"8➛User Table","reference":"sys_user","reference_display":"User","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f46c2c08-401a-461f-b4e2-40be1caa9dc5.Count","label":"8➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.assigned_to.name","label":"9➛Chore Assignments Record➛Assigned to➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"name"},{"name":"5d5a14d7-c9da-4f40-bd0e-2590a23c8624.item.chore_assigned","label":"9➛Chore Assignments Record➛Chore assigned","reference":"","reference_display":"Chore assigned","type":"choice","base_type":"choice","parent_table_name":"x_604375_family_ch_chore_assignments","column_name":"chore_assigned"},{"name":"a847d6c4-3678-4348-b7ab-b2d5eb2d37f6.email","label":"11➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
         <master>true</master>
         <name>Weekly Points Generator</name>
         <natlang/>
@@ -811,7 +718,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4ab037752feb20106856578b2799b65d</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -819,7 +726,7 @@
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:55</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:21</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=4ab037752feb20106856578b2799b65d"/>
@@ -834,10 +741,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:01:37</sys_created_on>
         <sys_id>9eb037752feb20106856578b2799b686</sys_id>
-        <sys_mod_count>31</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:59</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:24</sys_updated_on>
         <trigger_definition display_value="Weekly">cf352104c32222002841b63b12d3ae1f</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -884,7 +791,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-04-17 07:01:37</sys_updated_on>
     </sys_flow_cat_variable_model>
-    <sys_hub_action_instance action="delete_multiple" query="flow=4ab037752feb20106856578b2799b65d^sys_idNOT IN0eb037752feb20106856578b2799b66c,2ed40bce2f6760106856578b2799b619,8ab037752feb20106856578b2799b671,96b037752feb20106856578b2799b685,9bcccdae2fe7a0106856578b2799b67d,c2b037752feb20106856578b2799b678,dab037752feb20106856578b2799b67f,ead40bce2f6760106856578b2799b620"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=4ab037752feb20106856578b2799b65d^sys_idNOT IN0eb037752feb20106856578b2799b66c,2ed40bce2f6760106856578b2799b619,8ab037752feb20106856578b2799b671,96b037752feb20106856578b2799b685,c2b037752feb20106856578b2799b678,dab037752feb20106856578b2799b67f,ead40bce2f6760106856578b2799b620"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_type display_value="Look Up Records">43400a1587003300663ca1bb36cb0b4b</action_type>
@@ -899,10 +806,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:01:37</sys_created_on>
         <sys_id>0eb037752feb20106856578b2799b66c</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:54</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:20</sys_updated_on>
         <ui_id>ffff8f75-0f34-49e5-b7c5-47a740446a88</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=0eb037752feb20106856578b2799b66c"/>
@@ -948,10 +855,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-17 22:28:26</sys_created_on>
         <sys_id>2ed40bce2f6760106856578b2799b619</sys_id>
-        <sys_mod_count>32</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:54</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:20</sys_updated_on>
         <ui_id>ffb8a398-2c18-48b2-bfa9-a09b1cae131b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=2ed40bce2f6760106856578b2799b619"/>
@@ -998,10 +905,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:01:37</sys_created_on>
         <sys_id>8ab037752feb20106856578b2799b671</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:54</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:20</sys_updated_on>
         <ui_id>bc2ad451-3fc0-408d-934e-d03fb441eb57</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=8ab037752feb20106856578b2799b671"/>
@@ -1033,10 +940,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:01:37</sys_created_on>
         <sys_id>96b037752feb20106856578b2799b685</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:55</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:21</sys_updated_on>
         <ui_id>fa83e529-8786-462b-bf7e-447951dc2f92</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=96b037752feb20106856578b2799b685"/>
@@ -1081,85 +988,6 @@
     </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
-        <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
-        <comment>Send notification email</comment>
-        <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
-        <display_text/>
-        <flow display_value="Weekly Points Generator">4ab037752feb20106856578b2799b65d</flow>
-        <order>11</order>
-        <parent_ui_id/>
-        <sys_class_name>sys_hub_action_instance</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 03:00:53</sys_created_on>
-        <sys_id>9bcccdae2fe7a0106856578b2799b67d</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:55</sys_updated_on>
-        <ui_id>a847d6c4-3678-4348-b7ab-b2d5eb2d37f6</ui_id>
-    </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=9bcccdae2fe7a0106856578b2799b67d"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>9bcccdae2fe7a0106856578b2799b67d</document_key>
-        <order>3</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 03:00:53</sys_created_on>
-        <sys_id>13cccdae2fe7a0106856578b2799b680</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:53</sys_updated_on>
-        <value>yohnusmc@gmail.com</value>
-        <variable display_value="To">59806bf4a70323008299b39f087901da</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>9bcccdae2fe7a0106856578b2799b67d</document_key>
-        <order>4</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 03:00:53</sys_created_on>
-        <sys_id>5bcccdae2fe7a0106856578b2799b680</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:53</sys_updated_on>
-        <value>josh.yohn@accenturefederal.com</value>
-        <variable display_value="CC">d9806bf4a70323008299b39f087901e0</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>9bcccdae2fe7a0106856578b2799b67d</document_key>
-        <order>6</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 03:00:53</sys_created_on>
-        <sys_id>97cccdae2fe7a0106856578b2799b680</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:53</sys_updated_on>
-        <value>Weekly chore points have been posted!</value>
-        <variable display_value="Subject">5d806bf4a70323008299b39f087901ec</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>9bcccdae2fe7a0106856578b2799b67d</document_key>
-        <order>7</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-04-19 03:00:53</sys_created_on>
-        <sys_id>d3cccdae2fe7a0106856578b2799b680</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:53</sys_updated_on>
-        <value>&lt;p&gt;Good evening,&lt;/p&gt;
-&lt;p&gt;A list of completed chores have posted to the &lt;strong&gt;Chore Points&lt;/strong&gt; table.  Open the table to view the details!&lt;/p&gt;
-&lt;p&gt;**This message is auto-generated.  Please do not reply.&lt;/p&gt;</value>
-        <variable display_value="Body">ad806bf4a70323008299b39f087901f2</variable>
-    </sys_variable_value>
-    <sys_hub_action_instance action="INSERT_OR_UPDATE">
-        <action_inputs/>
         <action_type display_value="Look Up Records">43400a1587003300663ca1bb36cb0b4b</action_type>
         <action_type_parent display_value="Look Up Records">d1c56ec50b30030085c083eb37673a50</action_type_parent>
         <comment>Search for all complete chores in Chore Assignments table</comment>
@@ -1172,10 +1000,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:01:37</sys_created_on>
         <sys_id>c2b037752feb20106856578b2799b678</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:55</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:20</sys_updated_on>
         <ui_id>e1f0c200-571b-4c5b-b5a2-3e047e395e9b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c2b037752feb20106856578b2799b678"/>
@@ -1221,10 +1049,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:01:37</sys_created_on>
         <sys_id>dab037752feb20106856578b2799b67f</sys_id>
-        <sys_mod_count>38</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:55</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:20</sys_updated_on>
         <ui_id>f46c2c08-401a-461f-b4e2-40be1caa9dc5</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=dab037752feb20106856578b2799b67f"/>
@@ -1271,10 +1099,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-17 22:28:26</sys_created_on>
         <sys_id>ead40bce2f6760106856578b2799b620</sys_id>
-        <sys_mod_count>32</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:54</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:20</sys_updated_on>
         <ui_id>4eb65ea6-16f8-41e6-810e-773c94259d7a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ead40bce2f6760106856578b2799b620"/>
@@ -1345,7 +1173,7 @@
     </sys_element_mapping>
     <sys_hub_flow_logic action="delete_multiple" query="flow=4ab037752feb20106856578b2799b65d^sys_idNOT IN06b037752feb20106856578b2799b661,0ab037752feb20106856578b2799b664,72d40bce2f6760106856578b2799b62c"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">d0ec67712feb20106856578b2799b6e9</block>
+        <block display_value="">c362f8272f3320108bdc5e072799b66e</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -1366,10 +1194,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:01:37</sys_created_on>
         <sys_id>06b037752feb20106856578b2799b661</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:54</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:20</sys_updated_on>
         <ui_id>4ee31942-062f-46bb-a184-0a4e90ea3580</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1389,7 +1217,7 @@
         <value>{{ffff8f75-0f34-49e5-b7c5-47a740446a88.Records}}</value>
     </sys_element_mapping>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">b668677d2fab20106856578b2799b63b</block>
+        <block display_value="">8b62f8272f3320108bdc5e072799b676</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -1410,10 +1238,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-17 07:01:37</sys_created_on>
         <sys_id>0ab037752feb20106856578b2799b664</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:55</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:21</sys_updated_on>
         <ui_id>5d5a14d7-c9da-4f40-bd0e-2590a23c8624</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1433,7 +1261,7 @@
         <value>{{e1f0c200-571b-4c5b-b5a2-3e047e395e9b.Records}}</value>
     </sys_element_mapping>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">b7c187ca2f6760106856578b2799b6bf</block>
+        <block display_value="">0b62f8272f3320108bdc5e072799b64d</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -1454,10 +1282,10 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-17 22:28:27</sys_created_on>
         <sys_id>72d40bce2f6760106856578b2799b62c</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-04-19 03:00:54</sys_updated_on>
+        <sys_updated_on>2021-05-06 16:13:20</sys_updated_on>
         <ui_id>31f29c5a-03cf-47c7-81ce-011bc436c40a</ui_id>
         <workflow_inputs/>
         <workflow_reference/>

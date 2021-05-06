@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
     <sys_sg_item_stream action="INSERT_OR_UPDATE">
-        <data_item display_value="My Chore Assignments">7c1d677b2fb720108bdc5e072799b6dd</data_item>
+        <data_item display_value="Pending">7c1d677b2fb720108bdc5e072799b6dd</data_item>
         <interleaved_field/>
         <name>My Chores Item Stream</name>
         <sys_class_name>sys_sg_item_stream</sys_class_name>
