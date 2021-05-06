@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg_content">
+    <sys_push_notif_msg_content action="DELETE">
+        <name>Chores Assigned</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <script><![CDATA[(function buildJSON(/*GlideRecord*/ current, /*String*/ message, /*Object*/ attributes) {
+
+    var layoutFieldGenerator = new global.NotificationLayoutFieldGenerator();
+    var identifier = layoutFieldGenerator.layoutField(current.sys_class_name, current.sys_id, "assigned_to");
+    var description = layoutFieldGenerator.layoutField(current.sys_class_name, current.sys_id, "chore_assigned");
+    var status = layoutFieldGenerator.layoutField(current.sys_class_name, current.sys_id, "status");
+    
+	var deepLinkGenerator = new global.MobileDeepLinkGenerator("request");
+	var link = deepLinkGenerator.getFormScreenLink("03a6f1472f2720106856578b2799b6e7", current.getTableName(), current.getValue("sys_id"));
+	
+	var json = {};
+	
+	json = {
+        "aps" : {
+            "sound" : "default"
+        },
+		"Link": link,
+        "Layout" : {
+             "Status": status,
+             "Identifier" : identifier,
+             "Description" : description
+        }
+    };
+    
+    return json;
+    
+})(current, message, attributes);]]></script>
+        <sys_class_name>sys_push_notif_msg_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 17:59:53</sys_created_on>
+        <sys_id>b79d62172fa360106856578b2799b6e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chores Assigned</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_push_notif_msg_content_b79d62172fa360106856578b2799b6e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-21 17:59:53</sys_updated_on>
+    </sys_push_notif_msg_content>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_push_notif_msg_content_b79d62172fa360106856578b2799b6e9</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_push_notif_msg_content"&gt;
+    &lt;sys_push_notif_msg_content action="INSERT_OR_UPDATE"&gt;
+        &lt;name&gt;Chores Assigned&lt;/name&gt;
+        &lt;push_app display_value="ServiceNow Mobile Application"&gt;05ed2fb177002300258da2e2c81061c2&lt;/push_app&gt;
+        &lt;script&gt;&lt;![CDATA[(function buildJSON(/*GlideRecord*/ current, /*String*/ message, /*Object*/ attributes) {
+
+    var layoutFieldGenerator = new global.NotificationLayoutFieldGenerator();
+    var identifier = layoutFieldGenerator.layoutField(current.sys_class_name, current.sys_id, "assigned_to");
+    var description = layoutFieldGenerator.layoutField(current.sys_class_name, current.sys_id, "chore_assigned");
+    var status = layoutFieldGenerator.layoutField(current.sys_class_name, current.sys_id, "status");
+    
+	var deepLinkGenerator = new global.MobileDeepLinkGenerator("request");
+	var link = deepLinkGenerator.getFormScreenLink("03a6f1472f2720106856578b2799b6e7", current.getTableName(), current.getValue("sys_id"));
+	
+	var json = {};
+	
+	json = {
+        "aps" : {
+            "sound" : "default"
+        },
+		"Link": link,
+        "Layout" : {
+             "Status": status,
+             "Identifier" : identifier,
+             "Description" : description
+        }
+    };
+    
+    return json;
+    
+})(current, message, attributes);]]&gt;&lt;/script&gt;
+        &lt;sys_class_name&gt;sys_push_notif_msg_content&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2021-04-21 17:59:53&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;b79d62172fa360106856578b2799b6e9&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;Chores Assigned&lt;/sys_name&gt;
+        &lt;sys_package display_value="Family Chores" source="x_604375_family_ch"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="Family Chores"&gt;6ff6aeb52fe720106856578b2799b6f7&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_push_notif_msg_content_b79d62172fa360106856578b2799b6e9&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2021-04-21 17:59:53&lt;/sys_updated_on&gt;
+    &lt;/sys_push_notif_msg_content&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>-1102628639</payload_hash>
+        <record_name>Chores Assigned</record_name>
+        <reverted_from/>
+        <source>ebfc581a2ff320108bdc5e072799b651</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-30 15:09:39</sys_created_on>
+        <sys_id>751d505a2ff320108bdc5e072799b690</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179235404930000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-30 15:09:39</sys_updated_on>
+        <type>Push Notification Message Content</type>
+        <update_guid>351d505af2f3201076caf0f2a05fd790</update_guid>
+        <update_guid_history>351d505af2f3201076caf0f2a05fd790:-1102628639</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-06 03:19:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_push_notif_msg_content">sys_push_notif_msg_content</sys_db_object>
+        <sys_id>63526d19da9242baac7673757f5728c9</sys_id>
+        <sys_metadata>b79d62172fa360106856578b2799b6e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chores Assigned</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_push_notif_msg_content_b79d62172fa360106856578b2799b6e9</sys_update_name>
+        <sys_update_version display_value="sys_push_notif_msg_content_b79d62172fa360106856578b2799b6e9">751d505a2ff320108bdc5e072799b690</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-06 03:19:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

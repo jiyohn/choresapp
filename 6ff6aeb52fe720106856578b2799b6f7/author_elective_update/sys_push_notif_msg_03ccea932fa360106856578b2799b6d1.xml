@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="DELETE">
+        <message_string>New weekly chores have been assigned!</message_string>
+        <name>Chores Assigned (Mobile)</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <push_message_content/>
+        <subject/>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 17:56:44</sys_created_on>
+        <sys_id>03ccea932fa360106856578b2799b6d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Chores Assigned (Mobile)</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_push_notif_msg_03ccea932fa360106856578b2799b6d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-21 18:23:13</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+        <type>push</type>
+    </sys_push_notif_msg>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_push_notif_msg_03ccea932fa360106856578b2799b6d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg"><sys_push_notif_msg action="INSERT_OR_UPDATE"><message_string>New weekly chores have been assigned!</message_string><name>Chores Assigned (Mobile)</name><push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app><push_message_content/><subject/><sys_class_name>sys_push_notif_msg</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-21 17:56:44</sys_created_on><sys_id>03ccea932fa360106856578b2799b6d1</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Chores Assigned (Mobile)</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_push_notif_msg_03ccea932fa360106856578b2799b6d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-21 18:23:13</sys_updated_on><table>x_604375_family_ch_chore_assignments</table><type>push</type></sys_push_notif_msg></record_update>]]></payload>
+        <payload_hash>1776365506</payload_hash>
+        <record_name>Chores Assigned (Mobile)</record_name>
+        <reverted_from/>
+        <source>c7befe2b2ff720108bdc5e072799b60a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-06 03:19:09</sys_created_on>
+        <sys_id>2c04b4cc2f4830108bdc5e072799b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1793fafb0270000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-06 03:19:09</sys_updated_on>
+        <type>Push Notification Message</type>
+        <update_guid>a804b4cc49483010fbbe75f81984978d</update_guid>
+        <update_guid_history>a804b4cc49483010fbbe75f81984978d:0,391d505a68f320109f0e6d0ec4937f87:-751271722</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-06 03:56:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_push_notif_msg">sys_push_notif_msg</sys_db_object>
+        <sys_id>bf227e2f920e40e8af4175c0fca2ac40</sys_id>
+        <sys_metadata>03ccea932fa360106856578b2799b6d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chores Assigned (Mobile)</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_push_notif_msg_03ccea932fa360106856578b2799b6d1</sys_update_name>
+        <sys_update_version display_value="sys_push_notif_msg_03ccea932fa360106856578b2799b6d1">2c04b4cc2f4830108bdc5e072799b68d</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-06 03:56:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

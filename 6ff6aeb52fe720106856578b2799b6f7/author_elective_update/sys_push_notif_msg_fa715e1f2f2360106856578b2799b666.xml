@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="DELETE">
+        <message_string>${name} has completed a chore:  ${completed_chore}</message_string>
+        <name>Chore Complete Push (Mobile)</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <push_message_content display_value="Completed Notification Content">9e08f4802f8830108bdc5e072799b61d</push_message_content>
+        <subject/>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 15:57:52</sys_created_on>
+        <sys_id>fa715e1f2f2360106856578b2799b666</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Chore Complete Push (Mobile)</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_push_notif_msg_fa715e1f2f2360106856578b2799b666</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-06 03:40:51</sys_updated_on>
+        <table>x_604375_family_ch_chore_points</table>
+        <type>push</type>
+    </sys_push_notif_msg>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_push_notif_msg_fa715e1f2f2360106856578b2799b666</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg"><sys_push_notif_msg action="INSERT_OR_UPDATE"><message_string>${name} has completed a chore:  ${completed_chore}</message_string><name>Chore Complete Push (Mobile)</name><push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app><push_message_content display_value="Completed Notification Content">9e08f4802f8830108bdc5e072799b61d</push_message_content><subject/><sys_class_name>sys_push_notif_msg</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-21 15:57:52</sys_created_on><sys_id>fa715e1f2f2360106856578b2799b666</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Chore Complete Push (Mobile)</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_push_notif_msg_fa715e1f2f2360106856578b2799b666</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-06 03:40:51</sys_updated_on><table>x_604375_family_ch_chore_points</table><type>push</type></sys_push_notif_msg></record_update>]]></payload>
+        <payload_hash>-853596172</payload_hash>
+        <record_name>Chore Complete Push (Mobile)</record_name>
+        <reverted_from/>
+        <source>c7befe2b2ff720108bdc5e072799b60a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-06 03:40:51</sys_created_on>
+        <sys_id>26f8b0c02f8830108bdc5e072799b66c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1793fc3909e0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-06 03:40:51</sys_updated_on>
+        <type>Push Notification Message</type>
+        <update_guid>aef8b0c0e0883010b7b458de7bcb216b</update_guid>
+        <update_guid_history>aef8b0c0e0883010b7b458de7bcb216b:-853596172,6004b4ccac48301090ada4d773551aa0:0,b51d505aaaf32010590ddb2c7c2cd898:890128051</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-06 03:55:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_push_notif_msg">sys_push_notif_msg</sys_db_object>
+        <sys_id>1205ffefab904b44a7bf23b6cbe96ac4</sys_id>
+        <sys_metadata>fa715e1f2f2360106856578b2799b666</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chore Complete Push (Mobile)</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_push_notif_msg_fa715e1f2f2360106856578b2799b666</sys_update_name>
+        <sys_update_version display_value="sys_push_notif_msg_fa715e1f2f2360106856578b2799b666">26f8b0c02f8830108bdc5e072799b66c</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-06 03:55:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
