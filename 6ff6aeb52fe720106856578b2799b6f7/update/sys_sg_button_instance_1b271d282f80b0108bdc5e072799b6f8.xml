@@ -6,25 +6,25 @@
         <description/>
         <field_name/>
         <icon/>
-        <label>Contact Nadine</label>
-        <location>footer</location>
-        <name>Contact Nadine</name>
+        <label>Contact Mom</label>
+        <location>top</location>
+        <name>Contact Mom</name>
         <order>20</order>
-        <parent>17170de82f40b0108bdc5e072799b6a1</parent>
+        <parent>df1745e82f40b0108bdc5e072799b6db</parent>
         <parent_table>sys_sg_screen</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-05-07 18:16:52</sys_created_on>
-        <sys_id>241b85ac2f40b0108bdc5e072799b6d0</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Contact Nadine</sys_name>
+        <sys_created_on>2021-05-07 19:10:44</sys_created_on>
+        <sys_id>1b271d282f80b0108bdc5e072799b6f8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Contact Mom</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_update_name>sys_sg_button_instance_241b85ac2f40b0108bdc5e072799b6d0</sys_update_name>
+        <sys_update_name>sys_sg_button_instance_1b271d282f80b0108bdc5e072799b6f8</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-07 19:43:34</sys_updated_on>
-        <table>sys_user</table>
+        <sys_updated_on>2021-05-07 19:12:33</sys_updated_on>
+        <table/>
     </sys_sg_button_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=241b85ac2f40b0108bdc5e072799b6d0"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=1b271d282f80b0108bdc5e072799b6f8"/>
 </record_update>
