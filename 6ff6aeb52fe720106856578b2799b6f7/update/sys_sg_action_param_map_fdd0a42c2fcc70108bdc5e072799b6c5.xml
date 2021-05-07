@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button - Chore Points - Chores Dashboard - List">79d0a42c2fcc70108bdc5e072799b69f</button>
+        <item_parameter display_value="Chore Points points">39d0a42c2fcc70108bdc5e072799b698</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-07 15:12:22</sys_created_on>
+        <sys_id>fdd0a42c2fcc70108bdc5e072799b6c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>39d0a42c2fcc70108bdc5e072799b698</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_fdd0a42c2fcc70108bdc5e072799b6c5</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-07 15:12:22</sys_updated_on>
+        <ui_parameter display_value="Points">bdd0a42c2fcc70108bdc5e072799b6ac</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

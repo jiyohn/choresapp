@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Locations</name>
+        <query_condition table="sys_user">roles=admin^geolocation_tracked=true<item endquery="false" field="roles" goto="false" newquery="false" operator="=" or="false" value="admin"/>
+            <item endquery="false" field="geolocation_tracked" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-07 15:34:45</sys_created_on>
+        <sys_id>69f5a8202f00b0108bdc5e072799b6bd</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Locations</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_data_item_69f5a8202f00b0108bdc5e072799b6bd</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-07 17:46:30</sys_updated_on>
+        <table>sys_user</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=69f5a8202f00b0108bdc5e072799b6bd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_data_item_69f5a8202f00b0108bdc5e072799b6bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><instance_relative_url_qc/><name>Locations</name><query_condition table="sys_user">roles=admin^geolocation_tracked=true<item endquery="false" field="roles" goto="false" newquery="false" operator="=" or="false" value="admin"/><item endquery="false" field="geolocation_tracked" goto="false" newquery="false" operator="=" or="false" value="true"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-07 15:34:45</sys_created_on><sys_id>69f5a8202f00b0108bdc5e072799b6bd</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Locations</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_data_item_69f5a8202f00b0108bdc5e072799b6bd</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-07 17:46:30</sys_updated_on><table>sys_user</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=69f5a8202f00b0108bdc5e072799b6bd"/></record_update>]]></payload>
+        <payload_hash>1516429261</payload_hash>
+        <record_name>Locations</record_name>
+        <reverted_from/>
+        <source>c7befe2b2ff720108bdc5e072799b60a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-07 17:46:30</sys_created_on>
+        <sys_id>7f1485682f40b0108bdc5e072799b610</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17947f023cc0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-07 17:46:30</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>771485680340b010b97d857c64fc6c10</update_guid>
+        <update_guid_history>771485680340b010b97d857c64fc6c10:1516429261,53d24128b640b010dc612e3ac3c7b893:-173538240,c56289e4c040b0101aca2cb36d658e36:-1321320139,e5f5a8201100b0100f050ed07224d8c0:-687854148</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-07 17:55:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>00fb31de983c446d8031f3837ed936b9</sys_id>
+        <sys_metadata>69f5a8202f00b0108bdc5e072799b6bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Locations</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_69f5a8202f00b0108bdc5e072799b6bd</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_69f5a8202f00b0108bdc5e072799b6bd">7f1485682f40b0108bdc5e072799b610</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-07 17:55:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

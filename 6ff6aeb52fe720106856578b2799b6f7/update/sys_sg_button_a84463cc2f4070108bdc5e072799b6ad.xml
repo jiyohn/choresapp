@@ -48,20 +48,20 @@
         <show_fields/>
         <show_refresh_on_previous>false</show_refresh_on_previous>
         <show_signature>false</show_signature>
-        <sms>Hey mom, do you have a minute?</sms>
+        <sms>Hello</sms>
         <success_message/>
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-06 16:09:12</sys_created_on>
         <sys_id>a84463cc2f4070108bdc5e072799b6ad</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Contact Mom</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_sg_button_a84463cc2f4070108bdc5e072799b6ad</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 16:09:12</sys_updated_on>
+        <sys_updated_on>2021-05-07 16:36:09</sys_updated_on>
         <table/>
         <take_value_from_field>false</take_value_from_field>
         <type>phone</type>

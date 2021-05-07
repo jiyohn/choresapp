@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_location_item_stream">
+    <sys_sg_location_item_stream action="INSERT_OR_UPDATE">
+        <data_item/>
+        <interleaved_field/>
+        <location>parent</location>
+        <name>Locations Item Stream</name>
+        <pin_color>#64DDAC</pin_color>
+        <sys_class_name>sys_sg_location_item_stream</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-07 15:39:52</sys_created_on>
+        <sys_id>b827a8602f00b0108bdc5e072799b65f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Locations Item Stream</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_location_item_stream_b827a8602f00b0108bdc5e072799b65f</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-07 17:39:29</sys_updated_on>
+        <table>cmn_location</table>
+    </sys_sg_location_item_stream>
+</record_update>

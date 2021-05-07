@@ -5,21 +5,23 @@
         <group_by/>
         <instance_relative_url_qc/>
         <name>Contacts</name>
-        <query_condition table="sys_user">roles=x_604375_family_ch.admin<item endquery="false" field="roles" goto="false" newquery="false" operator="=" or="false" value="x_604375_family_ch.admin"/>
+        <query_condition table="sys_user">roles=x_604375_family_ch.admin^geolocation_tracked=true^location=666468ec2fcc70108bdc5e072799b6b0<item endquery="false" field="roles" goto="false" newquery="false" operator="=" or="false" value="x_604375_family_ch.admin"/>
+            <item endquery="false" field="geolocation_tracked" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item display_table="cmn_location" display_value="Yohn Location" endquery="false" field="location" goto="false" newquery="false" operator="=" or="false" value="666468ec2fcc70108bdc5e072799b6b0"/>
         </query_condition>
         <query_condition_script/>
         <sys_class_name>sys_sg_data_item</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-06 02:30:49</sys_created_on>
         <sys_id>ecf86c442f4830108bdc5e072799b6f7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Contacts</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_sg_data_item_ecf86c442f4830108bdc5e072799b6f7</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 02:30:49</sys_updated_on>
+        <sys_updated_on>2021-05-07 17:29:35</sys_updated_on>
         <table>sys_user</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=ecf86c442f4830108bdc5e072799b6f7"/>
