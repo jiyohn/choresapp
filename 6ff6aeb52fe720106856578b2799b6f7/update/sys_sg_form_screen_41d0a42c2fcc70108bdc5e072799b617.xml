@@ -13,21 +13,21 @@
         <item_view/>
         <name>Chores Dashboard - List Form Screen</name>
         <override_context_with_data_item>false</override_context_with_data_item>
-        <roles_override/>
+        <roles_override>admin,x_604375_family_ch.admin,x_604375_family_ch.chore_assignments_user,x_604375_family_ch.chore_points_user,x_604375_family_ch.chores_user,x_604375_family_ch.read-only,x_604375_family_ch.user,uxframework_user,rest_api_explorer,export_set_admin,export_set_scheduler,script_fix_admin,suggestion_exempt,text_search_admin,uxframework_designer</roles_override>
         <segments_height>medium</segments_height>
         <segments_min_width>medium</segments_min_width>
         <sys_class_name>sys_sg_form_screen</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-07 15:12:19</sys_created_on>
         <sys_id>41d0a42c2fcc70108bdc5e072799b617</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Chores Dashboard - List Form Screen</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_sg_form_screen_41d0a42c2fcc70108bdc5e072799b617</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-07 15:12:19</sys_updated_on>
+        <sys_updated_on>2021-05-07 21:07:30</sys_updated_on>
         <table>x_604375_family_ch_chore_points</table>
         <use_view_config>true</use_view_config>
         <view_config display_value="Chores Dashboard - List Form Screen">01d0642c2fcc70108bdc5e072799b6f8</view_config>
