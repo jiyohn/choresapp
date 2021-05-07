@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="DELETE">
+        <name>text_01_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-07 16:32:41</sys_created_on>
+        <sys_id>163374e82f00b0108bdc5e072799b6f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_01_element</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_163374e82f00b0108bdc5e072799b6f3</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-07 16:32:41</sys_updated_on>
+        <view_config display_value="Locations Form View Config">7c27a8602f00b0108bdc5e072799b665</view_config>
+        <view_template_slot display_value="text_01">3aaf6f930f202010e70a4abec4767e02</view_template_slot>
+    </sys_sg_view_config_element>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_view_config_element_163374e82f00b0108bdc5e072799b6f3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element"><sys_sg_view_config_element action="INSERT_OR_UPDATE"><name>text_01_element</name><sys_class_name>sys_sg_view_config_element</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-07 16:32:41</sys_created_on><sys_id>163374e82f00b0108bdc5e072799b6f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>text_01_element</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_view_config_element_163374e82f00b0108bdc5e072799b6f3</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-07 16:32:41</sys_updated_on><view_config display_value="Locations Form View Config">7c27a8602f00b0108bdc5e072799b665</view_config><view_template_slot display_value="text_01">3aaf6f930f202010e70a4abec4767e02</view_template_slot></sys_sg_view_config_element></record_update>]]></payload>
+        <payload_hash>1132112569</payload_hash>
+        <record_name>text_01_element</record_name>
+        <reverted_from/>
+        <source>c7befe2b2ff720108bdc5e072799b60a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-07 16:32:41</sys_created_on>
+        <sys_id>923374e82f00b0108bdc5e072799b6f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17947ac8de60000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-07 16:32:41</sys_updated_on>
+        <type>View Config Element</type>
+        <update_guid>da3374e8d700b0107df4ad197edc74f4</update_guid>
+        <update_guid_history>da3374e8d700b0107df4ad197edc74f4:1132112569</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-07 17:13:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element">sys_sg_view_config_element</sys_db_object>
+        <sys_id>236dabc32f8c469d9ba0b7907f2e4c09</sys_id>
+        <sys_metadata>163374e82f00b0108bdc5e072799b6f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_01_element</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_163374e82f00b0108bdc5e072799b6f3</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_163374e82f00b0108bdc5e072799b6f3">923374e82f00b0108bdc5e072799b6f5</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-07 17:13:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -7,7 +7,7 @@
         <name>Contacts</name>
         <query_condition table="sys_user">roles=x_604375_family_ch.admin^geolocation_tracked=true^location=666468ec2fcc70108bdc5e072799b6b0<item endquery="false" field="roles" goto="false" newquery="false" operator="=" or="false" value="x_604375_family_ch.admin"/>
             <item endquery="false" field="geolocation_tracked" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item display_table="cmn_location" display_value="Yohn Location" endquery="false" field="location" goto="false" newquery="false" operator="=" or="false" value="666468ec2fcc70108bdc5e072799b6b0"/>
+            <item endquery="false" field="location" goto="false" newquery="false" operator="=" or="false" value="666468ec2fcc70108bdc5e072799b6b0"/>
         </query_condition>
         <query_condition_script/>
         <sys_class_name>sys_sg_data_item</sys_class_name>
