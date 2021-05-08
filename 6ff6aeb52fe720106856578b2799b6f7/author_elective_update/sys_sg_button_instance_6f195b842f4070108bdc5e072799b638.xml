@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Send Verify Request (Mom)">3d0c7b372ff720108bdc5e072799b67d</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Send Verify Request (Nadine)</label>
+        <location>leading_swipe</location>
+        <name>Send Verify Request (Nadine)</name>
+        <order>50</order>
+        <parent>0f6757442f4070108bdc5e072799b6fb</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-06 15:20:32</sys_created_on>
+        <sys_id>6f195b842f4070108bdc5e072799b638</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Send Verify Request (Nadine)</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_6f195b842f4070108bdc5e072799b638</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-07 20:02:21</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=6f195b842f4070108bdc5e072799b638"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_button_instance_6f195b842f4070108bdc5e072799b638</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Send Verify Request (Mom)">3d0c7b372ff720108bdc5e072799b67d</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Send Verify Request (Nadine)</label><location>leading_swipe</location><name>Send Verify Request (Nadine)</name><order>50</order><parent>0f6757442f4070108bdc5e072799b6fb</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-06 15:20:32</sys_created_on><sys_id>6f195b842f4070108bdc5e072799b638</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Send Verify Request (Nadine)</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_button_instance_6f195b842f4070108bdc5e072799b638</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-07 20:02:21</sys_updated_on><table>x_604375_family_ch_chore_assignments</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=6f195b842f4070108bdc5e072799b638"/></record_update>]]></payload>
+        <payload_hash>218616263</payload_hash>
+        <record_name>Send Verify Request (Nadine)</record_name>
+        <reverted_from/>
+        <source>c7befe2b2ff720108bdc5e072799b60a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-07 20:02:21</sys_created_on>
+        <sys_id>a53325e02fc0b0108bdc5e072799b6c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179486c82ec0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-07 20:02:21</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>ad3325e04dc0b0102ae0ab95b56008c1</update_guid>
+        <update_guid_history>ad3325e04dc0b0102ae0ab95b56008c1:218616263,a22325e0abc0b010f5187f7b58b0a960:1961673704,27c323ccb440701010f1c155d4964e98:-797723550,e3195b84164070108d683319e2b1aa3b:-1729416776</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-08 03:40:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>416b0ccf60ce4d5892942978a4bc4959</sys_id>
+        <sys_metadata>6f195b842f4070108bdc5e072799b638</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Send Verify Request (Nadine)</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_6f195b842f4070108bdc5e072799b638</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_6f195b842f4070108bdc5e072799b638">a53325e02fc0b0108bdc5e072799b6c2</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-08 03:40:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

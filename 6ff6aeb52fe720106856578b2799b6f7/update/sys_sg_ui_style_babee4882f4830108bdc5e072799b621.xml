@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
     <sys_sg_ui_style action="INSERT_OR_UPDATE">
         <active>true</active>
-        <condition table="x_604375_family_ch_chore_assignments">status=Incomplete^EQ<item display_value="4 - Incomplete" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="Incomplete"/>
+        <condition table="x_604375_family_ch_chore_assignments">status=Incomplete^EQ<item display_value="5 - Incomplete" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="Incomplete"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <field>status</field>

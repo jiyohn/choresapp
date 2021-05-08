@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_mobile_app_shortcut_item">
     <sys_ui_mobile_app_shortcut_item action="INSERT_OR_UPDATE">
         <active>true</active>
-        <icon/>
+        <icon>cart-full</icon>
         <module display_value="Chore Assignments">27b172712f2b20106856578b2799b6ee</module>
         <order>0</order>
         <roles/>
-        <subtitle/>
+        <subtitle>View all chore assignments</subtitle>
         <sys_class_name>sys_ui_mobile_app_shortcut_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-20 03:54:32</sys_created_on>
         <sys_id>7392ea762fab20106856578b2799b677</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Chore Assignments</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_ui_mobile_app_shortcut_item_7392ea762fab20106856578b2799b677</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-20 03:54:32</sys_updated_on>
-        <title/>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:46:48</sys_updated_on>
+        <title>Chore Assignments</title>
     </sys_ui_mobile_app_shortcut_item>
 </record_update>

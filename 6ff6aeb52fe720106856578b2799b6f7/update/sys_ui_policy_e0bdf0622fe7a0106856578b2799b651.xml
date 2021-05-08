@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
     <sys_ui_policy action="INSERT_OR_UPDATE">
         <active>false</active>
-        <conditions table="x_604375_family_ch_chore_assignments">status=Incomplete^ORstatus=Cancelled^ORstatus=In progress^EQ<item display_value="4 - Incomplete" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="Incomplete"/>
-            <item display_value="5 - Cancelled" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="Cancelled"/>
+        <conditions table="x_604375_family_ch_chore_assignments">status=Incomplete^ORstatus=Cancelled^ORstatus=In progress^EQ<item display_value="5 - Incomplete" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="Incomplete"/>
+            <item display_value="6 - Cancelled" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="Cancelled"/>
             <item display_value="2 - In progress" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="In progress"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </conditions>

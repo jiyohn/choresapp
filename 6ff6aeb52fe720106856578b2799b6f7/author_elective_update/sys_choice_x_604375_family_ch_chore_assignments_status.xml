@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-04-17 04:17:27</sys_created_on>
-            <sys_id>992bc3752f6b20106856578b2799b6d1</sys_id>
+            <sys_id>13fc581a2ff320108bdc5e072799b614</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>status</sys_name>
             <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
@@ -61,19 +61,39 @@
             <element>status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>3 - Complete</label>
+            <label>3 - Awaiting Verification</label>
             <language>en</language>
             <name>x_604375_family_ch_chore_assignments</name>
             <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>josh.yohn</sys_created_by>
+            <sys_created_on>2021-05-08 02:18:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d039b2e02f84b0108bdc5e072799b6bb</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-05-08 02:19:51</sys_updated_on>
+            <value>Verification</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Complete</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence>3</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-04-17 04:18:09</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>494b43752f6b20106856578b2799b6fe</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-17 04:20:27</sys_updated_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-05-08 02:19:53</sys_updated_on>
             <value>Complete</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -81,19 +101,19 @@
             <element>status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>4 - Incomplete</label>
+            <label>5 - Incomplete</label>
             <language>en</language>
             <name>x_604375_family_ch_chore_assignments</name>
-            <sequence>3</sequence>
+            <sequence>4</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-04-17 04:18:28</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>bd5b0b752f6b20106856578b2799b64e</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-17 04:21:10</sys_updated_on>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-05-08 02:19:28</sys_updated_on>
             <value>Incomplete</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -101,19 +121,19 @@
             <element>status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>5 - Cancelled</label>
+            <label>6 - Cancelled</label>
             <language>en</language>
             <name>x_604375_family_ch_chore_assignments</name>
-            <sequence>4</sequence>
+            <sequence>5</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-04-17 04:18:44</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7d6bc7752f6b20106856578b2799b62b</sys_id>
-            <sys_mod_count>4</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-18 20:02:33</sys_updated_on>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-05-08 02:19:34</sys_updated_on>
             <value>Cancelled</value>
         </sys_choice>
     </sys_choice>

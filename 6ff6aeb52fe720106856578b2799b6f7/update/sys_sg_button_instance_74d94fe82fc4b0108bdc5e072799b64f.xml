@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Send Verify Request (Dad)">40db3ff32ff720108bdc5e072799b6a3</button>
+        <button display_value="Submit for Verification">1c8747682fc4b0108bdc5e072799b673</button>
         <color_theme>primary</color_theme>
         <description/>
         <field_name/>
         <icon/>
-        <label>Send Verify Request (Josh)</label>
-        <location>leading_swipe</location>
-        <name>Send Verify Request (Josh)</name>
-        <order>40</order>
+        <label>Submit for Verification</label>
+        <location>trailing_swipe</location>
+        <name>Submit for Verification</name>
+        <order>30</order>
         <parent>0f6757442f4070108bdc5e072799b6fb</parent>
         <parent_table>sys_sg_master_item</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-05-06 15:20:44</sys_created_on>
-        <sys_id>22295b842f4070108bdc5e072799b60a</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Send Verify Request (Josh)</sys_name>
+        <sys_created_on>2021-05-08 03:30:40</sys_created_on>
+        <sys_id>74d94fe82fc4b0108bdc5e072799b64f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Submit for Verification</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_update_name>sys_sg_button_instance_22295b842f4070108bdc5e072799b60a</sys_update_name>
+        <sys_update_name>sys_sg_button_instance_74d94fe82fc4b0108bdc5e072799b64f</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-07 20:02:21</sys_updated_on>
+        <sys_updated_on>2021-05-08 03:57:15</sys_updated_on>
         <table>x_604375_family_ch_chore_assignments</table>
     </sys_sg_button_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=22295b842f4070108bdc5e072799b60a"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=74d94fe82fc4b0108bdc5e072799b64f"/>
 </record_update>
