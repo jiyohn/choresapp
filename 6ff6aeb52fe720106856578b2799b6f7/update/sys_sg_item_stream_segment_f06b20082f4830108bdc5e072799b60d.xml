@@ -4,7 +4,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>Item Stream Segment</name>
         <order>10</order>
-        <screen display_value="Complete">fc6bacc42f4830108bdc5e072799b6fc</screen>
+        <screen display_value="Completed">fc6bacc42f4830108bdc5e072799b6fc</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-06 02:41:29</sys_created_on>
