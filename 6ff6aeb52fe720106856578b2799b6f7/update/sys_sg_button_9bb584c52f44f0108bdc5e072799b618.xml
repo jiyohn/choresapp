@@ -5,20 +5,16 @@
         <auto_jump_to_destination>false</auto_jump_to_destination>
         <auto_redirection>false</auto_redirection>
         <button_table_field_name/>
-        <cancel_label>No</cancel_label>
-        <condition table="x_604375_family_ch_chore_assignments">status=In progress^ORstatus=Verification^ORstatus=Complete^EQ<item display_value="2 - In progress" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="In progress"/>
-            <item display_value="3 - Awaiting Verification" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="Verification"/>
-            <item display_value="4 - Complete" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="Complete"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </condition>
+        <cancel_label/>
+        <condition/>
         <condition_script/>
         <condition_type>declarative</condition_type>
-        <confirm_label>Yes</confirm_label>
-        <confirmation_message>Are you sure you want to cancel this chore?</confirmation_message>
-        <context>record</context>
+        <confirm_label/>
+        <confirmation_message/>
+        <context>global</context>
         <description/>
         <destination_alp/>
-        <destination_screen/>
+        <destination_screen display_value="List">790920842f4830108bdc5e072799b6c0</destination_screen>
         <destination_type>screen</destination_type>
         <external_browser>false</external_browser>
         <failure_message/>
@@ -26,14 +22,14 @@
         <hide_buttons/>
         <hide_fields/>
         <highlighted_icons/>
-        <jump_to_previous>true</jump_to_previous>
+        <jump_to_previous>false</jump_to_previous>
         <jump_to_screen>false</jump_to_screen>
         <link_label/>
         <link_url/>
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Cancel Chore</name>
+        <name>Launcher Button</name>
         <offline>false</offline>
         <offline_template_field/>
         <offline_template_field_table/>
@@ -43,36 +39,36 @@
         <rating_span_count>2</rating_span_count>
         <refresh_screen_after_action>false</refresh_screen_after_action>
         <relative_url>true</relative_url>
-        <roles>admin,x_604375_family_ch.admin,x_604375_family_ch.chore_assignments_user</roles>
+        <roles/>
         <save_signature_before_action_execution>false</save_signature_before_action_execution>
         <select_current_record>false</select_current_record>
         <show_acknowledgement>false</show_acknowledgement>
         <show_buttons/>
-        <show_confirmation>true</show_confirmation>
+        <show_confirmation>false</show_confirmation>
         <show_fields/>
         <show_refresh_on_previous>false</show_refresh_on_previous>
         <show_signature>false</show_signature>
         <sms/>
-        <success_message>Chore status reset to Assigned!</success_message>
+        <success_message/>
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
-        <sys_created_on>2021-05-05 23:41:04</sys_created_on>
-        <sys_id>895104082fc430108bdc5e072799b694</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>Cancel Chore</sys_name>
+        <sys_created_on>2021-05-09 02:30:55</sys_created_on>
+        <sys_id>9bb584c52f44f0108bdc5e072799b618</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Launcher Button</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-        <sys_update_name>sys_sg_button_895104082fc430108bdc5e072799b694</sys_update_name>
+        <sys_update_name>sys_sg_button_9bb584c52f44f0108bdc5e072799b618</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-09 03:43:54</sys_updated_on>
-        <table>x_604375_family_ch_chore_assignments</table>
+        <sys_updated_on>2021-05-09 02:30:55</sys_updated_on>
+        <table/>
         <take_value_from_field>false</take_value_from_field>
-        <type>write_back</type>
+        <type>redirection</type>
         <unhighlighted_icons/>
         <use_overlay>false</use_overlay>
-        <write_back_action_item display_value="Cancel Chore">83618c082fc430108bdc5e072799b698</write_back_action_item>
+        <write_back_action_item/>
         <zombified_screens/>
     </sys_sg_button>
-    <sys_translated_text action="delete_multiple" query="documentkey=895104082fc430108bdc5e072799b694"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=9bb584c52f44f0108bdc5e072799b618"/>
 </record_update>

@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
         <active>true</active>
         <available_offline>true</available_offline>
-        <header_button display_value="Chores App Launcher Button Instance">c2f113a02f08b0108bdc5e072799b6bd</header_button>
+        <header_button display_value="Chores App Launcher Button Instance">5bb5c4c52f44f0108bdc5e072799b6b8</header_button>
         <header_titles>375a2a347330330018eea18d4ef6a79a</header_titles>
         <hide_empty_sections>true</hide_empty_sections>
         <name>Chores App</name>
@@ -12,14 +12,14 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-05 22:20:33</sys_created_on>
         <sys_id>2aafa73f2fb720108bdc5e072799b6e3</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>Chores Main Menu</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_sg_applet_launcher_2aafa73f2fb720108bdc5e072799b6e3</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-08 14:04:34</sys_updated_on>
+        <sys_updated_on>2021-05-09 03:07:49</sys_updated_on>
         <title>Chores Main Menu</title>
     </sys_sg_applet_launcher>
 </record_update>
