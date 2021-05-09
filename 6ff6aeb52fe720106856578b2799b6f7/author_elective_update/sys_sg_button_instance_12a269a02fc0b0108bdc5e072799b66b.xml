@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Contact Helena">373e05602f80b0108bdc5e072799b6bd</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Contact Helena</label>
+        <location>quick_action</location>
+        <name>Contact Helena</name>
+        <order/>
+        <parent>2aafa73f2fb720108bdc5e072799b6e3</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-07 19:59:56</sys_created_on>
+        <sys_id>12a269a02fc0b0108bdc5e072799b66b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Contact Helena</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_12a269a02fc0b0108bdc5e072799b66b</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-08 04:06:52</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=12a269a02fc0b0108bdc5e072799b66b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_button_instance_12a269a02fc0b0108bdc5e072799b66b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Contact Helena">373e05602f80b0108bdc5e072799b6bd</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Contact Helena</label><location>quick_action</location><name>Contact Helena</name><order/><parent>2aafa73f2fb720108bdc5e072799b6e3</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-07 19:59:56</sys_created_on><sys_id>12a269a02fc0b0108bdc5e072799b66b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Contact Helena</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_button_instance_12a269a02fc0b0108bdc5e072799b66b</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-08 04:06:52</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=12a269a02fc0b0108bdc5e072799b66b"/></record_update>]]></payload>
+        <payload_hash>520097748</payload_hash>
+        <record_name>Contact Helena</record_name>
+        <reverted_from/>
+        <source>deea15b02f8cb0108bdc5e072799b6db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 14:23:12</sys_created_on>
+        <sys_id>4dc8e20d2f0cf0108bdc5e072799b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1795182bb390000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 14:23:12</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>89c8e20d990cf010de409fb4d066415f</update_guid>
+        <update_guid_history>89c8e20d990cf010de409fb4d066415f:0,c712d7a03b08b010e772a50e21e50390:-1583223791,56a269a081c0b01075118573e0a2996d:-1899256268</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 14:23:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>1c4e513e857b4d649c37044557d75684</sys_id>
+        <sys_metadata>12a269a02fc0b0108bdc5e072799b66b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contact Helena</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_12a269a02fc0b0108bdc5e072799b66b</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_12a269a02fc0b0108bdc5e072799b66b">4dc8e20d2f0cf0108bdc5e072799b65f</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 14:23:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

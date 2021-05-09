@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Assign New Chore">3539a8c12fc4f0108bdc5e072799b6f7</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name>assigned_verification_me</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Chore Details</name>
+        <order>40</order>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 05:13:16</sys_created_on>
+        <sys_id>20daac052fc4f0108bdc5e072799b68b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Chore Details</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_20daac052fc4f0108bdc5e072799b68b</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 13:32:41</sys_updated_on>
+        <table_name>x_604375_family_ch_chore_assignments</table_name>
+        <virtual_field_value>true</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=20daac052fc4f0108bdc5e072799b68b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_ui_parameter_20daac052fc4f0108bdc5e072799b68b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Assign New Chore">3539a8c12fc4f0108bdc5e072799b6f7</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name>assigned_verification_me</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>text</input_type><mandatory>false</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>Chore Details</name><order>40</order><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-09 05:13:16</sys_created_on><sys_id>20daac052fc4f0108bdc5e072799b68b</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Chore Details</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_ui_parameter_20daac052fc4f0108bdc5e072799b68b</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-09 13:32:41</sys_updated_on><table_name>x_604375_family_ch_chore_assignments</table_name><virtual_field_value>true</virtual_field_value></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=20daac052fc4f0108bdc5e072799b68b"/></record_update>]]></payload>
+        <payload_hash>-1322534328</payload_hash>
+        <record_name>Chore Details</record_name>
+        <reverted_from/>
+        <source>deea15b02f8cb0108bdc5e072799b6db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 13:32:41</sys_created_on>
+        <sys_id>cd3d9a812f0cf0108bdc5e072799b693</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17951547a430000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 13:32:41</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>c53d9a819d0cf0106c0e39f64134aa93</update_guid>
+        <update_guid_history>c53d9a819d0cf0106c0e39f64134aa93:-1322534328,ca9a9a017d0cf010d94349da26ed9b89:1739626812,5a4d248509c4f0109cf9389c71998bd1:-1705590892,6deaac05e5c4f0103bc77ced71773e91:1969362354</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 14:06:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>9419212307b149e092df95cbd0902400</sys_id>
+        <sys_metadata>20daac052fc4f0108bdc5e072799b68b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chore Details</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_20daac052fc4f0108bdc5e072799b68b</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_20daac052fc4f0108bdc5e072799b68b">cd3d9a812f0cf0108bdc5e072799b693</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 14:06:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

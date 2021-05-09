@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Verifier</name>
+        <parent>3e3424002f4830108bdc5e072799b629</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 04:58:01</sys_created_on>
+        <sys_id>575720812fc4f0108bdc5e072799b67d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Verifier</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_575720812fc4f0108bdc5e072799b67d</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 04:58:01</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

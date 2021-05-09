@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="DELETE">
+        <applet_launcher display_value="Chores Main Menu">2aafa73f2fb720108bdc5e072799b6e3</applet_launcher>
+        <order>30</order>
+        <quick_action_button/>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-07 19:59:57</sys_created_on>
+        <sys_id>d2a269a02fc0b0108bdc5e072799b66e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_d2a269a02fc0b0108bdc5e072799b66e</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-07 19:59:57</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_alp_quick_action_map_d2a269a02fc0b0108bdc5e072799b66e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map"><sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE"><applet_launcher display_value="Chores Main Menu">2aafa73f2fb720108bdc5e072799b6e3</applet_launcher><order>30</order><quick_action_button/><sys_class_name>sys_sg_alp_quick_action_map</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-07 19:59:57</sys_created_on><sys_id>d2a269a02fc0b0108bdc5e072799b66e</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_alp_quick_action_map_d2a269a02fc0b0108bdc5e072799b66e</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-07 19:59:57</sys_updated_on></sys_sg_alp_quick_action_map></record_update>]]></payload>
+        <payload_hash>2068144979</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>deea15b02f8cb0108bdc5e072799b6db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 14:23:12</sys_created_on>
+        <sys_id>ddc8260d2f0cf0108bdc5e072799b63b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1795182bbd90000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 14:23:12</sys_updated_on>
+        <type>Quick Actions Menu Map</type>
+        <update_guid>1dc8260d6d0cf0106409a63e59f0383b</update_guid>
+        <update_guid_history>1dc8260d6d0cf0106409a63e59f0383b:0,56a269a06ac0b010fa9b870c75b55e70:-1346182078</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 14:23:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_alp_quick_action_map">sys_sg_alp_quick_action_map</sys_db_object>
+        <sys_id>11a81989bbb64a8080114f5a7a1eaca1</sys_id>
+        <sys_metadata>d2a269a02fc0b0108bdc5e072799b66e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_alp_quick_action_map_d2a269a02fc0b0108bdc5e072799b66e</sys_update_name>
+        <sys_update_version display_value="sys_sg_alp_quick_action_map_d2a269a02fc0b0108bdc5e072799b66e">ddc8260d2f0cf0108bdc5e072799b63b</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 14:23:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

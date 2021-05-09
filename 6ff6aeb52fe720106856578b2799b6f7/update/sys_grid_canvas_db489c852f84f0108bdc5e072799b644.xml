@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Chores Dashboard - New Tab">5f489c852f84f0108bdc5e072799b643</legacy_page>
+        <name>PA Chores Dashboard - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 03:52:01</sys_created_on>
+        <sys_id>db489c852f84f0108bdc5e072799b644</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Chores Dashboard - New Tab</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_grid_canvas_db489c852f84f0108bdc5e072799b644</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 03:52:01</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

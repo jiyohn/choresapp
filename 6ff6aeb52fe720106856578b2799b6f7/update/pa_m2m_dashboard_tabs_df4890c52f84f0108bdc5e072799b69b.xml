@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Chores Dashboard">b528d8852f84f0108bdc5e072799b636</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 03:52:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df4890c52f84f0108bdc5e072799b69b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b528d8852f84f0108bdc5e072799b636</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_df4890c52f84f0108bdc5e072799b69b</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 03:52:02</sys_updated_on>
+        <tab display_value="Chores Dashboard - New Tab">db4890c52f84f0108bdc5e072799b699</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

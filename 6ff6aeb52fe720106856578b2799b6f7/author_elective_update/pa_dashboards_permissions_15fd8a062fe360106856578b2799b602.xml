@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="DELETE">
+        <dashboard display_value="Family Chores">dfcd4e062fe360106856578b2799b6ba</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>b0edfce52f6760106856578b2799b62c</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 18:28:36</sys_created_on>
+        <sys_id>15fd8a062fe360106856578b2799b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b0edfce52f6760106856578b2799b62c</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_15fd8a062fe360106856578b2799b602</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 18:28:36</sys_updated_on>
+        <type>3</type>
+        <user display_value="Helena Yohn">b0edfce52f6760106856578b2799b62c</user>
+        <write>false</write>
+    </pa_dashboards_permissions>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>pa_dashboards_permissions_15fd8a062fe360106856578b2799b602</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Family Chores">dfcd4e062fe360106856578b2799b6ba</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>b0edfce52f6760106856578b2799b62c</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 18:28:36</sys_created_on>
+        <sys_id>15fd8a062fe360106856578b2799b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b0edfce52f6760106856578b2799b62c</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_15fd8a062fe360106856578b2799b602</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 18:28:36</sys_updated_on>
+        <type>3</type>
+        <user display_value="Helena Yohn">b0edfce52f6760106856578b2799b62c</user>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>]]></payload>
+        <payload_hash>-1782763911</payload_hash>
+        <record_name>b0edfce52f6760106856578b2799b62c</record_name>
+        <reverted_from/>
+        <source>ebfc581a2ff320108bdc5e072799b651</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-30 15:09:23</sys_created_on>
+        <sys_id>ce0dd81a2ff320108bdc5e072799b6e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1792353c6950000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-30 15:09:23</sys_updated_on>
+        <type>Dashboard Permissions</type>
+        <update_guid>8e0dd81aa1f32010853e79f261be24e2</update_guid>
+        <update_guid_history>8e0dd81aa1f32010853e79f261be24e2:-1782763911</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="b0edfce52f6760106856578b2799b62c">982810c52f84f0108bdc5e072799b637</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 03:51:16</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards_permissions">pa_dashboards_permissions</sys_db_object>
+        <sys_id>56920ee043214b56b4bb7a0b434f7a24</sys_id>
+        <sys_metadata>15fd8a062fe360106856578b2799b602</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b0edfce52f6760106856578b2799b62c</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>pa_dashboards_permissions_15fd8a062fe360106856578b2799b602</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_permissions_15fd8a062fe360106856578b2799b602">ce0dd81a2ff320108bdc5e072799b6e2</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 03:51:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

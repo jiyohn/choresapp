@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Assign New Chore">3539a8c12fc4f0108bdc5e072799b6f7</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Assign New Chore</label>
+        <location>top</location>
+        <name>Assign New Chore</name>
+        <order>10</order>
+        <parent>a7c1f1542f0870108bdc5e072799b61f</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 14:31:10</sys_created_on>
+        <sys_id>f59a2e0d2f0cf0108bdc5e072799b663</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assign New Chore</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f59a2e0d2f0cf0108bdc5e072799b663</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 14:31:10</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f59a2e0d2f0cf0108bdc5e072799b663"/>
+</record_update>
