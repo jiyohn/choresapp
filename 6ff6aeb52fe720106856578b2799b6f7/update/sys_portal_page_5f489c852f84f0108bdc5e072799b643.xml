@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-05-11 01:27:07">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-05-11 14:15:37">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -247,6 +247,108 @@
                         <sys_updated_by>josh.yohn</sys_updated_by>
                         <sys_updated_on>2021-05-09 03:53:16</sys_updated_on>
                         <value>com.glide.ui.portal.RenderJavascript</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Chores Dashboard - New Tab">5f489c852f84f0108bdc5e072799b643</page>
+                <summary>Incomplete Chores</summary>
+                <sys_created_by>josh.yohn</sys_created_by>
+                <sys_created_on>2021-05-11 13:54:08</sys_created_on>
+                <sys_id>72457cbd2f0030108bdc5e072799b666</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>josh.yohn</sys_updated_by>
+                <sys_updated_on>2021-05-11 13:54:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-05-11 08:54:08">72457cbd2f0030108bdc5e072799b666</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-05-11 13:54:08</sys_created_on>
+                        <sys_id>32457cbd2f0030108bdc5e072799b668</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-05-11 13:54:08</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-05-11 08:54:08">72457cbd2f0030108bdc5e072799b666</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-05-11 13:54:08</sys_created_on>
+                        <sys_id>32457cbd2f0030108bdc5e072799b669</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-05-11 13:54:08</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-05-11 08:54:08">72457cbd2f0030108bdc5e072799b666</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-05-11 13:54:08</sys_created_on>
+                        <sys_id>36457cbd2f0030108bdc5e072799b667</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-05-11 13:54:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-05-11 08:54:08">72457cbd2f0030108bdc5e072799b666</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-05-11 13:54:08</sys_created_on>
+                        <sys_id>7a457cbd2f0030108bdc5e072799b666</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-05-11 13:54:08</sys_updated_on>
+                        <value>55a2783d2f0030108bdc5e072799b608</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-05-11 08:54:08">72457cbd2f0030108bdc5e072799b666</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-05-11 13:54:08</sys_created_on>
+                        <sys_id>7e457cbd2f0030108bdc5e072799b667</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-05-11 13:54:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2021-05-11 08:54:08">72457cbd2f0030108bdc5e072799b666</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-05-11 13:54:08</sys_created_on>
+                        <sys_id>ba457cbd2f0030108bdc5e072799b667</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-05-11 13:54:08</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-05-11 08:54:08">72457cbd2f0030108bdc5e072799b666</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-05-11 13:54:08</sys_created_on>
+                        <sys_id>f2457cbd2f0030108bdc5e072799b668</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-05-11 13:54:08</sys_updated_on>
+                        <value>Incomplete Chores</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-05-11 08:54:08">72457cbd2f0030108bdc5e072799b666</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-05-11 13:54:08</sys_created_on>
+                        <sys_id>f6457cbd2f0030108bdc5e072799b667</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-05-11 13:54:08</sys_updated_on>
+                        <value>report_widget_description</value>
                     </sys_portal_preferences>
                 </related_items_node>
             </sys_portal>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button/>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>auto</input_source>
+        <input_style>inline</input_style>
+        <input_type>instance_relative_url</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Incomplete Chores - List UIP</name>
+        <order>10</order>
+        <parameter_type>screen</parameter_type>
+        <placeholder/>
+        <screen display_value="Incomplete Chores - List">10c5b4fd2f0030108bdc5e072799b657</screen>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-11 13:56:16</sys_created_on>
+        <sys_id>d6c538fd2f0030108bdc5e072799b658</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incomplete Chores - List UIP</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_d6c538fd2f0030108bdc5e072799b658</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-11 13:56:16</sys_updated_on>
+        <table_name/>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=d6c538fd2f0030108bdc5e072799b658"/>
+</record_update>

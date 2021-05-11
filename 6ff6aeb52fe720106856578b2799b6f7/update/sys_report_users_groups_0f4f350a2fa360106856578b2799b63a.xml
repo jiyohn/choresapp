@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id/>
-        <report_id display_value="Weekly Chore Points">874f350a2fa360106856578b2799b63a</report_id>
+        <report_id display_value="Completed Chores (Weekly)">874f350a2fa360106856578b2799b63a</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-17 17:24:33</sys_created_on>

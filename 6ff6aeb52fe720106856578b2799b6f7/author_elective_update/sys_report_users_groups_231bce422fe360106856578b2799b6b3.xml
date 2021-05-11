@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="Weekly Chore Points">874f350a2fa360106856578b2799b63a</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 18:16:12</sys_created_on>
+        <sys_id>231bce422fe360106856578b2799b6b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>874f350a2fa360106856578b2799b63a</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_report_users_groups_231bce422fe360106856578b2799b6b3</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 18:16:12</sys_updated_on>
+        <user_id display_value="Nadine Yohn">1cddfce52f6760106856578b2799b628</user_id>
+    </sys_report_users_groups>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_report_users_groups_231bce422fe360106856578b2799b6b3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Weekly Chore Points">874f350a2fa360106856578b2799b63a</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 18:16:12</sys_created_on>
+        <sys_id>231bce422fe360106856578b2799b6b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>874f350a2fa360106856578b2799b63a</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_report_users_groups_231bce422fe360106856578b2799b6b3</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 18:16:12</sys_updated_on>
+        <user_id display_value="Nadine Yohn">1cddfce52f6760106856578b2799b628</user_id>
+    </sys_report_users_groups>
+</record_update>]]></payload>
+        <payload_hash>-1763594305</payload_hash>
+        <record_name>874f350a2fa360106856578b2799b63a</record_name>
+        <reverted_from/>
+        <source>ebfc581a2ff320108bdc5e072799b651</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-30 15:09:39</sys_created_on>
+        <sys_id>c21d505a2ff320108bdc5e072799b6b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179235406f80000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-30 15:09:39</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>821d505ad4f32010a5798961d11e2ab5</update_guid>
+        <update_guid_history>821d505ad4f32010a5798961d11e2ab5:-1763594305</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-11 13:41:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>11971571f3b141aaaa7eb94c05a36904</sys_id>
+        <sys_metadata>231bce422fe360106856578b2799b6b3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>874f350a2fa360106856578b2799b63a</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent display_value="Completed Chores (Weekly)">874f350a2fa360106856578b2799b63a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_231bce422fe360106856578b2799b6b3</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_231bce422fe360106856578b2799b6b3">c21d505a2ff320108bdc5e072799b6b5</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-11 13:41:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -4,19 +4,19 @@
         <height>10</height>
         <portal_widget display_value="Created 2021-05-08 22:52:56">f88854c52f84f0108bdc5e072799b652</portal_widget>
         <posx>3</posx>
-        <posy>10</posy>
+        <posy>20</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-09 03:52:56</sys_created_on>
         <sys_id>3c8854c52f84f0108bdc5e072799b653</sys_id>
-        <sys_mod_count>23</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_name>db489c852f84f0108bdc5e072799b644</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_grid_canvas_pane_3c8854c52f84f0108bdc5e072799b653</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-09 04:02:33</sys_updated_on>
+        <sys_updated_on>2021-05-11 13:54:08</sys_updated_on>
         <width>3</width>
     </sys_grid_canvas_pane>
 </record_update>
