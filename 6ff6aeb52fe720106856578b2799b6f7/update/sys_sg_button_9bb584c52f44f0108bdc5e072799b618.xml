@@ -14,7 +14,7 @@
         <context>global</context>
         <description/>
         <destination_alp/>
-        <destination_screen display_value="List">790920842f4830108bdc5e072799b6c0</destination_screen>
+        <destination_screen display_value="View All Users">790920842f4830108bdc5e072799b6c0</destination_screen>
         <destination_type>screen</destination_type>
         <external_browser>false</external_browser>
         <failure_message/>

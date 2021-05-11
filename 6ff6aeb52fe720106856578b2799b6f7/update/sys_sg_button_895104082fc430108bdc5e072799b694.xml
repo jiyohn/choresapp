@@ -6,9 +6,9 @@
         <auto_redirection>false</auto_redirection>
         <button_table_field_name/>
         <cancel_label>No</cancel_label>
-        <condition table="x_604375_family_ch_chore_assignments">status=In progress^ORstatus=Verification^ORstatus=Complete^EQ<item display_value="2 - In progress" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="In progress"/>
+        <condition table="x_604375_family_ch_chore_assignments">status=In progress^ORstatus=Verification^ORstatus=Assigned^EQ<item display_value="2 - In progress" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="In progress"/>
             <item display_value="3 - Awaiting Verification" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="Verification"/>
-            <item display_value="4 - Complete" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="Complete"/>
+            <item display_value="1 - Assigned" endquery="false" field="status" goto="false" newquery="false" operator="=" or="true" value="Assigned"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <condition_script/>
@@ -53,19 +53,19 @@
         <show_refresh_on_previous>false</show_refresh_on_previous>
         <show_signature>false</show_signature>
         <sms/>
-        <success_message>Chore status reset to Assigned!</success_message>
+        <success_message>Chore has been cancelled!</success_message>
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-05 23:41:04</sys_created_on>
         <sys_id>895104082fc430108bdc5e072799b694</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Cancel Chore</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_sg_button_895104082fc430108bdc5e072799b694</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-09 03:43:54</sys_updated_on>
+        <sys_updated_on>2021-05-10 23:45:37</sys_updated_on>
         <table>x_604375_family_ch_chore_assignments</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>

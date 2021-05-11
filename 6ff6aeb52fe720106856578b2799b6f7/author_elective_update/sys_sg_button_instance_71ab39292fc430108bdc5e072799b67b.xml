@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Start Chore">520faffb2fb720108bdc5e072799b6d8</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Start Chore</label>
+        <location>footer</location>
+        <name>Start Chore</name>
+        <order>10</order>
+        <parent>292735652fc430108bdc5e072799b6c7</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-11 00:23:02</sys_created_on>
+        <sys_id>71ab39292fc430108bdc5e072799b67b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Start Chore</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_71ab39292fc430108bdc5e072799b67b</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-11 00:23:02</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=71ab39292fc430108bdc5e072799b67b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_button_instance_71ab39292fc430108bdc5e072799b67b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Start Chore">520faffb2fb720108bdc5e072799b6d8</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Start Chore</label><location>footer</location><name>Start Chore</name><order>10</order><parent>292735652fc430108bdc5e072799b6c7</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-11 00:23:02</sys_created_on><sys_id>71ab39292fc430108bdc5e072799b67b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Start Chore</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_button_instance_71ab39292fc430108bdc5e072799b67b</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-11 00:23:02</sys_updated_on><table>x_604375_family_ch_chore_assignments</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=71ab39292fc430108bdc5e072799b67b"/></record_update>]]></payload>
+        <payload_hash>-1129731784</payload_hash>
+        <record_name>Start Chore</record_name>
+        <reverted_from/>
+        <source>deea15b02f8cb0108bdc5e072799b6db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-11 00:23:02</sys_created_on>
+        <sys_id>f9ab39292fc430108bdc5e072799b67d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17958ce41e60000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-11 00:23:02</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>35ab392917c43010d4faca5f16f4ed7d</update_guid>
+        <update_guid_history>35ab392917c43010d4faca5f16f4ed7d:-1129731784</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-11 00:23:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>4d4abfa1b8004eccbab8659e0f2049e1</sys_id>
+        <sys_metadata>71ab39292fc430108bdc5e072799b67b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Start Chore</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_71ab39292fc430108bdc5e072799b67b</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_71ab39292fc430108bdc5e072799b67b">f9ab39292fc430108bdc5e072799b67d</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-11 00:23:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

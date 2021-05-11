@@ -9,16 +9,16 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-05 23:38:37</sys_created_on>
         <sys_id>83618c082fc430108bdc5e072799b698</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Cancel Chore</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_sg_write_back_action_item_83618c082fc430108bdc5e072799b698</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-05 23:44:13</sys_updated_on>
+        <sys_updated_on>2021-05-10 23:43:06</sys_updated_on>
         <table>x_604375_family_ch_chore_assignments</table>
-        <template>status=Assigned^EQ</template>
+        <template>status=Cancelled^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
         <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>

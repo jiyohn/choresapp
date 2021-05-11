@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen">
+    <sys_sg_browser_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <external_browser>false</external_browser>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Service Portal Icon">8df350592f4034108bdc5e072799b658</icon>
+        <name>Service Portal</name>
+        <relative_url>false</relative_url>
+        <roles_override/>
+        <sys_class_name>sys_sg_browser_screen</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 22:12:42</sys_created_on>
+        <sys_id>e9f398592f4034108bdc5e072799b6ad</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Service Portal</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_browser_screen_e9f398592f4034108bdc5e072799b6ad</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 22:14:15</sys_updated_on>
+        <url>https://dev101189.service-now.com/chore</url>
+    </sys_sg_browser_screen>
+    <sys_translated_text action="DELETE" query="documentkey=e9f398592f4034108bdc5e072799b6ad"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_browser_screen_e9f398592f4034108bdc5e072799b6ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_browser_screen"><sys_sg_browser_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><empty_state/><external_browser>false</external_browser><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="Service Portal Icon">8df350592f4034108bdc5e072799b658</icon><name>Service Portal</name><relative_url>false</relative_url><roles_override/><sys_class_name>sys_sg_browser_screen</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-09 22:12:42</sys_created_on><sys_id>e9f398592f4034108bdc5e072799b6ad</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Service Portal</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_browser_screen_e9f398592f4034108bdc5e072799b6ad</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-09 22:14:15</sys_updated_on><url>https://dev101189.service-now.com/chore</url></sys_sg_browser_screen><sys_translated_text action="delete_multiple" query="documentkey=e9f398592f4034108bdc5e072799b6ad"/></record_update>]]></payload>
+        <payload_hash>2103746138</payload_hash>
+        <record_name>Service Portal</record_name>
+        <reverted_from/>
+        <source>deea15b02f8cb0108bdc5e072799b6db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 22:14:15</sys_created_on>
+        <sys_id>d9949c592f4034108bdc5e072799b601</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1795331fdac0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 22:14:15</sys_updated_on>
+        <type>Browser Screen</type>
+        <update_guid>d1949c59ea403410f60bbc057af58e01</update_guid>
+        <update_guid_history>d1949c59ea403410f60bbc057af58e01:2103746138,2634dc19b04034103486e0632acb4691:201385530</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-09 22:32:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_browser_screen">sys_sg_browser_screen</sys_db_object>
+        <sys_id>09e2af33ca084c56ac72ca12b2177fe4</sys_id>
+        <sys_metadata>e9f398592f4034108bdc5e072799b6ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Portal</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_browser_screen_e9f398592f4034108bdc5e072799b6ad</sys_update_name>
+        <sys_update_version display_value="sys_sg_browser_screen_e9f398592f4034108bdc5e072799b6ad">d9949c592f4034108bdc5e072799b601</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-09 22:32:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

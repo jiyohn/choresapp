@@ -5,22 +5,22 @@
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <field>status</field>
-        <item_vew/>
-        <item_view_element/>
+        <item_vew display_value="Incomplete status">545db0242f40b0108bdc5e072799b61b</item_vew>
+        <item_view_element>22123</item_view_element>
         <name>Status Color Incomplete</name>
-        <style>{"background_color":"#ff9999","font_color":"#000000"}</style>
+        <style>{"background_color":"#FA8B6E"}</style>
         <sys_class_name>sys_sg_ui_style</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-06 02:56:05</sys_created_on>
         <sys_id>babee4882f4830108bdc5e072799b621</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Status Color Incomplete</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_sg_ui_style_babee4882f4830108bdc5e072799b621</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-06 02:56:05</sys_updated_on>
+        <sys_updated_on>2021-05-10 03:48:35</sys_updated_on>
         <table>x_604375_family_ch_chore_assignments</table>
         <use_item_view_elements>false</use_item_view_elements>
     </sys_sg_ui_style>

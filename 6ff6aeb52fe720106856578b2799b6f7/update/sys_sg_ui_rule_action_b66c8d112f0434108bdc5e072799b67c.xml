@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order/>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-10 02:18:53</sys_created_on>
+        <sys_id>b66c8d112f0434108bdc5e072799b67c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_b66c8d112f0434108bdc5e072799b67c</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-10 02:21:11</sys_updated_on>
+        <target>view_group_01</target>
+        <ui_rule display_value="Status incomplete">1e994d9d2fc034108bdc5e072799b6a6</ui_rule>
+        <value>{&#13;
+"BackgroundColor":"#B5EBD4"​&#13;
+}</value>
+    </sys_sg_ui_rule_action>
+</record_update>

@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher display_value="Chores Main Menu">2aafa73f2fb720108bdc5e072799b6e3</applet_launcher>
         <order>50</order>
-        <section display_value="Family Chores">b78250842f0830108bdc5e072799b64b</section>
+        <section display_value="Chores Directory">b78250842f0830108bdc5e072799b64b</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-06 00:53:01</sys_created_on>
