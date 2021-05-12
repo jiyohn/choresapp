@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
     <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
-        <dashboard display_value="Chores Dashboard">b528d8852f84f0108bdc5e072799b636</dashboard>
+        <dashboard display_value="Chores">b528d8852f84f0108bdc5e072799b636</dashboard>
         <home>false</home>
         <homepage/>
         <order>1</order>

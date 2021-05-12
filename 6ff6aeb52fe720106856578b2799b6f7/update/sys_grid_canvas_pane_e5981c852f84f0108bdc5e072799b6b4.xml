@@ -3,20 +3,20 @@
         <grid_canvas display_value="PA Chores Dashboard - New Tab">db489c852f84f0108bdc5e072799b644</grid_canvas>
         <height>10</height>
         <portal_widget display_value="Created 2021-05-08 22:53:16">65981c852f84f0108bdc5e072799b6b3</portal_widget>
-        <posx>6</posx>
+        <posx>9</posx>
         <posy>20</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-09 03:53:16</sys_created_on>
         <sys_id>e5981c852f84f0108bdc5e072799b6b4</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_name>db489c852f84f0108bdc5e072799b644</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_grid_canvas_pane_e5981c852f84f0108bdc5e072799b6b4</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-11 13:54:08</sys_updated_on>
+        <sys_updated_on>2021-05-11 14:16:43</sys_updated_on>
         <width>3</width>
     </sys_grid_canvas_pane>
 </record_update>
