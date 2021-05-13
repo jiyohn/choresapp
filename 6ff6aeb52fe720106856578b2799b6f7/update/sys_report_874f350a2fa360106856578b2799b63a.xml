@@ -88,9 +88,9 @@
         <series_name_text/>
         <set_color>color_palette</set_color>
         <show_chart_border>false</show_chart_border>
-        <show_chart_data_label>false</show_chart_data_label>
+        <show_chart_data_label>true</show_chart_data_label>
         <show_chart_title>report</show_chart_title>
-        <show_chart_total>false</show_chart_total>
+        <show_chart_total>true</show_chart_total>
         <show_data_label_position_middle>false</show_data_label_position_middle>
         <show_empty>false</show_empty>
         <show_geographical_label>false</show_geographical_label>
@@ -106,21 +106,21 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-04-17 17:24:33</sys_created_on>
         <sys_id>874f350a2fa360106856578b2799b63a</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Completed Chores (Current)</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_report_874f350a2fa360106856578b2799b63a</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-13 03:07:45</sys_updated_on>
+        <sys_updated_on>2021-05-13 03:15:34</sys_updated_on>
         <table>x_604375_family_ch_chore_points</table>
         <title>Completed Chores (Current)</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
         <trend_field/>
-        <type>pie</type>
+        <type>donut</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
