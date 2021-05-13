@@ -14,7 +14,7 @@
         <context>global</context>
         <description/>
         <destination_alp/>
-        <destination_screen display_value="Incomplete Chores - List">10c5b4fd2f0030108bdc5e072799b657</destination_screen>
+        <destination_screen display_value="Pending Chores List">10c5b4fd2f0030108bdc5e072799b657</destination_screen>
         <destination_type>screen</destination_type>
         <external_browser>false</external_browser>
         <failure_message/>

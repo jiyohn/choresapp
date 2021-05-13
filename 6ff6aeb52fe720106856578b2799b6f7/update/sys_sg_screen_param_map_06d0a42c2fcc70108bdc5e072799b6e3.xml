@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
     <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
         <item_parameter display_value="Chores Dashboard - DI IP">71d0a42c2fcc70108bdc5e072799b6cc</item_parameter>
-        <screen display_value="Chores Dashboard - List">09d0a42c2fcc70108bdc5e072799b613</screen>
+        <screen display_value="Completed Chores List">09d0a42c2fcc70108bdc5e072799b613</screen>
         <sys_class_name>sys_sg_screen_param_map</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-07 15:12:22</sys_created_on>

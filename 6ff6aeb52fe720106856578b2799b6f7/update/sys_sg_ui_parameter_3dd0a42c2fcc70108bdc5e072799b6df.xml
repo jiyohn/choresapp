@@ -18,7 +18,7 @@
         <order>10</order>
         <parameter_type>screen</parameter_type>
         <placeholder/>
-        <screen display_value="Chores Dashboard - List">09d0a42c2fcc70108bdc5e072799b613</screen>
+        <screen display_value="Completed Chores List">09d0a42c2fcc70108bdc5e072799b613</screen>
         <search_type>starts_with</search_type>
         <source_field/>
         <sys_class_name>sys_sg_ui_parameter</sys_class_name>

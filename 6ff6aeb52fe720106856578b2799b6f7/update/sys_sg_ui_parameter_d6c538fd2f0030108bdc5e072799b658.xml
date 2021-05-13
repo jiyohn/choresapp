@@ -18,7 +18,7 @@
         <order>10</order>
         <parameter_type>screen</parameter_type>
         <placeholder/>
-        <screen display_value="Incomplete Chores - List">10c5b4fd2f0030108bdc5e072799b657</screen>
+        <screen display_value="Pending Chores List">10c5b4fd2f0030108bdc5e072799b657</screen>
         <search_type>starts_with</search_type>
         <source_field/>
         <sys_class_name>sys_sg_ui_parameter</sys_class_name>

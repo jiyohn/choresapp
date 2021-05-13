@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
     <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
         <item_parameter display_value="Incomplete Chores - DI IP">4ac538fd2f0030108bdc5e072799b651</item_parameter>
-        <screen display_value="Incomplete Chores - List">10c5b4fd2f0030108bdc5e072799b657</screen>
+        <screen display_value="Pending Chores List">10c5b4fd2f0030108bdc5e072799b657</screen>
         <sys_class_name>sys_sg_screen_param_map</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-11 13:56:16</sys_created_on>

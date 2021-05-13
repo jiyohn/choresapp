@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button - Chore Assignments - Incomplete or Cancelled Chores - List">8d69889e2f4030108bdc5e072799b602</button>
+        <item_parameter display_value="Chore Assignments number">c169489e2f4030108bdc5e072799b6ce</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-12 23:59:17</sys_created_on>
+        <sys_id>d169889e2f4030108bdc5e072799b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c169489e2f4030108bdc5e072799b6ce</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_d169889e2f4030108bdc5e072799b666</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-12 23:59:17</sys_updated_on>
+        <ui_parameter display_value="Record number">4569889e2f4030108bdc5e072799b61f</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

@@ -2,7 +2,7 @@
     <sys_sg_button action="INSERT_OR_UPDATE">
         <acknowledgement_confirm_label>I Agree</acknowledgement_confirm_label>
         <allow_images_upload>true</allow_images_upload>
-        <auto_jump_to_destination>false</auto_jump_to_destination>
+        <auto_jump_to_destination>true</auto_jump_to_destination>
         <auto_redirection>false</auto_redirection>
         <button_table_field_name>assigned_verifier</button_table_field_name>
         <cancel_label>No</cancel_label>
@@ -17,7 +17,7 @@
         <context>record</context>
         <description/>
         <destination_alp/>
-        <destination_screen/>
+        <destination_screen display_value="All Completed">fc6bacc42f4830108bdc5e072799b6fc</destination_screen>
         <destination_type>screen</destination_type>
         <external_browser>false</external_browser>
         <failure_message/>
@@ -25,8 +25,8 @@
         <hide_buttons/>
         <hide_fields/>
         <highlighted_icons/>
-        <jump_to_previous>true</jump_to_previous>
-        <jump_to_screen>false</jump_to_screen>
+        <jump_to_previous>false</jump_to_previous>
+        <jump_to_screen>true</jump_to_screen>
         <link_label/>
         <link_url/>
         <mail_address/>
@@ -57,14 +57,14 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-05 23:21:58</sys_created_on>
         <sys_id>861db7772ff720108bdc5e072799b6c4</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Complete Chore</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_sg_button_861db7772ff720108bdc5e072799b6c4</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-08 03:53:50</sys_updated_on>
+        <sys_updated_on>2021-05-13 00:43:38</sys_updated_on>
         <table>x_604375_family_ch_chore_assignments</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
