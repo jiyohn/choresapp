@@ -10,7 +10,7 @@
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Chart-Line">2548085e2f4030108bdc5e072799b657</icon>
         <name>Incomplete or Cancelled Chores</name>
-        <report display_value="Incomplete and Cancelled Chores (Weekly)">5504cc5a2f4030108bdc5e072799b603</report>
+        <report display_value="Incomplete and Cancelled Chores (Current)">5504cc5a2f4030108bdc5e072799b603</report>
         <roles_override/>
         <sys_class_name>sys_sg_chart_screen</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>

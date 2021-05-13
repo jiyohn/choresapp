@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Launcher Button">d3f1b45e2fc030108bdc5e072799b627</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">17f1b45e2fc030108bdc5e072799b624</icon>
+        <label>Chores App Launcher Button Instance</label>
+        <location>top</location>
+        <name>Chores App Launcher Button Instance</name>
+        <order/>
+        <parent>2aafa73f2fb720108bdc5e072799b6e3</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-13 02:56:38</sys_created_on>
+        <sys_id>1bf1b45e2fc030108bdc5e072799b62a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chores App Launcher Button Instance</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_button_instance_1bf1b45e2fc030108bdc5e072799b62a</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-13 02:56:38</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=1bf1b45e2fc030108bdc5e072799b62a"/>
+</record_update>

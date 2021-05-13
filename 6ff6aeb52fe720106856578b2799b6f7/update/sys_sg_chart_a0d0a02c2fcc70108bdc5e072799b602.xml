@@ -2,7 +2,7 @@
     <sys_sg_chart action="INSERT_OR_UPDATE">
         <jump_to_screen display_value="Nav Chores Dashboard - Chart">cad0e42c2fcc70108bdc5e072799b604</jump_to_screen>
         <name>Chores Dashboard</name>
-        <report display_value="Completed Chores (Weekly)">874f350a2fa360106856578b2799b63a</report>
+        <report display_value="Completed Chores (Current)">874f350a2fa360106856578b2799b63a</report>
         <sys_class_name>sys_sg_chart</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-07 15:12:17</sys_created_on>

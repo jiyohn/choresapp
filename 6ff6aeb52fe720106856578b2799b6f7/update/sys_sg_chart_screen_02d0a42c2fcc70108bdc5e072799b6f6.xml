@@ -10,7 +10,7 @@
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="Chores Dashboard">0ad0a42c2fcc70108bdc5e072799b6e6</icon>
         <name>Completed Chores Chart</name>
-        <report display_value="Completed Chores (Weekly)">874f350a2fa360106856578b2799b63a</report>
+        <report display_value="Completed Chores (Current)">874f350a2fa360106856578b2799b63a</report>
         <roles_override>x_604375_family_ch.chore_assignments_user,x_604375_family_ch.admin,uxframework_user,x_604375_family_ch.chore_points_user,x_604375_family_ch.chores_user,x_604375_family_ch.read-only,x_604375_family_ch.user,uxframework_designer,text_search_admin,export_set_admin,export_set_scheduler,rest_api_explorer,script_fix_admin,suggestion_exempt</roles_override>
         <sys_class_name>sys_sg_chart_screen</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>

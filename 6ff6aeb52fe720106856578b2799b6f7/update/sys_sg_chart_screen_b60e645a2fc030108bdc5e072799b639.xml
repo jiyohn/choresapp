@@ -10,7 +10,7 @@
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="Assigned Verifiers">b60e645a2fc030108bdc5e072799b636</icon>
         <name>Assigned Verifiers Chart</name>
-        <report display_value="Assigned Verifications">d90d601a2fc030108bdc5e072799b69b</report>
+        <report display_value="Verifications (Active and Pending)">d90d601a2fc030108bdc5e072799b69b</report>
         <roles_override/>
         <sys_class_name>sys_sg_chart_screen</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>

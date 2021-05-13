@@ -2,7 +2,7 @@
     <sys_sg_chart action="INSERT_OR_UPDATE">
         <jump_to_screen display_value="Nav Incomplete Chores - Chart">dac538fd2f0030108bdc5e072799b67b</jump_to_screen>
         <name>Pending Chores</name>
-        <report display_value="Pending Chores (Weekly)">55a2783d2f0030108bdc5e072799b608</report>
+        <report display_value="Pending Chores (Current)">55a2783d2f0030108bdc5e072799b608</report>
         <sys_class_name>sys_sg_chart</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-11 13:56:06</sys_created_on>
