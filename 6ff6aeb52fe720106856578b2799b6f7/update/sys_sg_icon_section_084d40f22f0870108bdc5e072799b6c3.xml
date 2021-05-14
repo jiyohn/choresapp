@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>cb0ccc722f0870108bdc5e072799b64b,6e3cc0b22f0870108bdc5e072799b6e5,d75c80b22f0870108bdc5e072799b63a,108c84b22f0870108bdc5e072799b60d,f39cc8b22f0870108bdc5e072799b6e3,08cc00f22f0870108bdc5e072799b69e,76dcc0f22f0870108bdc5e072799b68a</applets>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>true</hide_section_if_empty>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-14 13:33:05</sys_created_on>
+        <sys_id>084d40f22f0870108bdc5e072799b6c3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>My Daily Chores</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_icon_section_084d40f22f0870108bdc5e072799b6c3</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-14 14:24:03</sys_updated_on>
+        <table/>
+        <title>My Daily Chores</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

@@ -5,21 +5,21 @@
         <group_by/>
         <instance_relative_url_qc/>
         <name>All Chore Assignments</name>
-        <query_condition table="x_604375_family_ch_chore_assignments">statusANYTHING<item endquery="false" field="status" goto="false" newquery="false" operator="ANYTHING" or="false" value=""/>
+        <query_condition table="x_604375_family_ch_chore_assignments">status=Assigned<item display_value="1 - Assigned" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="Assigned"/>
         </query_condition>
         <query_condition_script/>
         <sys_class_name>sys_sg_data_item</sys_class_name>
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-08 16:14:19</sys_created_on>
         <sys_id>c39879f42fccb0108bdc5e072799b610</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>All Chore Assignments</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_sg_data_item_c39879f42fccb0108bdc5e072799b610</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-08 16:21:02</sys_updated_on>
+        <sys_updated_on>2021-05-14 13:47:37</sys_updated_on>
         <table>x_604375_family_ch_chore_assignments</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=c39879f42fccb0108bdc5e072799b610"/>

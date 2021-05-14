@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>Sunday Assignments (Me) View Config Element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-14 13:31:23</sys_created_on>
+        <sys_id>8bdcc0f22f0870108bdc5e072799b6bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sunday Assignments (Me) View Config Element</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_8bdcc0f22f0870108bdc5e072799b6bf</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-14 13:31:23</sys_updated_on>
+        <view_config display_value="Sunday Assignments (Me) View Config">c7dcc0f22f0870108bdc5e072799b699</view_config>
+        <view_template_slot display_value="text_03">ef5ef07841e35010f877183fc9b8be34</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
