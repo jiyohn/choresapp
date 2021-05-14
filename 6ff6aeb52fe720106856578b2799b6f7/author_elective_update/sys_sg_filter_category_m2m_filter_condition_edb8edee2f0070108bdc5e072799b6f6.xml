@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_filter_category_m2m_filter_condition">
+    <sys_sg_filter_category_m2m_filter_condition action="DELETE">
+        <filter_category display_value="Monday Filter Category">a1b8edee2f0070108bdc5e072799b6eb</filter_category>
+        <filter_condition display_value="Monday Keyword filter condition">55b86dee2f0070108bdc5e072799b6c0</filter_condition>
+        <order>0</order>
+        <sys_class_name>sys_sg_filter_category_m2m_filter_condition</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-14 01:34:13</sys_created_on>
+        <sys_id>edb8edee2f0070108bdc5e072799b6f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_filter_category_m2m_filter_condition_edb8edee2f0070108bdc5e072799b6f6</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-14 01:34:13</sys_updated_on>
+    </sys_sg_filter_category_m2m_filter_condition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_filter_category_m2m_filter_condition_edb8edee2f0070108bdc5e072799b6f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_filter_category_m2m_filter_condition"><sys_sg_filter_category_m2m_filter_condition action="INSERT_OR_UPDATE"><filter_category display_value="Monday Filter Category">a1b8edee2f0070108bdc5e072799b6eb</filter_category><filter_condition display_value="Monday Keyword filter condition">55b86dee2f0070108bdc5e072799b6c0</filter_condition><order>0</order><sys_class_name>sys_sg_filter_category_m2m_filter_condition</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-14 01:34:13</sys_created_on><sys_id>edb8edee2f0070108bdc5e072799b6f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_filter_category_m2m_filter_condition_edb8edee2f0070108bdc5e072799b6f6</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-14 01:34:13</sys_updated_on></sys_sg_filter_category_m2m_filter_condition></record_update>]]></payload>
+        <payload_hash>163565803</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>deea15b02f8cb0108bdc5e072799b6db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-14 01:34:13</sys_created_on>
+        <sys_id>61b8edee2f0070108bdc5e072799b6f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17968827e690000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-14 01:34:13</sys_updated_on>
+        <type>Filter Category M2M Filter Condition</type>
+        <update_guid>a9b8edeeb80070104a3ed02ec6fa26f8</update_guid>
+        <update_guid_history>a9b8edeeb80070104a3ed02ec6fa26f8:163565803</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-14 01:34:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_filter_category_m2m_filter_condition">sys_sg_filter_category_m2m_filter_condition</sys_db_object>
+        <sys_id>01e85b2d28364891906f0b565d2dcd31</sys_id>
+        <sys_metadata>edb8edee2f0070108bdc5e072799b6f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_filter_category_m2m_filter_condition_edb8edee2f0070108bdc5e072799b6f6</sys_update_name>
+        <sys_update_version display_value="sys_sg_filter_category_m2m_filter_condition_edb8edee2f0070108bdc5e072799b6f6">61b8edee2f0070108bdc5e072799b6f9</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-14 01:34:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

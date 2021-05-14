@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
     <sys_sg_icon_section action="INSERT_OR_UPDATE">
         <active>true</active>
-        <applets>dddb39b82fccb0108bdc5e072799b616,952735652fc430108bdc5e072799b6b5,9d9ebda92fc430108bdc5e072799b6a2,fc6bacc42f4830108bdc5e072799b6fc</applets>
+        <applets>dddb39b82fccb0108bdc5e072799b616,952735652fc430108bdc5e072799b6b5,9d9ebda92fc430108bdc5e072799b6a2,fc6bacc42f4830108bdc5e072799b6fc,ac3e29262f4070108bdc5e072799b6ea</applets>
         <data_item/>
         <display_feed_count>true</display_feed_count>
         <hide_header>false</hide_header>
@@ -12,16 +12,16 @@
         <sys_created_by>josh.yohn</sys_created_by>
         <sys_created_on>2021-05-06 00:53:01</sys_created_on>
         <sys_id>b78250842f0830108bdc5e072799b64b</sys_id>
-        <sys_mod_count>13</sys_mod_count>
-        <sys_name>Chores Directory</sys_name>
+        <sys_mod_count>24</sys_mod_count>
+        <sys_name>Chore Directories</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_sg_icon_section_b78250842f0830108bdc5e072799b64b</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-11 00:43:16</sys_updated_on>
+        <sys_updated_on>2021-05-14 02:19:00</sys_updated_on>
         <table/>
-        <title>Chores Directory</title>
+        <title>Chore Directories</title>
         <visible_condition/>
     </sys_sg_icon_section>
 </record_update>

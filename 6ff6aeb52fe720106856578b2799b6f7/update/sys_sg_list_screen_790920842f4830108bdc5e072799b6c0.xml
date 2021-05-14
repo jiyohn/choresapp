@@ -8,7 +8,7 @@
         <filter/>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
-        <icon display_value="icon-Comments">b50920842f4830108bdc5e072799b6bd</icon>
+        <icon display_value="icon-Address-Card">b50920842f4830108bdc5e072799b6bd</icon>
         <name>View All Users</name>
         <roles_override/>
         <sys_class_name>sys_sg_list_screen</sys_class_name>
