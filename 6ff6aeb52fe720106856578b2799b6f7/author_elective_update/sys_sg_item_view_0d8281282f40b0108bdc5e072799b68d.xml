@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="DELETE">
+        <data_item/>
+        <dependency_fields>text_icon_01-43045,text_01-43046,text_02-3907,text_03-22124,text_04-3091,text_05-3092,image_01-20170,text_06-10133,text_07-10134</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Id":28090,"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Margin":{"Top":16,"Bottom":16},"Children":[{"Type":"ViewGroup","Id":12259,"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Id":42845,"Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Id":3484,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","BackgroundColor":"#f1f1f1","CornerRadius":2,"Height":20,"Children":[{"Type":"Text","TextColor":"#637274","Font":{"Weight":"regular","Size":10},"Margin":{"Top":3,"Bottom":3,"Left":8},"TextAlignment":"Left","CellId":"text_icon_01","Id":43045},{"Type":"Text","TextColor":"#333E3F","Font":{"Weight":"semibold","Size":14},"MaxLines":1,"textStyle":"custom","Margin":{"Top":2,"Right":8,"Bottom":2,"Left":4},"TextAlignment":"Left","CellId":"text_01","Id":43046}]}]},{"Type":"ViewGroup","Id":42846,"Orientation":"Vertical","Alignment":"Right","Distribution":"Equal","Children":[{"Type":"Text","TextColor":"#637274","Font":{"Weight":"regular","Size":14},"MaxLines":1,"textStyle":"custom","TextAlignment":"Right","CellId":"text_02","Id":3907}]}],"Margin":{"Bottom":8}},{"Type":"Text","Id":22124,"Margin":{"Top":8,"Bottom":8},"TextColor":"#333e3f","Font":{"Weight":"semibold","Size":16},"MaxLines":1,"textStyle":"custom","TextAlignment":"Left","CellId":"text_03"},{"Type":"ViewGroup","Id":12261,"Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Id":34348,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"Children":[{"Type":"Text","CellId":"text_04","Id":3091,"TextColor":"#637274","Font":{"Weight":"regular","Size":14},"MaxLines":1,"textStyle":"custom","TextAlignment":"Left"},{"Type":"Text","TextColor":"#637274","Font":{"Weight":"semibold","Size":14},"MaxLines":1,"textStyle":"custom","Margin":{"Left":4},"CellId":"text_05","Id":3092,"TextAlignment":"Left"}]}],"Margin":{"Bottom":0,"Top":0}},{"Type":"ViewGroup","Id":12262,"Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Margin":{"Top":8},"Children":[{"Type":"ViewGroup","Id":24212,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"Children":[{"Type":"Image","CellId":"image_01","Id":20170,"Scaling":"Fill","Height":24,"Width":24,"CornerRadius":12,"Margin":{"Right":8}},{"Type":"Text","TextColor":"#637274","Font":{"Weight":"regular","Size":14},"MaxLines":1,"textStyle":"custom","Margin":{"Right":4},"CellId":"text_06","Id":10133},{"Type":"Text","TextColor":"#637274","Font":{"Weight":"semibold","Size":14},"MaxLines":1,"textStyle":"custom","CellId":"text_07","Id":10134}]}]}]}</item_view_json>
+        <name>Assigned UI Style</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-07 17:39:30</sys_created_on>
+        <sys_id>0d8281282f40b0108bdc5e072799b68d</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Assigned UI Style</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_item_view_0d8281282f40b0108bdc5e072799b68d</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 15:43:44</sys_updated_on>
+        <table>x_604375_family_ch_chores</table>
+        <ui_styles>489f810c2f5030108bdc5e072799b6f8</ui_styles>
+    </sys_sg_item_view>
+    <sys_translated_text action="DELETE" query="documentkey=0d8281282f40b0108bdc5e072799b68d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_item_view_0d8281282f40b0108bdc5e072799b68d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view"><sys_sg_item_view action="INSERT_OR_UPDATE"><data_item/><dependency_fields>text_icon_01-43045,text_01-43046,text_02-3907,text_03-22124,text_04-3091,text_05-3092,image_01-20170,text_06-10133,text_07-10134</dependency_fields><item_view_json>{"Type":"ViewGroup","Id":28090,"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Margin":{"Top":16,"Bottom":16},"Children":[{"Type":"ViewGroup","Id":12259,"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Id":42845,"Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Id":3484,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","BackgroundColor":"#f1f1f1","CornerRadius":2,"Height":20,"Children":[{"Type":"Text","TextColor":"#637274","Font":{"Weight":"regular","Size":10},"Margin":{"Top":3,"Bottom":3,"Left":8},"TextAlignment":"Left","CellId":"text_icon_01","Id":43045},{"Type":"Text","TextColor":"#333E3F","Font":{"Weight":"semibold","Size":14},"MaxLines":1,"textStyle":"custom","Margin":{"Top":2,"Right":8,"Bottom":2,"Left":4},"TextAlignment":"Left","CellId":"text_01","Id":43046}]}]},{"Type":"ViewGroup","Id":42846,"Orientation":"Vertical","Alignment":"Right","Distribution":"Equal","Children":[{"Type":"Text","TextColor":"#637274","Font":{"Weight":"regular","Size":14},"MaxLines":1,"textStyle":"custom","TextAlignment":"Right","CellId":"text_02","Id":3907}]}],"Margin":{"Bottom":8}},{"Type":"Text","Id":22124,"Margin":{"Top":8,"Bottom":8},"TextColor":"#333e3f","Font":{"Weight":"semibold","Size":16},"MaxLines":1,"textStyle":"custom","TextAlignment":"Left","CellId":"text_03"},{"Type":"ViewGroup","Id":12261,"Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Id":34348,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"Children":[{"Type":"Text","CellId":"text_04","Id":3091,"TextColor":"#637274","Font":{"Weight":"regular","Size":14},"MaxLines":1,"textStyle":"custom","TextAlignment":"Left"},{"Type":"Text","TextColor":"#637274","Font":{"Weight":"semibold","Size":14},"MaxLines":1,"textStyle":"custom","Margin":{"Left":4},"CellId":"text_05","Id":3092,"TextAlignment":"Left"}]}],"Margin":{"Bottom":0,"Top":0}},{"Type":"ViewGroup","Id":12262,"Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Margin":{"Top":8},"Children":[{"Type":"ViewGroup","Id":24212,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"Children":[{"Type":"Image","CellId":"image_01","Id":20170,"Scaling":"Fill","Height":24,"Width":24,"CornerRadius":12,"Margin":{"Right":8}},{"Type":"Text","TextColor":"#637274","Font":{"Weight":"regular","Size":14},"MaxLines":1,"textStyle":"custom","Margin":{"Right":4},"CellId":"text_06","Id":10133},{"Type":"Text","TextColor":"#637274","Font":{"Weight":"semibold","Size":14},"MaxLines":1,"textStyle":"custom","CellId":"text_07","Id":10134}]}]}]}</item_view_json><name>Assigned UI Style</name><short_description/><sys_class_name>sys_sg_item_view</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-07 17:39:30</sys_created_on><sys_id>0d8281282f40b0108bdc5e072799b68d</sys_id><sys_mod_count>9</sys_mod_count><sys_name>Assigned UI Style</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_item_view_0d8281282f40b0108bdc5e072799b68d</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-18 15:43:44</sys_updated_on><table>x_604375_family_ch_chores</table><ui_styles>489f810c2f5030108bdc5e072799b6f8</ui_styles></sys_sg_item_view><sys_translated_text action="delete_multiple" query="documentkey=0d8281282f40b0108bdc5e072799b68d"/></record_update>]]></payload>
+        <payload_hash>2087360264</payload_hash>
+        <record_name>Assigned UI Style</record_name>
+        <reverted_from/>
+        <source>deea15b02f8cb0108bdc5e072799b6db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-18 15:43:44</sys_created_on>
+        <sys_id>34819d4c2f5030108bdc5e072799b607</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1798025b2b00000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 15:43:44</sys_updated_on>
+        <type>Item view</type>
+        <update_guid>3c819d4cbb503010443e26aac9766b06</update_guid>
+        <update_guid_history>3c819d4cbb503010443e26aac9766b06:2087360264,54711d4c58503010cdab76b349b64b0b:-1463759111,7b41114c445030104026adccce5b1c96:1268059037,7301194c77503010f24809a1ddf51b65:2026078007,31ff490c3b503010a4078138353f596f:1748205866,813d498822503010893ee4f7dc885cae:516775396,edf20d8084503010a9d22ce79863d158:1563721237,36c20540cd503010f9ca4aee189bd057:-1220303968,16d1cd40dd503010dea7a7f37b55bf55:1498993977,cd828128e740b010323c8d1dddfd198f:1798639247</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-18 15:44:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_view">sys_sg_item_view</sys_db_object>
+        <sys_id>032eadcba02c46c98b0c0572cbd5fe81</sys_id>
+        <sys_metadata>0d8281282f40b0108bdc5e072799b68d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assigned UI Style</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_item_view_0d8281282f40b0108bdc5e072799b68d</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_view_0d8281282f40b0108bdc5e072799b68d">34819d4c2f5030108bdc5e072799b607</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 15:44:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

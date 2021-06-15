@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
+    <sys_sg_ui_style action="DELETE">
+        <active>true</active>
+        <condition table="x_604375_family_ch_chore_assignments">status=Incomplete^EQ<item display_value="5 - Incomplete" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="Incomplete"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <field>status</field>
+        <item_vew/>
+        <item_view_element>22123</item_view_element>
+        <name>Status Color Incomplete</name>
+        <style>{"background_color":"#FA8B6E"}</style>
+        <sys_class_name>sys_sg_ui_style</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-06 02:56:05</sys_created_on>
+        <sys_id>babee4882f4830108bdc5e072799b621</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Status Color Incomplete</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_ui_style_babee4882f4830108bdc5e072799b621</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-12 00:40:25</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+        <use_item_view_elements>true</use_item_view_elements>
+    </sys_sg_ui_style>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_ui_style_babee4882f4830108bdc5e072799b621</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style"><sys_sg_ui_style action="INSERT_OR_UPDATE"><active>true</active><condition table="x_604375_family_ch_chore_assignments">status=Incomplete^EQ<item display_value="5 - Incomplete" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="Incomplete"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><field>status</field><item_vew/><item_view_element>22123</item_view_element><name>Status Color Incomplete</name><style>{"background_color":"#FA8B6E"}</style><sys_class_name>sys_sg_ui_style</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-06 02:56:05</sys_created_on><sys_id>babee4882f4830108bdc5e072799b621</sys_id><sys_mod_count>13</sys_mod_count><sys_name>Status Color Incomplete</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_ui_style_babee4882f4830108bdc5e072799b621</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-12 00:40:25</sys_updated_on><table>x_604375_family_ch_chore_assignments</table><use_item_view_elements>true</use_item_view_elements></sys_sg_ui_style></record_update>]]></payload>
+        <payload_hash>343629370</payload_hash>
+        <record_name>Status Color Incomplete</record_name>
+        <reverted_from/>
+        <source>deea15b02f8cb0108bdc5e072799b6db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-18 15:23:40</sys_created_on>
+        <sys_id>feec85882f5030108bdc5e072799b62d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179801353900000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 15:23:40</sys_updated_on>
+        <type>UI Style</type>
+        <update_guid>3eec858837503010d117c8305169902d</update_guid>
+        <update_guid_history>3eec858837503010d117c8305169902d:0,06390fb14ac4301030a6739942e920ea:875450646,f6112511d54434104fecd5f256a4e7c2:-641525171,21cc155d7e04341024ba2adc1ce78510:875450646,100cd11dbd0434104008c6f09afac883:-641525171,971b111d54043410496a9a1a4f231a24:875450646,a4da1dd9ed0434105eaab61c0e74cb1d:1402108546,5faa59d916043410d9db2dfabc9abab0:1519101843,8096d119c204341073b92ad84df0c2ec:-1322921235,8096d119c204341073b92ad84df0c2ec:-1322921235,e23611198f04341071b3529087ad12dc:-1301646515,4c6599d5230434105ccae92837312c3b:82676422,ba4519d5ac043410b2dba01e64bba2b7:-1247250967,d435d595db0434104073b923790afffa:1369826997,e9839d5508043410149538823d869db6:-1130013241,3abee4889c4830108b6e98b0f728dd23:313926092</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-18 15:23:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_style">sys_sg_ui_style</sys_db_object>
+        <sys_id>0260d33ecd3f4430898803d89d327100</sys_id>
+        <sys_metadata>babee4882f4830108bdc5e072799b621</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Status Color Incomplete</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_style_babee4882f4830108bdc5e072799b621</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_style_babee4882f4830108bdc5e072799b621">feec85882f5030108bdc5e072799b62d</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 15:23:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

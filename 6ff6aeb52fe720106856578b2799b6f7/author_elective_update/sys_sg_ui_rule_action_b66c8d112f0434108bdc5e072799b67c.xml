@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="DELETE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order/>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-10 02:18:53</sys_created_on>
+        <sys_id>b66c8d112f0434108bdc5e072799b67c</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_b66c8d112f0434108bdc5e072799b67c</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 14:14:07</sys_updated_on>
+        <target>text_icon_01</target>
+        <ui_rule display_value="Status incomplete">1e994d9d2fc034108bdc5e072799b6a6</ui_rule>
+        <value>{&#13;
+"BackgroundColor":"#B5EBD4"​&#13;
+}</value>
+    </sys_sg_ui_rule_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_ui_rule_action_b66c8d112f0434108bdc5e072799b67c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action"><sys_sg_ui_rule_action action="INSERT_OR_UPDATE"><operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation><order/><sys_class_name>sys_sg_ui_rule_action</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-10 02:18:53</sys_created_on><sys_id>b66c8d112f0434108bdc5e072799b67c</sys_id><sys_mod_count>4</sys_mod_count><sys_name/><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_ui_rule_action_b66c8d112f0434108bdc5e072799b67c</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-18 14:14:07</sys_updated_on><target>text_icon_01</target><ui_rule display_value="Status incomplete">1e994d9d2fc034108bdc5e072799b6a6</ui_rule><value>{&#13;
+"BackgroundColor":"#B5EBD4"​&#13;
+}</value></sys_sg_ui_rule_action></record_update>]]></payload>
+        <payload_hash>1597450997</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>deea15b02f8cb0108bdc5e072799b6db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-18 14:14:07</sys_created_on>
+        <sys_id>8c0db84c2f1030108bdc5e072799b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1797fd3a5ae0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 14:14:07</sys_updated_on>
+        <type>Mobile UI Rule Action</type>
+        <update_guid>840db84c8a103010686671c7ff3de461</update_guid>
+        <update_guid_history>840db84c8a103010686671c7ff3de461:1597450997,58ecb84c691030106f755eedd068a25b:-1269769928,6bcc308c2a1030106e5bee3e78b528db:1668458802,aa1d0551e30434101a1684715a794b02:1147056291,f89c4511c1043410110c0846dee5b94c:1015718677</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-18 14:47:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_rule_action">sys_sg_ui_rule_action</sys_db_object>
+        <sys_id>09cb6f9356c341ed986ce1762af1bfa1</sys_id>
+        <sys_metadata>b66c8d112f0434108bdc5e072799b67c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_rule_action_b66c8d112f0434108bdc5e072799b67c</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_rule_action_b66c8d112f0434108bdc5e072799b67c">8c0db84c2f1030108bdc5e072799b661</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 14:47:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

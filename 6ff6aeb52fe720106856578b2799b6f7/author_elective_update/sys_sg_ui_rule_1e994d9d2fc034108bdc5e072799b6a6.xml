@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule">
+    <sys_sg_ui_rule action="DELETE">
+        <active>true</active>
+        <condition>status=Assigned^EQ</condition>
+        <name>Status incomplete</name>
+        <order>50</order>
+        <parent_id>035210842f0830108bdc5e072799b68f</parent_id>
+        <parent_table>sys_sg_view_config</parent_table>
+        <reverse_if_false>false</reverse_if_false>
+        <sys_class_name>sys_sg_ui_rule</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-10 02:09:40</sys_created_on>
+        <sys_id>1e994d9d2fc034108bdc5e072799b6a6</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Status incomplete</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_1e994d9d2fc034108bdc5e072799b6a6</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 14:12:23</sys_updated_on>
+        <trigger>fd680bd85b431010da168d8fa881c7c8</trigger>
+    </sys_sg_ui_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_ui_rule_1e994d9d2fc034108bdc5e072799b6a6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule"><sys_sg_ui_rule action="INSERT_OR_UPDATE"><active>true</active><condition>status=Assigned^EQ</condition><name>Status incomplete</name><order>50</order><parent_id>035210842f0830108bdc5e072799b68f</parent_id><parent_table>sys_sg_view_config</parent_table><reverse_if_false>false</reverse_if_false><sys_class_name>sys_sg_ui_rule</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-10 02:09:40</sys_created_on><sys_id>1e994d9d2fc034108bdc5e072799b6a6</sys_id><sys_mod_count>13</sys_mod_count><sys_name>Status incomplete</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_ui_rule_1e994d9d2fc034108bdc5e072799b6a6</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-18 14:12:23</sys_updated_on><trigger>fd680bd85b431010da168d8fa881c7c8</trigger></sys_sg_ui_rule></record_update>]]></payload>
+        <payload_hash>-1997313597</payload_hash>
+        <record_name>Status incomplete</record_name>
+        <reverted_from/>
+        <source>deea15b02f8cb0108bdc5e072799b6db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-18 14:12:23</sys_created_on>
+        <sys_id>6a9c7c4c2f1030108bdc5e072799b607</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1797fd20e3b0000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 14:12:23</sys_updated_on>
+        <type>Mobile UI Rule</type>
+        <update_guid>a29c7c4cd610301029ff7f931bc60807</update_guid>
+        <update_guid_history>a29c7c4cd610301029ff7f931bc60807:-1997313597,18129155ba043410c174a242818cb6ed:-1543747789,85005991550434106d2477be50425790:1965089370,0bbf45d1940434103560e2423b78e1f5:-1931515334,a46fc991f2043410e0347aea8d64a1b0:-428081712,02bec591c5043410b7d49514ca8d3227:19695594,0e9ecd51c104341090c66a7a17fa9d25:-1500806198,5d1e4191970434104ee0368e0f319f81:945811232,95fdcd51110434100dd2a3243f5fb1ce:-428081712,8dbd855133043410a6db8b8bb818b77f:-21325328,155d055169043410a759bd485c93e806:861991463,c68b0dddd2c03410c8695594af46c5b5:-243439198,ddaac595c3c0341073bba92cfb872c14:643552465,f17ac5dd71c03410deb869ee39c41f4b:-243439198</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-18 14:47:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_rule">sys_sg_ui_rule</sys_db_object>
+        <sys_id>06660102a15542ef959c360277e44db1</sys_id>
+        <sys_metadata>1e994d9d2fc034108bdc5e072799b6a6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Status incomplete</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_rule_1e994d9d2fc034108bdc5e072799b6a6</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_rule_1e994d9d2fc034108bdc5e072799b6a6">6a9c7c4c2f1030108bdc5e072799b607</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 14:47:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

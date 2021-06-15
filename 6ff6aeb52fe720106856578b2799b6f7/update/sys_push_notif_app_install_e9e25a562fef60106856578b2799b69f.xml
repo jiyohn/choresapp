@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
     <sys_push_notif_app_install action="INSERT_OR_UPDATE">
         <active>true</active>
-        <last_registered_on>2021-05-09 16:11:47</last_registered_on>
+        <last_registered_on>2021-05-18 23:35:38</last_registered_on>
         <sys_class_name>sys_push_notif_app_install</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-18 13:28:40</sys_created_on>
         <sys_id>e9e25a562fef60106856578b2799b69f</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>D511EA7F975577AF4204A3E7CBFFA3B188F7658884C26F511FE432D67E5F643F</sys_name>
         <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
         <sys_policy/>
@@ -15,7 +15,7 @@
         <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
         <sys_update_name>sys_push_notif_app_install_e9e25a562fef60106856578b2799b69f</sys_update_name>
         <sys_updated_by>josh.yohn</sys_updated_by>
-        <sys_updated_on>2021-05-09 16:11:47</sys_updated_on>
+        <sys_updated_on>2021-05-18 23:35:38</sys_updated_on>
         <sys_user_id display_value="Josh Yohn">6816f79cc0a8016401c5a33be04be441</sys_user_id>
         <token>D511EA7F975577AF4204A3E7CBFFA3B188F7658884C26F511FE432D67E5F643F</token>
     </sys_push_notif_app_install>

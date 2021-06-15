@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_calendar_screen">
+    <sys_sg_calendar_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Calendar Icon">b5750e402f1430108bdc5e072799b623</icon>
+        <name>Calendar Tab</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_calendar_screen</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-18 19:30:51</sys_created_on>
+        <sys_id>8a750e402f1430108bdc5e072799b698</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Calendar Tab</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_calendar_screen_8a750e402f1430108bdc5e072799b698</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 19:36:42</sys_updated_on>
+    </sys_sg_calendar_screen>
+    <sys_translated_text action="DELETE" query="documentkey=8a750e402f1430108bdc5e072799b698"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>8ab7ede1db0b0c182f68c597059619da</instance_id>
+        <instance_name>dev101189</instance_name>
+        <name>sys_sg_calendar_screen_8a750e402f1430108bdc5e072799b698</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_calendar_screen"><sys_sg_calendar_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><empty_state/><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="Calendar Icon">b5750e402f1430108bdc5e072799b623</icon><name>Calendar Tab</name><roles_override/><sys_class_name>sys_sg_calendar_screen</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-05-18 19:30:51</sys_created_on><sys_id>8a750e402f1430108bdc5e072799b698</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Calendar Tab</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_calendar_screen_8a750e402f1430108bdc5e072799b698</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-05-18 19:36:42</sys_updated_on></sys_sg_calendar_screen><sys_translated_text action="delete_multiple" query="documentkey=8a750e402f1430108bdc5e072799b698"/></record_update>]]></payload>
+        <payload_hash>-496418628</payload_hash>
+        <record_name>Calendar Tab</record_name>
+        <reverted_from/>
+        <source>deea15b02f8cb0108bdc5e072799b6db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-18 19:36:42</sys_created_on>
+        <sys_id>d5d64e802f1430108bdc5e072799b632</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17980fafa980000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 19:36:42</sys_updated_on>
+        <type>Calendar screen</type>
+        <update_guid>ddd64e800d1430109ed5405b42b56c31</update_guid>
+        <update_guid_history>ddd64e800d1430109ed5405b42b56c31:-496418628,2f758a401b143010c2abc588324c773b:-1567825124</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-05-18 19:37:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_calendar_screen">sys_sg_calendar_screen</sys_db_object>
+        <sys_id>89291d29f7b84533883192020dd861d9</sys_id>
+        <sys_metadata>8a750e402f1430108bdc5e072799b698</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Calendar Tab</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_calendar_screen_8a750e402f1430108bdc5e072799b698</sys_update_name>
+        <sys_update_version display_value="sys_sg_calendar_screen_8a750e402f1430108bdc5e072799b698">d5d64e802f1430108bdc5e072799b632</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-05-18 19:37:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
