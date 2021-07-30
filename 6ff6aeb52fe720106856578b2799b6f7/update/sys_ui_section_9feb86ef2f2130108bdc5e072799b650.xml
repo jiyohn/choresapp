@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="Chore Tasks" section_id="8414bccf2f2320106856578b2799b61e" sys_domain="global" table="x_604375_family_ch_chore_assignments" version="3" view="">
+    <sys_ui_section caption="Notes" section_id="9feb86ef2f2130108bdc5e072799b650" sys_domain="global" table="x_604375_family_ch_chore_assignments" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>chore_completion_criteria</element>
+            <element>u_journal_3</element>
             <position>0</position>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-07-30 20:21:47</sys_created_on>
-            <sys_id>653d46232f6130108bdc5e072799b699</sys_id>
+            <sys_created_on>2021-07-30 20:23:08</sys_created_on>
+            <sys_id>d98d4a232f6130108bdc5e072799b676</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Chore Tasks" display_value="Chore Tasks" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">8414bccf2f2320106856578b2799b61e</sys_ui_section>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">9feb86ef2f2130108bdc5e072799b650</sys_ui_section>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-07-30 20:21:47</sys_updated_on>
+            <sys_updated_on>2021-07-30 20:23:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption>Chore Tasks</caption>
+            <caption>Notes</caption>
             <header>false</header>
             <name>x_604375_family_ch_chore_assignments</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-04-20 14:29:45</sys_created_on>
+            <sys_created_by>josh.yohn</sys_created_by>
+            <sys_created_on>2021-07-30 20:16:10</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8414bccf2f2320106856578b2799b61e</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_id>9feb86ef2f2130108bdc5e072799b650</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>x_604375_family_ch_chore_assignments</sys_name>
             <sys_overrides/>
             <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
             <sys_policy/>
             <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
-            <sys_update_name>sys_ui_section_8414bccf2f2320106856578b2799b61e</sys_update_name>
+            <sys_update_name>sys_ui_section_9feb86ef2f2130108bdc5e072799b650</sys_update_name>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-07-30 20:21:47</sys_updated_on>
+            <sys_updated_on>2021-07-30 20:18:51</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>

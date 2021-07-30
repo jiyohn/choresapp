@@ -3,107 +3,107 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ecf31ef12f0130108bdc5e072799b6fb</list_id>
+            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7783c22b2f2130108bdc5e072799b6b2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-06-30 13:50:27</sys_created_on>
-            <sys_id>28f31ef12f0130108bdc5e072799b6fc</sys_id>
+            <sys_created_on>2021-07-30 19:39:37</sys_created_on>
+            <sys_id>3f83c22b2f2130108bdc5e072799b6b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-06-30 13:50:27</sys_updated_on>
+            <sys_updated_on>2021-07-30 19:39:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ecf31ef12f0130108bdc5e072799b6fb</list_id>
+            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7783c22b2f2130108bdc5e072799b6b2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-06-30 13:50:27</sys_created_on>
-            <sys_id>a8f31ef12f0130108bdc5e072799b6fc</sys_id>
+            <sys_created_on>2021-07-30 19:39:37</sys_created_on>
+            <sys_id>bf83c22b2f2130108bdc5e072799b6b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-06-30 13:50:27</sys_updated_on>
+            <sys_updated_on>2021-07-30 19:39:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>chore_assigned</element>
-            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ecf31ef12f0130108bdc5e072799b6fb</list_id>
+            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7783c22b2f2130108bdc5e072799b6b2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-06-30 13:50:27</sys_created_on>
-            <sys_id>2cf31ef12f0130108bdc5e072799b6fc</sys_id>
+            <sys_created_on>2021-07-30 19:39:37</sys_created_on>
+            <sys_id>3383c22b2f2130108bdc5e072799b6b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-06-30 13:50:27</sys_updated_on>
+            <sys_updated_on>2021-07-30 19:39:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>day_s_required</element>
-            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ecf31ef12f0130108bdc5e072799b6fb</list_id>
+            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7783c22b2f2130108bdc5e072799b6b2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-06-30 13:50:27</sys_created_on>
-            <sys_id>acf31ef12f0130108bdc5e072799b6fc</sys_id>
+            <sys_created_on>2021-07-30 19:39:37</sys_created_on>
+            <sys_id>b383c22b2f2130108bdc5e072799b6b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-06-30 13:50:27</sys_updated_on>
+            <sys_updated_on>2021-07-30 19:39:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>status</element>
-            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ecf31ef12f0130108bdc5e072799b6fb</list_id>
+            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7783c22b2f2130108bdc5e072799b6b2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-06-30 13:50:27</sys_created_on>
-            <sys_id>20f31ef12f0130108bdc5e072799b6fd</sys_id>
+            <sys_created_on>2021-07-30 19:39:37</sys_created_on>
+            <sys_id>3783c22b2f2130108bdc5e072799b6b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-06-30 13:50:27</sys_updated_on>
+            <sys_updated_on>2021-07-30 19:39:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>warnings</element>
-            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ecf31ef12f0130108bdc5e072799b6fb</list_id>
+            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7783c22b2f2130108bdc5e072799b6b2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-06-30 13:50:27</sys_created_on>
-            <sys_id>a0f31ef12f0130108bdc5e072799b6fd</sys_id>
+            <sys_created_on>2021-07-30 19:39:37</sys_created_on>
+            <sys_id>b783c22b2f2130108bdc5e072799b6b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-06-30 13:50:27</sys_updated_on>
+            <sys_updated_on>2021-07-30 19:39:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_verifier</element>
-            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ecf31ef12f0130108bdc5e072799b6fb</list_id>
+            <list_id display_value="x_604375_family_ch_chore_assignments" element="NULL" name="x_604375_family_ch_chore_assignments" parent="NULL" relationship="NULL" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7783c22b2f2130108bdc5e072799b6b2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-06-30 13:50:27</sys_created_on>
-            <sys_id>24f31ef12f0130108bdc5e072799b6fd</sys_id>
+            <sys_created_on>2021-07-30 19:39:37</sys_created_on>
+            <sys_id>3b83c22b2f2130108bdc5e072799b6b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-06-30 13:50:27</sys_updated_on>
+            <sys_updated_on>2021-07-30 19:39:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -117,10 +117,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>josh.yohn</sys_created_by>
-            <sys_created_on>2021-06-30 13:50:27</sys_created_on>
+            <sys_created_on>2021-07-30 19:39:37</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ecf31ef12f0130108bdc5e072799b6fb</sys_id>
+            <sys_id>7783c22b2f2130108bdc5e072799b6b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_604375_family_ch_chore_assignments</sys_name>
             <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
@@ -128,7 +128,7 @@
             <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
             <sys_update_name>sys_ui_list_x_604375_family_ch_chore_assignments_advanced</sys_update_name>
             <sys_updated_by>josh.yohn</sys_updated_by>
-            <sys_updated_on>2021-06-30 13:50:27</sys_updated_on>
+            <sys_updated_on>2021-07-30 19:39:37</sys_updated_on>
             <sys_user/>
             <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
             <view_name/>

@@ -10,7 +10,7 @@
             <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_604375_family_ch_chore_assignments" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">371883f12f6b20106856578b2799b6ca</sys_ui_form>
-            <sys_ui_section caption="Chore details" display_value="Chore details" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">f2c132712f2b20106856578b2799b696</sys_ui_section>
+            <sys_ui_section caption="Chore Details" display_value="Chore Details" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">f2c132712f2b20106856578b2799b696</sys_ui_section>
             <sys_updated_by>josh.yohn</sys_updated_by>
             <sys_updated_on>2021-05-04 15:13:07</sys_updated_on>
         </sys_ui_form_section>
@@ -24,7 +24,7 @@
             <sys_mod_count>3</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_604375_family_ch_chore_assignments" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">371883f12f6b20106856578b2799b6ca</sys_ui_form>
-            <sys_ui_section caption="Additional Remarks" display_value="Additional Remarks" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">8414bccf2f2320106856578b2799b61e</sys_ui_section>
+            <sys_ui_section caption="Chore Tasks" display_value="Chore Tasks" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">8414bccf2f2320106856578b2799b61e</sys_ui_section>
             <sys_updated_by>josh.yohn</sys_updated_by>
             <sys_updated_on>2021-05-04 15:13:07</sys_updated_on>
         </sys_ui_form_section>
@@ -55,6 +55,20 @@
             <sys_ui_section caption="Chore Activities Tracker" display_value="Chore Activities Tracker" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">582b52772fb320108bdc5e072799b680</sys_ui_section>
             <sys_updated_by>josh.yohn</sys_updated_by>
             <sys_updated_on>2021-05-05 16:11:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>josh.yohn</sys_created_by>
+            <sys_created_on>2021-07-30 20:16:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dfeb86ef2f2130108bdc5e072799b6b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_604375_family_ch_chore_assignments" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">371883f12f6b20106856578b2799b6ca</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_604375_family_ch_chore_assignments" sys_domain="global" view="Default view">9feb86ef2f2130108bdc5e072799b650</sys_ui_section>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-07-30 20:16:10</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_604375_family_ch_chore_assignments</name>
