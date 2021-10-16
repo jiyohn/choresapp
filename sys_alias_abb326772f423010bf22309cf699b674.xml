@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_581709_chores.Chores_Alias</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Chores Alias</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-25 13:10:43</sys_created_on>
+        <sys_id>abb326772f423010bf22309cf699b674</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_581709_chores.Chores_Alias</sys_name>
+        <sys_package display_value="Chores" source="x_581709_chores">d48266b32f423010bf22309cf699b695</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Chores">d48266b32f423010bf22309cf699b695</sys_scope>
+        <sys_update_name>sys_alias_abb326772f423010bf22309cf699b674</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-25 13:10:43</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Chores">d48266b32f423010bf22309cf699b695</application>
+        <file_path/>
+        <instance_id>2bef6dfadb8900100ae3ac44d496191e</instance_id>
+        <instance_name>dev94721</instance_name>
+        <name>sys_alias_abb326772f423010bf22309cf699b674</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_581709_chores.Chores_Alias</id><multiple_connections>false</multiple_connections><name>Chores Alias</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-25 13:10:43</sys_created_on><sys_id>abb326772f423010bf22309cf699b674</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_581709_chores.Chores_Alias</sys_name><sys_package display_value="Chores" source="x_581709_chores">d48266b32f423010bf22309cf699b695</sys_package><sys_policy/><sys_scope display_value="Chores">d48266b32f423010bf22309cf699b695</sys_scope><sys_update_name>sys_alias_abb326772f423010bf22309cf699b674</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-25 13:10:43</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>-91974977</payload_hash>
+        <record_name>x_581709_chores.Chores_Alias</record_name>
+        <reverted_from/>
+        <source>297322372f423010bf22309cf699b697</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-25 13:10:43</sys_created_on>
+        <sys_id>a0e322772f423010bf22309cf699b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b7d6f2d7a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-25 13:10:43</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>e8e32277e64230109a425c2f77bf6c82</update_guid>
+        <update_guid_history>e8e32277e64230109a425c2f77bf6c82:-91974977</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-25 13:27:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>3c5e991e3c4e4673b45172f62e810c01</sys_id>
+        <sys_metadata>abb326772f423010bf22309cf699b674</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_581709_chores.Chores_Alias</sys_name>
+        <sys_package display_value="Chores" source="x_581709_chores">d48266b32f423010bf22309cf699b695</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Chores">d48266b32f423010bf22309cf699b695</sys_scope>
+        <sys_scope_delete display_value="">4252d615b74c4afc91327d6fee7771a1</sys_scope_delete>
+        <sys_update_name>sys_alias_abb326772f423010bf22309cf699b674</sys_update_name>
+        <sys_update_version display_value="sys_alias_abb326772f423010bf22309cf699b674">a0e322772f423010bf22309cf699b683</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-25 13:27:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
