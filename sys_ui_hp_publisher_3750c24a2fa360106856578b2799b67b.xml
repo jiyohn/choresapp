@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher">
+    <sys_ui_hp_publisher action="DELETE">
+        <allow_database_view_filter>false</allow_database_view_filter>
+        <allow_extended_table>false</allow_extended_table>
+        <boolean_field/>
+        <boolean_table/>
+        <date_filter/>
+        <default_boolean_field/>
+        <default_choice/>
+        <default_date_filter/>
+        <default_reference_field_value/>
+        <description/>
+        <exclusion_choice_list/>
+        <look_up_name/>
+        <name>Family</name>
+        <reference_conditions/>
+        <reference_table/>
+        <remove_all_option>false</remove_all_option>
+        <source_field/>
+        <source_table/>
+        <sys_class_name>sys_ui_hp_publisher</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 17:29:29</sys_created_on>
+        <sys_id>3750c24a2fa360106856578b2799b67b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Family</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_ui_hp_publisher_3750c24a2fa360106856578b2799b67b</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 17:29:29</sys_updated_on>
+        <type>4</type>
+        <ui_control_type>4</ui_control_type>
+    </sys_ui_hp_publisher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>3268e761dbd68050b847ac44d496191f</instance_id>
+        <instance_name>dev96744</instance_name>
+        <name>sys_ui_hp_publisher_3750c24a2fa360106856578b2799b67b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher"><sys_ui_hp_publisher action="INSERT_OR_UPDATE"><allow_database_view_filter>false</allow_database_view_filter><allow_extended_table>false</allow_extended_table><boolean_field/><boolean_table/><date_filter/><default_boolean_field/><default_choice/><default_date_filter/><default_reference_field_value/><description/><exclusion_choice_list/><look_up_name/><name>Family</name><reference_conditions/><reference_table/><remove_all_option>false</remove_all_option><source_field/><source_table/><sys_class_name>sys_ui_hp_publisher</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-04-17 17:29:29</sys_created_on><sys_id>3750c24a2fa360106856578b2799b67b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Family</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_ui_hp_publisher_3750c24a2fa360106856578b2799b67b</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-04-17 17:29:29</sys_updated_on><type>4</type><ui_control_type>4</ui_control_type></sys_ui_hp_publisher></record_update>]]></payload>
+        <payload_hash>1754678181</payload_hash>
+        <record_name>Family</record_name>
+        <reverted_from/>
+        <source>a7f6aeb52fe720106856578b2799b6fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 17:29:29</sys_created_on>
+        <sys_id>d760424a2fa360106856578b2799b634</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178e0e15df70000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 17:29:29</sys_updated_on>
+        <type>Interactive Filter</type>
+        <update_guid>1360424aa9a360104e5634d1cb9ce234</update_guid>
+        <update_guid_history>1360424aa9a360104e5634d1cb9ce234:1754678181</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 17:30:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_hp_publisher">sys_ui_hp_publisher</sys_db_object>
+        <sys_id>37c87eca02714010a3ee2fa06a9c5f21</sys_id>
+        <sys_metadata>3750c24a2fa360106856578b2799b67b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Family</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_ui_hp_publisher_3750c24a2fa360106856578b2799b67b</sys_update_name>
+        <sys_update_version display_value="sys_ui_hp_publisher_3750c24a2fa360106856578b2799b67b">d760424a2fa360106856578b2799b634</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 17:30:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

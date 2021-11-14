@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role">
+    <sys_ui_action_role action="DELETE">
+        <sys_class_name>sys_ui_action_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-19 18:07:13</sys_created_on>
+        <sys_id>211c103e2fe320106856578b2799b622</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Start chore.x_604375_family_ch.user</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_ui_action display_value="Start chore">406d80722fe320106856578b2799b6fb</sys_ui_action>
+        <sys_update_name>sys_ui_action_role_211c103e2fe320106856578b2799b622</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-19 18:07:13</sys_updated_on>
+        <sys_user_role display_value="x_604375_family_ch.user" name="x_604375_family_ch.user">38176afd2f2720106856578b2799b662</sys_user_role>
+    </sys_ui_action_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>3268e761dbd68050b847ac44d496191f</instance_id>
+        <instance_name>dev96744</instance_name>
+        <name>sys_ui_action_role_211c103e2fe320106856578b2799b622</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_role"><sys_ui_action_role action="INSERT_OR_UPDATE"><sys_class_name>sys_ui_action_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-19 18:07:13</sys_created_on><sys_id>211c103e2fe320106856578b2799b622</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Start chore.x_604375_family_ch.user</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_ui_action display_value="Start chore">406d80722fe320106856578b2799b6fb</sys_ui_action><sys_update_name>sys_ui_action_role_211c103e2fe320106856578b2799b622</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-19 18:07:13</sys_updated_on><sys_user_role display_value="x_604375_family_ch.user" name="x_604375_family_ch.user">38176afd2f2720106856578b2799b662</sys_user_role></sys_ui_action_role></record_update>]]></payload>
+        <payload_hash>-856954202</payload_hash>
+        <record_name>Start chore.x_604375_family_ch.user</record_name>
+        <reverted_from/>
+        <source>a7f6aeb52fe720106856578b2799b6fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-19 18:07:13</sys_created_on>
+        <sys_id>333c143e2fe320106856578b2799b65c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178eb50a3c30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-19 18:07:13</sys_updated_on>
+        <type>UI Action Role</type>
+        <update_guid>7b3c143ee5e3201019601593001dc45b</update_guid>
+        <update_guid_history>7b3c143ee5e3201019601593001dc45b:-856954202</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-19 18:08:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action_role">sys_ui_action_role</sys_db_object>
+        <sys_id>3ecd7b7a9b70488fa4f3d1b25ca109a1</sys_id>
+        <sys_metadata>211c103e2fe320106856578b2799b622</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Start chore.x_604375_family_ch.user</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_ui_action_role_211c103e2fe320106856578b2799b622</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_role_211c103e2fe320106856578b2799b622">333c143e2fe320106856578b2799b65c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-19 18:08:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
