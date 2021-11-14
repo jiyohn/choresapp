@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="day_s_required" label="Conducted on" language="en" table="x_604375_family_ch_chores">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>day_s_required</element>
+            <help/>
+            <hint/>
+            <label>Conducted on</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chores</name>
+            <plural>Conducted ons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-22 13:39:37</sys_created_on>
+            <sys_id>c1cbbaef2f6f60106856578b2799b628</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Conducted on</sys_name>
+            <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+            <sys_update_name>sys_documentation_x_604375_family_ch_chores_day_s_required_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-22 14:44:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

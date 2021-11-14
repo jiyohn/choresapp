@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-04-22 20:44:44">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_ Admin Home (Enterprise Edition)">7a26b3b5d7121100b9a5c7400e610372</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>nadine.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 18:19:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5aebce822fe360106856578b2799b634</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA System Administratio - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_portal_page_5aebce822fe360106856578b2799b634</sys_update_name>
+        <sys_updated_by>nadine.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 18:19:39</sys_updated_on>
+        <title>PA System Administratio - New Tab</title>
+        <user/>
+        <view>pa_system_administratio_-_new_tab</view>
+    </sys_portal_page>
+</record_update>

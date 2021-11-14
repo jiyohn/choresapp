@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-04-22 20:44:48">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_executive_dashboard">25426531c3123100eb79506adfba8f89</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9bcd4e062fe360106856578b2799b6bb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Family Chores - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_portal_page_9bcd4e062fe360106856578b2799b6bb</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+        <title>PA Family Chores - New Tab</title>
+        <user/>
+        <view>pa_family_chores_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Family Chores - New Tab">9bcd4e062fe360106856578b2799b6bb</page>
+                <summary/>
+                <sys_created_by>josh.yohn</sys_created_by>
+                <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                <sys_id>17cdce062fe360106856578b2799b6ac</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>josh.yohn</sys_updated_by>
+                <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">17cdce062fe360106856578b2799b6ac</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>1fcdce062fe360106856578b2799b6ac</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>d9bff50a2fa360106856578b2799b66e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">17cdce062fe360106856578b2799b6ac</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>93cdce062fe360106856578b2799b6ad</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>Family Chores</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">17cdce062fe360106856578b2799b6ac</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>d7cdce062fe360106856578b2799b6ac</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>c76e73752f2f20106856578b2799b652</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">17cdce062fe360106856578b2799b6ac</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>dfcdce062fe360106856578b2799b6ac</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderMenus</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Family Chores - New Tab">9bcd4e062fe360106856578b2799b6bb</page>
+                <summary/>
+                <sys_created_by>josh.yohn</sys_created_by>
+                <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                <sys_id>97cdce062fe360106856578b2799b6aa</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>josh.yohn</sys_updated_by>
+                <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>13cdce062fe360106856578b2799b6ac</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>1bcdce062fe360106856578b2799b6ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>Weekly Chore Points</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>1fcdce062fe360106856578b2799b6aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>57cdce062fe360106856578b2799b6ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>5bcdce062fe360106856578b2799b6aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>93cdce062fe360106856578b2799b6ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>dbcdce062fe360106856578b2799b6ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>874f350a2fa360106856578b2799b63a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">97cdce062fe360106856578b2799b6aa</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>dfcdce062fe360106856578b2799b6aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Family Chores - New Tab">9bcd4e062fe360106856578b2799b6bb</page>
+                <summary/>
+                <sys_created_by>josh.yohn</sys_created_by>
+                <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                <sys_id>d3cd4e062fe360106856578b2799b6c4</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>josh.yohn</sys_updated_by>
+                <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">d3cd4e062fe360106856578b2799b6c4</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>5bcd4e062fe360106856578b2799b6c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>Chore Assignments</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">d3cd4e062fe360106856578b2799b6c4</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>5fcdce062fe360106856578b2799b6a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>27b172712f2b20106856578b2799b6e5</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">d3cd4e062fe360106856578b2799b6c4</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>93cdce062fe360106856578b2799b6aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>d9bff50a2fa360106856578b2799b66e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-04-17 11:27:55">d3cd4e062fe360106856578b2799b6c4</portal_section>
+                        <sys_created_by>josh.yohn</sys_created_by>
+                        <sys_created_on>2021-04-17 18:27:55</sys_created_on>
+                        <sys_id>97cd4e062fe360106856578b2799b6c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>josh.yohn</sys_updated_by>
+                        <sys_updated_on>2021-04-17 18:27:55</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderMenus</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
