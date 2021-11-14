@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Chore Assignments (me)</name>
+        <query_condition table="x_604375_family_ch_chore_assignments">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 03:44:47</sys_created_on>
+        <sys_id>c870a2f22fab20106856578b2799b645</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chore Assignments (me)</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_data_item_c870a2f22fab20106856578b2799b645</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 03:44:47</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=c870a2f22fab20106856578b2799b645"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>3268e761dbd68050b847ac44d496191f</instance_id>
+        <instance_name>dev96744</instance_name>
+        <name>sys_sg_data_item_c870a2f22fab20106856578b2799b645</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><instance_relative_url_qc/><name>Chore Assignments (me)</name><query_condition table="x_604375_family_ch_chore_assignments">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-20 03:44:47</sys_created_on><sys_id>c870a2f22fab20106856578b2799b645</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Chore Assignments (me)</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_data_item_c870a2f22fab20106856578b2799b645</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-20 03:44:47</sys_updated_on><table>x_604375_family_ch_chore_assignments</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=c870a2f22fab20106856578b2799b645"/></record_update>]]></payload>
+        <payload_hash>-1617858220</payload_hash>
+        <record_name>Chore Assignments (me)</record_name>
+        <reverted_from/>
+        <source>a7f6aeb52fe720106856578b2799b6fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 03:44:47</sys_created_on>
+        <sys_id>c470a2f22fab20106856578b2799b649</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178ed6169470000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 03:44:47</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>0070a2f299ab2010a9ccc6512f306349</update_guid>
+        <update_guid_history>0070a2f299ab2010a9ccc6512f306349:-1617858220</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 16:16:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>035f817e23f241fcaa0553822a4fc2a4</sys_id>
+        <sys_metadata>c870a2f22fab20106856578b2799b645</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chore Assignments (me)</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_c870a2f22fab20106856578b2799b645</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_c870a2f22fab20106856578b2799b645">c470a2f22fab20106856578b2799b649</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 16:16:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

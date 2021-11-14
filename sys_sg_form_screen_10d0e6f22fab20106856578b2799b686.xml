@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="CHores Form Icon">90d0e6f22fab20106856578b2799b66a</icon>
+        <item_view/>
+        <name>CHores Form</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 03:46:26</sys_created_on>
+        <sys_id>10d0e6f22fab20106856578b2799b686</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CHores Form</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_form_screen_10d0e6f22fab20106856578b2799b686</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 03:46:26</sys_updated_on>
+        <table>x_604375_family_ch_chore_assignments</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="CHores Form View Config">1cd0e6f22fab20106856578b2799b667</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="DELETE" query="documentkey=10d0e6f22fab20106856578b2799b686"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>3268e761dbd68050b847ac44d496191f</instance_id>
+        <instance_name>dev96744</instance_name>
+        <name>sys_sg_form_screen_10d0e6f22fab20106856578b2799b686</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen"><sys_sg_form_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><data_item/><description/><dynamic_prefetch_count/><empty_state/><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="CHores Form Icon">90d0e6f22fab20106856578b2799b66a</icon><item_view/><name>CHores Form</name><override_context_with_data_item>false</override_context_with_data_item><roles_override/><segments_height>medium</segments_height><segments_min_width>medium</segments_min_width><sys_class_name>sys_sg_form_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-20 03:46:26</sys_created_on><sys_id>10d0e6f22fab20106856578b2799b686</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CHores Form</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_form_screen_10d0e6f22fab20106856578b2799b686</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-20 03:46:26</sys_updated_on><table>x_604375_family_ch_chore_assignments</table><use_view_config>true</use_view_config><view_config display_value="CHores Form View Config">1cd0e6f22fab20106856578b2799b667</view_config></sys_sg_form_screen><sys_translated_text action="delete_multiple" query="documentkey=10d0e6f22fab20106856578b2799b686"/></record_update>]]></payload>
+        <payload_hash>287086612</payload_hash>
+        <record_name>CHores Form</record_name>
+        <reverted_from/>
+        <source>a7f6aeb52fe720106856578b2799b6fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 03:46:26</sys_created_on>
+        <sys_id>54d0e6f22fab20106856578b2799b689</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178ed62ece50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 03:46:26</sys_updated_on>
+        <type>Form Screen</type>
+        <update_guid>9cd0e6f2d4ab20103400d36568791f88</update_guid>
+        <update_guid_history>9cd0e6f2d4ab20103400d36568791f88:287086612</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 16:14:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_screen">sys_sg_form_screen</sys_db_object>
+        <sys_id>0d6fc266244f455c87026c91b08c7784</sys_id>
+        <sys_metadata>10d0e6f22fab20106856578b2799b686</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CHores Form</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_form_screen_10d0e6f22fab20106856578b2799b686</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_screen_10d0e6f22fab20106856578b2799b686">54d0e6f22fab20106856578b2799b689</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 16:14:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

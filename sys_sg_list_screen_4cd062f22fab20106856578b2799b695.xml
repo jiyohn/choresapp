@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">48d062f22fab20106856578b2799b691</icon>
+        <name>CHores</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 03:46:25</sys_created_on>
+        <sys_id>4cd062f22fab20106856578b2799b695</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CHores</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_list_screen_4cd062f22fab20106856578b2799b695</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 03:46:25</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=4cd062f22fab20106856578b2799b695"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>3268e761dbd68050b847ac44d496191f</instance_id>
+        <instance_name>dev96744</instance_name>
+        <name>sys_sg_list_screen_4cd062f22fab20106856578b2799b695</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><empty_state/><fetch_type>on_demand</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Address-Book">48d062f22fab20106856578b2799b691</icon><name>CHores</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-20 03:46:25</sys_created_on><sys_id>4cd062f22fab20106856578b2799b695</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CHores</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_list_screen_4cd062f22fab20106856578b2799b695</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-20 03:46:25</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=4cd062f22fab20106856578b2799b695"/></record_update>]]></payload>
+        <payload_hash>1555369644</payload_hash>
+        <record_name>CHores</record_name>
+        <reverted_from/>
+        <source>a7f6aeb52fe720106856578b2799b6fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 03:46:26</sys_created_on>
+        <sys_id>c8d0e6f22fab20106856578b2799b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178ed62ea610000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 03:46:26</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>04d0e6f2b9ab201026bd0bc1721d7060</update_guid>
+        <update_guid_history>04d0e6f2b9ab201026bd0bc1721d7060:1555369644</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 04:46:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>9544c935e49846349b40da99dd9f4f04</sys_id>
+        <sys_metadata>4cd062f22fab20106856578b2799b695</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CHores</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_4cd062f22fab20106856578b2799b695</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_4cd062f22fab20106856578b2799b695">c8d0e6f22fab20106856578b2799b660</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 04:46:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

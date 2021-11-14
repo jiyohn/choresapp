@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <header_button display_value=" Launcher Button Instance">77db1afe2f6b20106856578b2799b605</header_button>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Chores App</name>
+        <required_roles>admin,x_604375_family_ch.admin,x_604375_family_ch.chore_assignments_user,x_604375_family_ch.chore_points_user,x_604375_family_ch.chores_user,x_604375_family_ch.read-only,x_604375_family_ch.user</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 03:24:49</sys_created_on>
+        <sys_id>afdbd6fe2f6b20106856578b2799b6f8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Chores App</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_afdbd6fe2f6b20106856578b2799b6f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 03:36:16</sys_updated_on>
+        <title>Chores App</title>
+    </sys_sg_applet_launcher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>3268e761dbd68050b847ac44d496191f</instance_id>
+        <instance_name>dev96744</instance_name>
+        <name>sys_sg_applet_launcher_afdbd6fe2f6b20106856578b2799b6f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher"><sys_sg_applet_launcher action="INSERT_OR_UPDATE"><active>true</active><available_offline>true</available_offline><header_button display_value=" Launcher Button Instance">77db1afe2f6b20106856578b2799b605</header_button><header_titles/><hide_empty_sections>true</hide_empty_sections><name>Chores App</name><required_roles>admin,x_604375_family_ch.admin,x_604375_family_ch.chore_assignments_user,x_604375_family_ch.chore_points_user,x_604375_family_ch.chores_user,x_604375_family_ch.read-only,x_604375_family_ch.user</required_roles><search_config/><sys_class_name>sys_sg_applet_launcher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-20 03:24:49</sys_created_on><sys_id>afdbd6fe2f6b20106856578b2799b6f8</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Chores App</sys_name><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_sg_applet_launcher_afdbd6fe2f6b20106856578b2799b6f8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-20 03:36:16</sys_updated_on><title>Chores App</title></sys_sg_applet_launcher></record_update>]]></payload>
+        <payload_hash>-371547734</payload_hash>
+        <record_name>Chores App</record_name>
+        <reverted_from/>
+        <source>c1d181836d6620100acb70b3534330af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 03:36:16</sys_created_on>
+        <sys_id>5b7e52722fab20106856578b2799b6b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178ed599e2a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 03:36:16</sys_updated_on>
+        <type>Applet Launcher</type>
+        <update_guid>537e527220ab2010bf7e09bea0c358b7</update_guid>
+        <update_guid_history>537e527220ab2010bf7e09bea0c358b7:-371547734,cf6e1a72beab20107c194d2a6da6f89f:-636795916,b3db1afe936b2010f1738ce207bf790c:1626047980,f3dbd6feb96b2010dd3f61ade4c133fb:444942233</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 04:29:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>05b2c6958c0e4a78876f4da61c14a629</sys_id>
+        <sys_metadata>afdbd6fe2f6b20106856578b2799b6f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chores App</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_afdbd6fe2f6b20106856578b2799b6f8</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_afdbd6fe2f6b20106856578b2799b6f8">5b7e52722fab20106856578b2799b6b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 04:29:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
