@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Family Chores">dfcd4e062fe360106856578b2799b6ba</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>c6fdb4a52f6760106856578b2799b6b7</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 18:28:36</sys_created_on>
+        <sys_id>d9fd42462fe360106856578b2799b6cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c6fdb4a52f6760106856578b2799b6b7</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_d9fd42462fe360106856578b2799b6cd</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 18:28:36</sys_updated_on>
+        <type>3</type>
+        <user display_value="Mason Yohn">c6fdb4a52f6760106856578b2799b6b7</user>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

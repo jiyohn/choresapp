@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="My System Administration">4dcfbd0a2fa360106856578b2799b655</dashboard>
+        <home>false</home>
+        <homepage display_value="Family Chores">d9bff50a2fa360106856578b2799b66e</homepage>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 17:26:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>05cf314a2fa360106856578b2799b64f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>4dcfbd0a2fa360106856578b2799b655</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_05cf314a2fa360106856578b2799b64f</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 17:26:38</sys_updated_on>
+        <tab display_value="My System Administra - New Tab">85cf314a2fa360106856578b2799b64c</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>
