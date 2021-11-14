@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="day_s_required" table="x_604375_family_ch_chores" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>day_s_required</element>
+            <name>x_604375_family_ch_chores</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-22 13:40:48</sys_created_on>
+            <sys_id>560cfaef2f6f60106856578b2799b6f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>day_s_required</sys_name>
+            <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+            <sys_update_name>sys_choice_x_604375_family_ch_chores_day_s_required</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-22 13:40:48</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>day_s_required</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Monday</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chores</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-22 13:41:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e1cfaef2f6f60106856578b2799b6f3</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-22 16:04:26</sys_updated_on>
+            <value>1 - Monday</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>day_s_required</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - Tuesday</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chores</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-22 13:41:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed3cfeef2f6f60106856578b2799b61b</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-22 16:04:35</sys_updated_on>
+            <value>2 - Tuesday</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>day_s_required</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Wednesday</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chores</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-22 13:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>733cfaef2f6f60106856578b2799b621</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-22 16:04:47</sys_updated_on>
+            <value>3 - Wednesday</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>day_s_required</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Thursday</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chores</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-22 13:42:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e4c32232faf60106856578b2799b6da</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-22 16:05:04</sys_updated_on>
+            <value>4 - Thursday</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>day_s_required</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 - Friday</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chores</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-22 13:42:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d95c32232faf60106856578b2799b6db</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-22 16:05:14</sys_updated_on>
+            <value>5 - Friday</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>day_s_required</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6 - Saturday</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chores</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-22 13:42:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>935c72232faf60106856578b2799b63e</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-22 16:05:24</sys_updated_on>
+            <value>6 - Saturday</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>day_s_required</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7 - Sunday</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chores</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-22 14:33:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a18832b2faf60106856578b2799b66c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-22 16:05:35</sys_updated_on>
+            <value>7 - Sunday</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="DELETE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions/>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_604375_family_ch_chore_assignments</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description>Read-only fields when NOT admin</short_description>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 14:47:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ca4b114a2f2360106856578b2799b6bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Read-only fields when NOT admin</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_update_name>sys_data_policy2_ca4b114a2f2360106856578b2799b6bd</sys_update_name>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 14:47:12</sys_updated_on>
+    </sys_data_policy2>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</application>
+        <file_path/>
+        <instance_id>3268e761dbd68050b847ac44d496191f</instance_id>
+        <instance_name>dev96744</instance_name>
+        <name>sys_data_policy2_ca4b114a2f2360106856578b2799b6bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2"><sys_data_policy2 action="INSERT_OR_UPDATE"><active>true</active><apply_import_set>true</apply_import_set><apply_soap>true</apply_soap><conditions/><description/><enforce_ui>true</enforce_ui><inherit>false</inherit><model_id/><model_table>x_604375_family_ch_chore_assignments</model_table><reverse_if_false>true</reverse_if_false><short_description>Read-only fields when NOT admin</short_description><sys_class_name>sys_data_policy2</sys_class_name><sys_created_by>josh.yohn</sys_created_by><sys_created_on>2021-04-17 14:47:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ca4b114a2f2360106856578b2799b6bd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Read-only fields when NOT admin</sys_name><sys_overrides/><sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package><sys_policy/><sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope><sys_update_name>sys_data_policy2_ca4b114a2f2360106856578b2799b6bd</sys_update_name><sys_updated_by>josh.yohn</sys_updated_by><sys_updated_on>2021-04-17 14:47:12</sys_updated_on></sys_data_policy2></record_update>]]></payload>
+        <payload_hash>-433971061</payload_hash>
+        <record_name>Read-only fields when NOT admin</record_name>
+        <reverted_from/>
+        <source>a7f6aeb52fe720106856578b2799b6fa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 14:47:12</sys_created_on>
+        <sys_id>524b554a2f2360106856578b2799b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178e04ccb300000001</sys_recorded_at>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 14:47:12</sys_updated_on>
+        <type>Data Policy</type>
+        <update_guid>4a4b554aa7236010ed7817ccfeeac05e</update_guid>
+        <update_guid_history>4a4b554aa7236010ed7817ccfeeac05e:-433971061</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>josh.yohn</sys_created_by>
+        <sys_created_on>2021-04-17 14:48:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy2">sys_data_policy2</sys_db_object>
+        <sys_id>0962e86701aa4860839f92227c5f3664</sys_id>
+        <sys_metadata>ca4b114a2f2360106856578b2799b6bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Read-only fields when NOT admin</sys_name>
+        <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+        <sys_parent display_value="Chore Assignments">d1a132712f2b20106856578b2799b68f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+        <sys_scope_delete display_value="">2524f18d10034ea8adc4d0335a9a2640</sys_scope_delete>
+        <sys_update_name>sys_data_policy2_ca4b114a2f2360106856578b2799b6bd</sys_update_name>
+        <sys_update_version display_value="sys_data_policy2_ca4b114a2f2360106856578b2799b6bd">524b554a2f2360106856578b2799b65f</sys_update_version>
+        <sys_updated_by>josh.yohn</sys_updated_by>
+        <sys_updated_on>2021-04-17 14:48:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

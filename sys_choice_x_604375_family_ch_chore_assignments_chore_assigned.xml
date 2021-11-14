@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="chore_assigned" table="x_604375_family_ch_chore_assignments" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>chore_assigned</element>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>josh.yohn</sys_created_by>
+            <sys_created_on>2021-04-17 08:28:22</sys_created_on>
+            <sys_id>3c94884a2f2f20106856578b2799b69a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>chore_assigned</sys_name>
+            <sys_package display_value="Family Chores" source="x_604375_family_ch">6ff6aeb52fe720106856578b2799b6f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Family Chores">6ff6aeb52fe720106856578b2799b6f7</sys_scope>
+            <sys_update_name>sys_choice_x_604375_family_ch_chore_assignments_chore_assigned</sys_update_name>
+            <sys_updated_by>josh.yohn</sys_updated_by>
+            <sys_updated_on>2021-04-17 08:28:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Clean bathrooms (Sat)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d58c07e2fa320106856578b2799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Clean bathrooms (Sat)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Clean garage (Sat)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4558c07e2fa320106856578b2799b671</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Clean garage (Sat)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Clean refrigerator/freezer (Sat)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8558c07e2fa320106856578b2799b672</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Clean refrigerator/freezer (Sat)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Clean room (Mon, Wed, Sat)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c558c07e2fa320106856578b2799b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Clean room (Mon, Wed, Sat)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Clean up dog dirt (Mon, Wed, Sat</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0958c07e2fa320106856578b2799b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Clean up dog dirt (Mon, Wed, Sat</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Clean up toys - Inside (Daily)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4958c07e2fa320106856578b2799b675</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Clean up toys - Inside (Daily)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Clean up toys - Outside (Daily)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8958c07e2fa320106856578b2799b676</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Clean up toys - Outside (Daily)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dust (Wed, Sat)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8158047e2fa320106856578b2799b64b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Dust (Wed, Sat)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Empty Dishwasher (Daily)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c158047e2fa320106856578b2799b64c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Empty Dishwasher (Daily)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mow/trim grass (Sat)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0558047e2fa320106856578b2799b64d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Mow/trim grass (Sat)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Prep laundry for washing (Tues, </label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4558047e2fa320106856578b2799b64e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Prep laundry for washing (Tues, </value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Put clothes away (Daily)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8558047e2fa320106856578b2799b64f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Put clothes away (Daily)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Put dishes away (Daily)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c558047e2fa320106856578b2799b650</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Put dishes away (Daily)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stack dishwasher (Daily)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0958047e2fa320106856578b2799b651</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Stack dishwasher (Daily)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Start laundry/dryer (Mon, Wed, S</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4958047e2fa320106856578b2799b652</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Start laundry/dryer (Mon, Wed, S</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Take out trash (Daily)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8958047e2fa320106856578b2799b653</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Take out trash (Daily)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vacuum (Wed, Sat)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c958047e2fa320106856578b2799b654</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Vacuum (Wed, Sat)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_assigned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wash vehicles (Sat)</label>
+            <language>en</language>
+            <name>x_604375_family_ch_chore_assignments</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-19 16:40:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d58047e2fa320106856578b2799b655</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-19 16:40:12</sys_updated_on>
+            <value>Wash vehicles (Sat)</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
